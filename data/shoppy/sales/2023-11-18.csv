@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2124,2023-11-18 18:04:27,usb-charger,1270,Iași,1,11.61,11.61
+2125,2023-11-18 18:58:59,garden-hose,747,Timișoara,1,18.99,18.99
+2126,2023-11-18 21:05:20,garden-hose,113,București,2,18.99,37.98
+2127,2023-11-18 21:52:09,garden-hose,796,Constanța,2,18.99,37.98

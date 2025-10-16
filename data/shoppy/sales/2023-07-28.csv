@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1432,2023-07-28 18:51:40,beach-ball,1200,Constanța,1,4.37,4.37
+1433,2023-07-28 15:51:06,beach-ball,900,Constanța,1,4.37,4.37
+1434,2023-07-28 15:50:40,notebook-a5,1239,Constanța,1,3.30,3.30
+1435,2023-07-28 15:24:43,beach-ball,236,Timișoara,1,4.37,4.37
+1436,2023-07-28 12:18:16,notebook-a5,327,Constanța,1,3.30,3.30
+1437,2023-07-28 15:36:34,beach-ball,977,Cluj-Napoca,2,4.37,8.74
+1438,2023-07-28 18:09:11,doll-classic,592,Timișoara,1,15.90,15.90
+1439,2023-07-28 12:30:02,headphones,1039,Brașov,1,21.47,21.47

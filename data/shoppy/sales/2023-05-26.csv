@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1003,2023-05-26 09:47:02,doll-classic,1397,Iași,1,15.90,15.90
+1004,2023-05-26 21:55:24,winter-gloves,145,Timișoara,2,14.90,29.80
+1005,2023-05-26 21:34:07,garden-hose,1466,Brașov,3,15.21,45.63
+1006,2023-05-26 15:01:28,garden-hose,985,Timișoara,1,15.21,15.21
+1007,2023-05-26 18:53:52,notebook-a5,1486,Timișoara,1,2.99,2.99
+1008,2023-05-26 18:32:40,garden-hose,1331,Constanța,1,15.21,15.21
+1009,2023-05-26 12:54:16,usb-charger,1188,Brașov,1,11.61,11.61

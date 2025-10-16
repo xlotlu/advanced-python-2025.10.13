@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+226,2023-02-08 09:32:25,usb-charger,262,Iași,1,11.61,11.61
+227,2023-02-08 21:03:00,notebook-a5,1441,Brașov,1,2.99,2.99
+228,2023-02-08 12:18:55,paperback-novel,64,Brașov,3,8.90,26.70
+229,2023-02-08 15:20:45,board-game,784,Iași,1,19.90,19.90
+230,2023-02-08 12:11:30,usb-charger,285,Cluj-Napoca,1,11.61,11.61
+231,2023-02-08 21:53:26,board-game,316,București,1,19.90,19.90
+232,2023-02-08 12:00:04,doll-classic,1328,Timișoara,2,15.90,31.80

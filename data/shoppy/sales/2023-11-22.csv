@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2153,2023-11-22 09:53:50,beach-ball,1080,București,1,4.37,4.37
+2154,2023-11-22 15:55:25,swim-goggles,267,Timișoara,2,9.90,19.80
+2155,2023-11-22 09:11:11,headphones,1318,Timișoara,1,21.47,21.47
+2156,2023-11-22 18:53:29,beach-ball,760,București,1,4.37,4.37
+2157,2023-11-22 15:31:06,winter-gloves,867,București,1,17.06,17.06
+2158,2023-11-22 12:56:34,swim-goggles,762,Timișoara,1,9.90,9.90

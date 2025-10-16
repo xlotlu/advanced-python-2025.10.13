@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3164,2024-03-18 12:21:37,beach-ball,1336,Timișoara,2,4.37,8.74
+3165,2024-03-18 15:21:40,scented-candle,1305,Iași,1,6.60,6.60
+3166,2024-03-18 09:51:38,winter-gloves,1442,Timișoara,1,17.06,17.06
+3167,2024-03-18 15:54:20,garden-hose,923,Constanța,3,18.99,56.97
+3168,2024-03-18 18:21:26,headphones,1364,Iași,1,21.47,21.47
+3169,2024-03-18 15:33:19,scented-candle,447,București,1,6.60,6.60
+3170,2024-03-18 15:44:13,scented-candle,117,Brașov,1,6.60,6.60

@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+145,2023-01-27 21:13:54,notebook-a5,645,Iași,1,2.99,2.99
+146,2023-01-27 18:17:58,beach-ball,1134,Brașov,2,3.99,7.98
+147,2023-01-27 15:06:02,paperback-novel,943,Brașov,1,8.90,8.90
+148,2023-01-27 15:37:15,usb-charger,478,Timișoara,1,12.90,12.90
+149,2023-01-27 15:36:58,board-game,446,Iași,1,19.90,19.90
+150,2023-01-27 18:11:31,garden-hose,1413,Constanța,1,16.90,16.90
+151,2023-01-27 09:41:19,winter-gloves,77,București,2,14.90,29.80

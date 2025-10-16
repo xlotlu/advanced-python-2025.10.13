@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4514,2024-08-03 18:34:51,headphones,903,Timișoara,1,21.47,21.47
+4515,2024-08-03 09:57:35,doll-classic,1190,Cluj-Napoca,1,16.72,16.72
+4516,2024-08-03 15:08:20,paperback-novel,909,Constanța,2,8.90,17.80
+4517,2024-08-03 12:02:44,usb-charger,964,Constanța,1,13.68,13.68
+4518,2024-08-03 09:32:07,paperback-novel,350,Cluj-Napoca,1,8.90,8.90
+4519,2024-08-03 18:22:11,paperback-novel,1396,Iași,1,8.90,8.90
+4520,2024-08-03 18:23:36,paperback-novel,676,Brașov,1,8.90,8.90
+4521,2024-08-03 12:01:28,paperback-novel,145,Timișoara,1,8.90,8.90
+4522,2024-08-03 15:43:17,garden-hose,986,Cluj-Napoca,1,18.03,18.03
+4523,2024-08-03 18:46:42,scented-candle,794,Brașov,1,6.42,6.42
+4524,2024-08-03 18:06:40,notebook-a5,82,Cluj-Napoca,2,3.44,6.88

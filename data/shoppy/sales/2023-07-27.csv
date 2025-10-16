@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1427,2023-07-27 12:33:11,paperback-novel,1104,Iași,1,8.90,8.90
+1428,2023-07-27 12:03:32,notebook-a5,1243,Constanța,1,3.30,3.30
+1429,2023-07-27 15:05:21,headphones,1076,București,1,21.47,21.47
+1430,2023-07-27 12:08:52,headphones,366,Timișoara,1,21.47,21.47
+1431,2023-07-27 18:08:51,beach-ball,452,Timișoara,1,4.37,4.37

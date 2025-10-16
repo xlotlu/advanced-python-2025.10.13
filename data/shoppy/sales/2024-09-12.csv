@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4833,2024-09-12 15:36:33,beach-ball,327,Constanța,3,4.50,13.50
+4834,2024-09-12 15:16:45,swim-goggles,882,Brașov,1,10.82,10.82
+4835,2024-09-12 12:12:26,paperback-novel,13,Timișoara,1,8.90,8.90
+4836,2024-09-12 09:27:00,usb-charger,343,Timișoara,1,13.68,13.68
+4837,2024-09-12 12:58:12,swim-goggles,1354,Iași,1,10.82,10.82
+4838,2024-09-12 18:28:26,paperback-novel,382,Timișoara,1,8.90,8.90

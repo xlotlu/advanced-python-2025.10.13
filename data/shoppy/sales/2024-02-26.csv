@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2955,2024-02-26 15:57:52,beach-ball,833,Iași,1,4.37,4.37
+2956,2024-02-26 15:11:56,board-game,910,Iași,1,21.96,21.96
+2957,2024-02-26 09:28:48,swim-goggles,489,Iași,1,9.90,9.90
+2958,2024-02-26 15:26:11,scented-candle,384,Timișoara,1,6.60,6.60
+2959,2024-02-26 15:57:41,winter-gloves,344,București,1,17.06,17.06
+2960,2024-02-26 12:49:15,doll-classic,107,Timișoara,1,15.90,15.90
+2961,2024-02-26 15:14:16,garden-hose,574,Constanța,1,18.99,18.99
+2962,2024-02-26 18:56:01,usb-charger,774,Iași,1,11.61,11.61

@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4303,2024-07-10 15:26:48,usb-charger,175,Cluj-Napoca,1,13.68,13.68
+4304,2024-07-10 21:21:35,usb-charger,1229,București,1,13.68,13.68
+4305,2024-07-10 15:56:08,board-game,1415,București,1,21.96,21.96
+4306,2024-07-10 18:55:57,headphones,896,Constanța,1,21.47,21.47
+4307,2024-07-10 12:09:35,board-game,1462,Timișoara,1,21.96,21.96
+4308,2024-07-10 18:22:09,board-game,1113,Timișoara,2,21.96,43.92
+4309,2024-07-10 15:23:46,notebook-a5,398,Constanța,1,3.44,3.44
+4310,2024-07-10 15:19:31,doll-classic,321,Cluj-Napoca,2,16.72,33.44
+4311,2024-07-10 21:31:17,usb-charger,845,Timișoara,1,13.68,13.68
+4312,2024-07-10 09:43:09,doll-classic,1065,Timișoara,1,16.72,16.72
+4313,2024-07-10 21:07:35,board-game,724,Constanța,1,21.96,21.96

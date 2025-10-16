@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2164,2023-11-24 12:46:39,swim-goggles,1127,Timișoara,1,9.90,9.90
+2165,2023-11-24 12:38:14,board-game,261,Cluj-Napoca,1,21.96,21.96
+2166,2023-11-24 18:11:34,headphones,179,București,1,21.47,21.47
+2167,2023-11-24 18:14:22,swim-goggles,1336,Timișoara,1,9.90,9.90

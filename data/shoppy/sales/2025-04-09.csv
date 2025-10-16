@@ -1,0 +1,16 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+7121,2025-04-09 09:05:37,beach-ball,1205,Brașov,1,4.50,4.50
+7122,2025-04-09 15:16:21,doll-classic,31,Brașov,1,16.72,16.72
+7123,2025-04-09 15:03:27,notebook-a5,548,Constanța,3,3.44,10.32
+7124,2025-04-09 18:44:30,scented-candle,1352,Timișoara,6,6.42,38.52
+7125,2025-04-09 18:14:51,scented-candle,590,Brașov,1,6.42,6.42
+7126,2025-04-09 12:54:21,scented-candle,1282,București,1,6.42,6.42
+7127,2025-04-09 12:01:50,doll-classic,282,Cluj-Napoca,2,16.72,33.44
+7128,2025-04-09 18:11:03,scented-candle,233,Iași,1,6.42,6.42
+7129,2025-04-09 12:01:57,usb-charger,1053,Iași,1,13.68,13.68
+7130,2025-04-09 15:12:07,scented-candle,153,Cluj-Napoca,2,6.42,12.84
+7131,2025-04-09 12:43:53,winter-gloves,253,Constanța,1,17.06,17.06
+7132,2025-04-09 21:55:13,usb-charger,539,Constanța,1,13.68,13.68
+7133,2025-04-09 18:35:36,doll-classic,866,Cluj-Napoca,1,16.72,16.72
+7134,2025-04-09 15:04:57,beach-ball,445,Brașov,1,4.50,4.50
+7135,2025-04-09 15:51:29,headphones,25,Brașov,3,21.47,64.41

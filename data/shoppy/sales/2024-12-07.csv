@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5506,2024-12-07 09:05:31,beach-ball,1367,București,1,4.50,4.50
+5507,2024-12-07 12:04:07,board-game,163,București,1,21.96,21.96
+5508,2024-12-07 12:27:54,board-game,53,Iași,1,21.96,21.96
+5509,2024-12-07 09:55:03,paperback-novel,645,Iași,1,10.15,10.15
+5510,2024-12-07 21:20:38,winter-gloves,798,Iași,1,17.06,17.06
+5511,2024-12-07 18:57:41,winter-gloves,552,Timișoara,1,17.06,17.06
+5512,2024-12-07 15:31:23,beach-ball,1065,Timișoara,2,4.50,9.00

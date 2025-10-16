@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1956,2023-10-23 15:25:25,beach-ball,594,Cluj-Napoca,1,4.37,4.37
+1957,2023-10-23 09:34:11,paperback-novel,555,Brașov,2,8.90,17.80
+1958,2023-10-23 15:49:14,headphones,2,Cluj-Napoca,1,21.47,21.47
+1959,2023-10-23 15:55:42,paperback-novel,85,București,1,8.90,8.90
+1960,2023-10-23 18:35:15,swim-goggles,1268,București,1,9.90,9.90
+1961,2023-10-23 18:47:06,paperback-novel,1134,Brașov,1,8.90,8.90

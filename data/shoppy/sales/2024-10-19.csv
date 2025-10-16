@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5105,2024-10-19 12:03:40,winter-gloves,291,Timișoara,1,17.06,17.06
+5106,2024-10-19 12:30:09,garden-hose,346,Iași,15,18.03,270.45
+5107,2024-10-19 21:59:23,swim-goggles,486,Cluj-Napoca,2,10.82,21.64
+5108,2024-10-19 09:07:14,beach-ball,1256,Brașov,1,4.50,4.50
+5109,2024-10-19 18:58:38,beach-ball,277,Iași,1,4.50,4.50
+5110,2024-10-19 12:17:03,headphones,1038,Brașov,2,21.47,42.94

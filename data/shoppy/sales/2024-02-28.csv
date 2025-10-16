@@ -1,0 +1,16 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2974,2024-02-28 12:29:20,notebook-a5,1332,Timișoara,1,3.30,3.30
+2975,2024-02-28 15:25:43,winter-gloves,1394,București,1,17.06,17.06
+2976,2024-02-28 12:03:14,paperback-novel,1478,Iași,1,8.90,8.90
+2977,2024-02-28 21:21:18,usb-charger,1112,București,1,11.61,11.61
+2978,2024-02-28 12:36:23,scented-candle,1040,Iași,2,6.60,13.20
+2979,2024-02-28 12:35:13,scented-candle,815,Constanța,1,6.60,6.60
+2980,2024-02-28 15:50:05,paperback-novel,532,Brașov,1,8.90,8.90
+2981,2024-02-28 12:08:25,doll-classic,995,Iași,3,15.90,47.70
+2982,2024-02-28 15:32:45,swim-goggles,205,Brașov,1,9.90,9.90
+2983,2024-02-28 09:02:46,winter-gloves,219,Iași,1,17.06,17.06
+2984,2024-02-28 21:30:42,paperback-novel,271,Iași,1,8.90,8.90
+2985,2024-02-28 09:08:02,beach-ball,245,Constanța,1,4.37,4.37
+2986,2024-02-28 18:22:08,garden-hose,488,Brașov,1,18.99,18.99
+2987,2024-02-28 15:53:00,board-game,551,Cluj-Napoca,1,21.96,21.96
+2988,2024-02-28 18:37:21,paperback-novel,1036,București,2,8.90,17.80

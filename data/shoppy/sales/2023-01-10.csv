@@ -1,0 +1,4 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+45,2023-01-10 12:00:36,paperback-novel,1222,Timișoara,1,8.90,8.90
+46,2023-01-10 09:13:47,usb-charger,1487,Constanța,1,12.90,12.90
+47,2023-01-10 15:32:09,usb-charger,330,Cluj-Napoca,1,12.90,12.90

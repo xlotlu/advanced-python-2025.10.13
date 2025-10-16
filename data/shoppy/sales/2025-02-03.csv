@@ -1,0 +1,18 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+6167,2025-02-03 12:13:05,paperback-novel,765,București,1,10.15,10.15
+6168,2025-02-03 18:34:54,board-game,943,Brașov,1,21.96,21.96
+6169,2025-02-03 21:44:53,winter-gloves,1298,Constanța,1,17.06,17.06
+6170,2025-02-03 21:58:44,beach-ball,58,Timișoara,1,4.50,4.50
+6171,2025-02-03 18:42:31,paperback-novel,185,Brașov,1,10.15,10.15
+6172,2025-02-03 12:42:39,garden-hose,1103,Constanța,1,18.03,18.03
+6173,2025-02-03 12:18:24,board-game,1122,Brașov,1,21.96,21.96
+6174,2025-02-03 15:24:08,swim-goggles,1225,Brașov,2,10.82,21.64
+6175,2025-02-03 15:41:18,headphones,1319,București,1,21.47,21.47
+6176,2025-02-03 21:40:41,notebook-a5,900,Constanța,3,3.44,10.32
+6177,2025-02-03 18:13:57,notebook-a5,285,Cluj-Napoca,1,3.44,3.44
+6178,2025-02-03 21:12:28,scented-candle,1140,Timișoara,1,6.42,6.42
+6179,2025-02-03 18:10:21,winter-gloves,515,Timișoara,1,17.06,17.06
+6180,2025-02-03 12:33:49,swim-goggles,994,București,1,10.82,10.82
+6181,2025-02-03 15:39:00,scented-candle,569,Brașov,1,6.42,6.42
+6182,2025-02-03 09:27:19,doll-classic,440,Timișoara,1,16.72,16.72
+6183,2025-02-03 12:37:19,doll-classic,1368,Constanța,1,16.72,16.72

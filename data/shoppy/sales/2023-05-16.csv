@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+931,2023-05-16 12:51:28,board-game,872,Iași,3,19.90,59.70
+932,2023-05-16 15:07:15,winter-gloves,1148,Cluj-Napoca,1,14.90,14.90
+933,2023-05-16 18:22:19,usb-charger,1070,Cluj-Napoca,1,11.61,11.61
+934,2023-05-16 15:13:10,doll-classic,1298,Constanța,1,15.90,15.90
+935,2023-05-16 18:35:28,notebook-a5,1004,București,1,2.99,2.99
+936,2023-05-16 12:57:27,winter-gloves,1336,Timișoara,1,14.90,14.90
+937,2023-05-16 15:29:49,doll-classic,1373,Brașov,1,15.90,15.90

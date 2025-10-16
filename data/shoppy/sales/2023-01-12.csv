@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+55,2023-01-12 15:05:25,notebook-a5,746,Timișoara,1,2.99,2.99
+56,2023-01-12 18:51:39,paperback-novel,1402,Cluj-Napoca,1,8.90,8.90
+57,2023-01-12 15:11:36,swim-goggles,1159,Iași,1,9.90,9.90
+58,2023-01-12 18:30:22,winter-gloves,83,Iași,3,14.90,44.70

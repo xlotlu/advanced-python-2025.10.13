@@ -1,0 +1,13 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5334,2024-11-18 18:39:56,beach-ball,1361,București,3,4.50,13.50
+5335,2024-11-18 21:26:37,headphones,997,Cluj-Napoca,1,21.47,21.47
+5336,2024-11-18 15:33:51,beach-ball,1470,Constanța,1,4.50,4.50
+5337,2024-11-18 18:07:23,paperback-novel,1012,Constanța,2,10.15,20.30
+5338,2024-11-18 12:03:58,paperback-novel,404,Timișoara,1,10.15,10.15
+5339,2024-11-18 15:59:33,headphones,821,Brașov,1,21.47,21.47
+5340,2024-11-18 12:25:55,beach-ball,365,Constanța,1,4.50,4.50
+5341,2024-11-18 18:34:46,garden-hose,585,Cluj-Napoca,1,18.03,18.03
+5342,2024-11-18 21:28:04,garden-hose,576,Constanța,1,18.03,18.03
+5343,2024-11-18 12:01:33,headphones,1373,Brașov,1,21.47,21.47
+5344,2024-11-18 15:04:04,beach-ball,1020,Cluj-Napoca,1,4.50,4.50
+5345,2024-11-18 12:03:09,paperback-novel,999,Constanța,1,10.15,10.15

@@ -1,0 +1,16 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+7960,2025-06-08 12:17:29,beach-ball,20,Brașov,1,4.50,4.50
+7961,2025-06-08 21:18:32,doll-classic,648,București,1,16.72,16.72
+7962,2025-06-08 15:08:18,swim-goggles,689,București,1,10.82,10.82
+7963,2025-06-08 12:03:54,beach-ball,46,Brașov,1,4.50,4.50
+7964,2025-06-08 18:43:52,headphones,907,Brașov,2,21.47,42.94
+7965,2025-06-08 15:10:24,doll-classic,1242,Cluj-Napoca,1,16.72,16.72
+7966,2025-06-08 12:06:01,doll-classic,258,Timișoara,1,16.72,16.72
+7967,2025-06-08 21:01:36,paperback-novel,1003,Iași,1,10.15,10.15
+7968,2025-06-08 15:40:22,usb-charger,1010,București,1,13.68,13.68
+7969,2025-06-08 21:30:56,board-game,1068,Brașov,1,21.96,21.96
+7970,2025-06-08 15:38:11,garden-hose,937,Cluj-Napoca,1,18.03,18.03
+7971,2025-06-08 12:35:13,paperback-novel,357,Cluj-Napoca,1,10.15,10.15
+7972,2025-06-08 15:09:25,paperback-novel,1030,Timișoara,1,10.15,10.15
+7973,2025-06-08 15:06:29,paperback-novel,979,București,1,10.15,10.15
+7974,2025-06-08 12:14:41,doll-classic,156,Timișoara,1,16.72,16.72

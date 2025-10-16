@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5637,2024-12-19 18:07:26,winter-gloves,610,Cluj-Napoca,1,17.06,17.06
+5638,2024-12-19 21:53:20,garden-hose,1307,Timișoara,1,18.03,18.03
+5639,2024-12-19 12:26:22,headphones,959,Brașov,1,21.47,21.47
+5640,2024-12-19 12:52:57,headphones,1297,Timișoara,2,21.47,42.94
+5641,2024-12-19 12:29:32,headphones,1192,Brașov,1,21.47,21.47
+5642,2024-12-19 15:54:29,swim-goggles,441,București,2,10.82,21.64
+5643,2024-12-19 12:29:49,swim-goggles,774,Iași,1,10.82,10.82

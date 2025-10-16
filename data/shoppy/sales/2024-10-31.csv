@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5194,2024-10-31 21:50:02,doll-classic,572,Cluj-Napoca,3,16.72,50.16
+5195,2024-10-31 15:12:47,swim-goggles,216,București,1,10.82,10.82
+5196,2024-10-31 15:42:55,swim-goggles,271,Iași,1,10.82,10.82
+5197,2024-10-31 09:34:15,notebook-a5,1145,Iași,1,3.44,3.44
+5198,2024-10-31 21:03:13,usb-charger,870,Constanța,2,13.68,27.36

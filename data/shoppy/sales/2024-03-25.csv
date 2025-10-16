@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3238,2024-03-25 21:33:29,winter-gloves,964,Constanța,1,17.06,17.06
+3239,2024-03-25 15:56:28,doll-classic,604,Constanța,1,15.90,15.90
+3240,2024-03-25 09:58:39,scented-candle,279,Timișoara,1,6.60,6.60
+3241,2024-03-25 18:13:26,winter-gloves,7,București,1,17.06,17.06
+3242,2024-03-25 15:44:29,winter-gloves,682,Iași,3,17.06,51.18
+3243,2024-03-25 18:13:16,winter-gloves,772,Constanța,1,17.06,17.06
+3244,2024-03-25 09:09:53,scented-candle,571,Constanța,1,6.60,6.60
+3245,2024-03-25 18:30:38,garden-hose,497,Brașov,1,18.99,18.99

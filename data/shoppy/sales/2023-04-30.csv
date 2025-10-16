@@ -1,0 +1,13 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+812,2023-04-30 12:25:30,usb-charger,377,Constanța,1,11.61,11.61
+813,2023-04-30 15:52:39,notebook-a5,1396,Iași,2,2.99,5.98
+814,2023-04-30 12:09:40,usb-charger,45,Brașov,1,11.61,11.61
+815,2023-04-30 18:10:32,board-game,1433,Timișoara,2,19.90,39.80
+816,2023-04-30 12:42:06,headphones,1206,București,1,19.90,19.90
+817,2023-04-30 15:44:51,headphones,220,Brașov,1,19.90,19.90
+818,2023-04-30 12:18:29,headphones,247,Iași,2,19.90,39.80
+819,2023-04-30 12:41:41,paperback-novel,1346,Brașov,1,8.90,8.90
+820,2023-04-30 21:08:29,paperback-novel,1481,București,1,8.90,8.90
+821,2023-04-30 12:32:54,headphones,1031,Timișoara,1,19.90,19.90
+822,2023-04-30 15:32:04,doll-classic,358,Brașov,2,15.90,31.80
+823,2023-04-30 18:21:29,winter-gloves,1465,București,1,14.90,14.90

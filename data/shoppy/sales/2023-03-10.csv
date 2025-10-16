@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+429,2023-03-10 12:23:21,headphones,283,Brașov,2,19.90,39.80
+430,2023-03-10 21:49:49,board-game,14,Iași,1,19.90,19.90
+431,2023-03-10 12:32:10,doll-classic,175,Cluj-Napoca,2,15.90,31.80
+432,2023-03-10 15:40:42,doll-classic,503,Timișoara,1,15.90,15.90
+433,2023-03-10 15:14:08,board-game,879,Brașov,1,19.90,19.90
+434,2023-03-10 15:54:33,usb-charger,1398,Iași,1,11.61,11.61

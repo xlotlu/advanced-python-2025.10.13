@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1697,2023-09-08 12:56:36,beach-ball,431,Constanța,2,4.37,8.74
+1698,2023-09-08 15:03:45,scented-candle,1184,Brașov,1,6.60,6.60
+1699,2023-09-08 12:02:52,headphones,240,Cluj-Napoca,1,21.47,21.47
+1700,2023-09-08 21:01:04,beach-ball,1417,Iași,1,4.37,4.37
+1701,2023-09-08 15:02:58,headphones,62,Cluj-Napoca,1,21.47,21.47
+1702,2023-09-08 18:35:58,headphones,1386,Cluj-Napoca,1,21.47,21.47
+1703,2023-09-08 09:05:52,usb-charger,606,Timișoara,1,11.61,11.61

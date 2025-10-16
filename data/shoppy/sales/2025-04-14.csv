@@ -1,0 +1,17 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+7192,2025-04-14 15:11:21,winter-gloves,135,Iași,1,17.06,17.06
+7193,2025-04-14 18:45:24,doll-classic,200,Constanța,1,16.72,16.72
+7194,2025-04-14 21:43:05,scented-candle,268,Brașov,2,6.42,12.84
+7195,2025-04-14 18:04:09,doll-classic,166,Iași,1,16.72,16.72
+7196,2025-04-14 15:50:51,garden-hose,435,București,1,18.03,18.03
+7197,2025-04-14 09:24:02,headphones,482,Iași,1,21.47,21.47
+7198,2025-04-14 18:37:28,winter-gloves,1234,București,2,17.06,34.12
+7199,2025-04-14 21:14:29,garden-hose,946,Cluj-Napoca,1,18.03,18.03
+7200,2025-04-14 18:59:40,usb-charger,608,Iași,2,13.68,27.36
+7201,2025-04-14 15:19:23,winter-gloves,283,Brașov,1,17.06,17.06
+7202,2025-04-14 18:38:17,beach-ball,13,Timișoara,1,4.50,4.50
+7203,2025-04-14 15:44:05,board-game,396,Cluj-Napoca,1,21.96,21.96
+7204,2025-04-14 21:32:55,scented-candle,522,Timișoara,2,6.42,12.84
+7205,2025-04-14 18:08:52,winter-gloves,767,Cluj-Napoca,1,17.06,17.06
+7206,2025-04-14 15:16:51,doll-classic,257,Cluj-Napoca,3,16.72,50.16
+7207,2025-04-14 21:04:16,board-game,187,Cluj-Napoca,1,21.96,21.96

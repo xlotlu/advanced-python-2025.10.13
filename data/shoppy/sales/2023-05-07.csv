@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+868,2023-05-07 12:13:24,headphones,1194,Constanța,1,19.90,19.90
+869,2023-05-07 15:41:05,swim-goggles,159,Timișoara,1,9.90,9.90
+870,2023-05-07 15:07:54,scented-candle,1081,Timișoara,18,5.31,95.58
+871,2023-05-07 18:33:28,garden-hose,650,Constanța,1,15.21,15.21
+872,2023-05-07 12:15:21,doll-classic,498,Timișoara,2,15.90,31.80
+873,2023-05-07 12:20:47,garden-hose,237,București,3,15.21,45.63

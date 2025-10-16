@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5009,2024-10-04 21:08:05,winter-gloves,205,Brașov,1,17.06,17.06
+5010,2024-10-04 15:06:00,beach-ball,1157,Timișoara,1,4.50,4.50
+5011,2024-10-04 21:42:55,headphones,930,Timișoara,1,21.47,21.47
+5012,2024-10-04 21:58:23,scented-candle,264,București,2,6.42,12.84
+5013,2024-10-04 15:12:52,beach-ball,1339,Timișoara,1,4.50,4.50
+5014,2024-10-04 15:00:59,usb-charger,809,Timișoara,1,13.68,13.68

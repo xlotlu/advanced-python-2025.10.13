@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+551,2023-03-25 15:23:02,swim-goggles,138,Cluj-Napoca,2,9.90,19.80
+552,2023-03-25 18:31:06,notebook-a5,1460,Constanța,1,2.99,2.99
+553,2023-03-25 12:06:38,headphones,665,Timișoara,10,19.90,199.00
+554,2023-03-25 18:49:44,scented-candle,273,Iași,1,5.90,5.90
+555,2023-03-25 21:20:54,doll-classic,1365,București,1,15.90,15.90
+556,2023-03-25 15:37:28,headphones,784,Iași,1,19.90,19.90
+557,2023-03-25 15:45:00,headphones,477,Cluj-Napoca,1,19.90,19.90
+558,2023-03-25 12:15:47,beach-ball,878,Cluj-Napoca,1,3.99,3.99
+559,2023-03-25 09:23:31,winter-gloves,608,Iași,1,14.90,14.90
+560,2023-03-25 15:15:59,board-game,1486,Timișoara,1,19.90,19.90

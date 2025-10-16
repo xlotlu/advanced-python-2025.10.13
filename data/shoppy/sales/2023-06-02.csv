@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1056,2023-06-02 12:24:37,usb-charger,256,Brașov,1,11.61,11.61
+1057,2023-06-02 21:46:33,board-game,250,București,1,19.90,19.90
+1058,2023-06-02 21:47:38,board-game,734,București,1,19.90,19.90
+1059,2023-06-02 12:05:51,garden-hose,1039,Brașov,1,15.21,15.21
+1060,2023-06-02 12:29:01,usb-charger,15,Timișoara,1,11.61,11.61
+1061,2023-06-02 21:06:22,usb-charger,739,Cluj-Napoca,1,11.61,11.61
+1062,2023-06-02 15:54:41,scented-candle,616,Iași,2,5.31,10.62
+1063,2023-06-02 18:51:24,doll-classic,966,București,1,15.90,15.90

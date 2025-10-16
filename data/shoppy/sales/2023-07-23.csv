@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1397,2023-07-23 09:00:27,headphones,950,București,1,21.47,21.47
+1398,2023-07-23 18:47:29,swim-goggles,1074,Brașov,1,9.90,9.90
+1399,2023-07-23 21:09:18,doll-classic,573,București,1,15.90,15.90
+1400,2023-07-23 15:48:33,board-game,134,Brașov,1,21.96,21.96
+1401,2023-07-23 15:28:12,paperback-novel,1410,București,1,8.90,8.90
+1402,2023-07-23 21:17:10,notebook-a5,984,Brașov,2,3.30,6.60

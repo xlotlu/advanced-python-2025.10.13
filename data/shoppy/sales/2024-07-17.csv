@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4371,2024-07-17 12:28:03,beach-ball,1157,Timișoara,1,4.50,4.50
+4372,2024-07-17 12:31:52,paperback-novel,29,Iași,2,8.90,17.80
+4373,2024-07-17 12:25:26,scented-candle,1093,Constanța,1,6.42,6.42
+4374,2024-07-17 21:14:54,scented-candle,1284,Brașov,1,6.42,6.42
+4375,2024-07-17 12:11:35,headphones,197,București,1,21.47,21.47
+4376,2024-07-17 12:16:59,doll-classic,838,Constanța,1,16.72,16.72

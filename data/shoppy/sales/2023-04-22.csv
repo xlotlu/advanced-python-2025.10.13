@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+743,2023-04-22 21:05:04,board-game,1013,București,1,19.90,19.90
+744,2023-04-22 12:06:31,notebook-a5,45,Brașov,2,2.99,5.98
+745,2023-04-22 15:13:43,usb-charger,860,Timișoara,1,11.61,11.61
+746,2023-04-22 21:51:10,usb-charger,369,Timișoara,1,11.61,11.61
+747,2023-04-22 18:40:38,doll-classic,65,București,2,15.90,31.80
+748,2023-04-22 12:39:38,board-game,1120,București,1,19.90,19.90

@@ -1,0 +1,13 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2541,2024-01-15 15:28:10,notebook-a5,204,Timișoara,1,3.30,3.30
+2542,2024-01-15 15:53:08,headphones,55,Cluj-Napoca,3,21.47,64.41
+2543,2024-01-15 15:49:11,doll-classic,245,Constanța,1,15.90,15.90
+2544,2024-01-15 12:25:24,usb-charger,1238,Timișoara,1,11.61,11.61
+2545,2024-01-15 18:25:14,swim-goggles,259,Iași,2,9.90,19.80
+2546,2024-01-15 21:07:53,garden-hose,473,Iași,1,18.99,18.99
+2547,2024-01-15 12:49:52,paperback-novel,734,București,1,8.90,8.90
+2548,2024-01-15 15:42:37,beach-ball,100,Iași,1,4.37,4.37
+2549,2024-01-15 12:23:39,swim-goggles,463,București,1,9.90,9.90
+2550,2024-01-15 15:00:03,headphones,1324,Cluj-Napoca,1,21.47,21.47
+2551,2024-01-15 15:27:06,beach-ball,772,Constanța,1,4.37,4.37
+2552,2024-01-15 15:45:43,swim-goggles,576,Constanța,2,9.90,19.80

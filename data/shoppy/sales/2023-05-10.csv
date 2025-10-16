@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+883,2023-05-10 18:59:14,scented-candle,1365,București,3,5.31,15.93
+884,2023-05-10 15:32:48,doll-classic,346,Iași,1,15.90,15.90
+885,2023-05-10 21:34:34,beach-ball,400,Timișoara,2,3.99,7.98
+886,2023-05-10 09:13:18,beach-ball,1170,Brașov,2,3.99,7.98
+887,2023-05-10 12:29:18,usb-charger,225,Iași,1,11.61,11.61
+888,2023-05-10 12:56:27,winter-gloves,1011,Constanța,2,14.90,29.80
+889,2023-05-10 21:46:42,doll-classic,239,București,2,15.90,31.80
+890,2023-05-10 18:14:46,scented-candle,153,Cluj-Napoca,2,5.31,10.62
+891,2023-05-10 12:40:47,doll-classic,1051,Brașov,1,15.90,15.90
+892,2023-05-10 18:57:59,winter-gloves,79,Timișoara,1,14.90,14.90

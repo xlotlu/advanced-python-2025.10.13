@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1145,2023-06-15 18:31:16,doll-classic,1230,Brașov,2,15.90,31.80
+1146,2023-06-15 09:49:28,beach-ball,264,București,1,3.99,3.99
+1147,2023-06-15 15:07:10,winter-gloves,1001,Timișoara,1,14.90,14.90
+1148,2023-06-15 12:47:16,swim-goggles,1395,Iași,1,9.90,9.90
+1149,2023-06-15 12:18:18,winter-gloves,1168,Timișoara,1,14.90,14.90

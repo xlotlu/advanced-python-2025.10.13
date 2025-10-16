@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1451,2023-07-30 18:23:21,board-game,1114,Timișoara,1,21.96,21.96
+1452,2023-07-30 21:58:46,winter-gloves,48,Iași,1,17.06,17.06
+1453,2023-07-30 12:50:17,paperback-novel,596,Constanța,1,8.90,8.90
+1454,2023-07-30 15:58:58,headphones,47,Iași,3,21.47,64.41
+1455,2023-07-30 15:35:44,garden-hose,1026,București,1,18.99,18.99
+1456,2023-07-30 12:46:08,headphones,954,Timișoara,2,21.47,42.94

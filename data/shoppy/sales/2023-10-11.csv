@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1885,2023-10-11 18:12:12,garden-hose,274,Timișoara,1,18.99,18.99
+1886,2023-10-11 18:00:08,headphones,34,București,1,21.47,21.47
+1887,2023-10-11 21:13:13,beach-ball,21,București,1,4.37,4.37
+1888,2023-10-11 12:29:28,swim-goggles,139,Brașov,1,9.90,9.90
+1889,2023-10-11 21:50:29,garden-hose,748,Cluj-Napoca,1,18.99,18.99
+1890,2023-10-11 21:09:49,scented-candle,980,Timișoara,1,6.60,6.60
+1891,2023-10-11 18:15:57,paperback-novel,117,Brașov,1,8.90,8.90

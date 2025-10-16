@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1514,2023-08-09 21:26:01,headphones,694,Iași,1,21.47,21.47
+1515,2023-08-09 21:01:31,board-game,1440,Constanța,1,21.96,21.96
+1516,2023-08-09 15:43:59,paperback-novel,244,Cluj-Napoca,1,8.90,8.90
+1517,2023-08-09 15:31:15,usb-charger,830,Constanța,1,11.61,11.61
+1518,2023-08-09 21:00:23,headphones,5,București,2,21.47,42.94

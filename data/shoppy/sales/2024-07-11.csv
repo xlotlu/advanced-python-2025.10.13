@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4314,2024-07-11 15:12:53,notebook-a5,787,Constanța,1,3.44,3.44
+4315,2024-07-11 18:15:59,notebook-a5,450,Timișoara,1,3.44,3.44
+4316,2024-07-11 15:47:36,board-game,837,Brașov,2,21.96,43.92
+4317,2024-07-11 15:57:55,scented-candle,303,Constanța,1,6.42,6.42
+4318,2024-07-11 18:58:57,board-game,349,Cluj-Napoca,2,21.96,43.92
+4319,2024-07-11 09:00:11,headphones,448,Iași,1,21.47,21.47
+4320,2024-07-11 21:31:15,headphones,591,Timișoara,1,21.47,21.47
+4321,2024-07-11 21:07:38,scented-candle,594,Cluj-Napoca,1,6.42,6.42
+4322,2024-07-11 09:30:08,beach-ball,854,Cluj-Napoca,2,4.50,9.00

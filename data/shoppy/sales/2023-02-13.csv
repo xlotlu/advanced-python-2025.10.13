@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+261,2023-02-13 15:22:31,winter-gloves,174,Iași,2,14.90,29.80
+262,2023-02-13 12:02:12,notebook-a5,52,Timișoara,1,2.99,2.99
+263,2023-02-13 15:04:50,winter-gloves,1108,București,1,14.90,14.90
+264,2023-02-13 21:51:28,winter-gloves,34,București,1,14.90,14.90
+265,2023-02-13 18:02:25,beach-ball,243,Cluj-Napoca,1,3.99,3.99
+266,2023-02-13 15:43:55,board-game,1099,Cluj-Napoca,1,19.90,19.90

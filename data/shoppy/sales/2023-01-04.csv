@@ -1,0 +1,4 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+17,2023-01-04 12:57:10,paperback-novel,1009,Constanța,1,8.90,8.90
+18,2023-01-04 18:06:16,swim-goggles,1252,București,1,9.90,9.90
+19,2023-01-04 21:13:29,swim-goggles,391,București,1,9.90,9.90

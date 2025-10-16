@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5133,2024-10-23 18:02:56,garden-hose,1473,Timișoara,2,18.03,36.06
+5134,2024-10-23 09:19:21,winter-gloves,329,Timișoara,14,17.06,238.84
+5135,2024-10-23 12:23:24,swim-goggles,907,Brașov,3,10.82,32.46
+5136,2024-10-23 18:36:14,winter-gloves,1179,Cluj-Napoca,1,17.06,17.06
+5137,2024-10-23 18:22:02,garden-hose,573,București,2,18.03,36.06
+5138,2024-10-23 21:44:12,usb-charger,403,Iași,1,13.68,13.68
+5139,2024-10-23 12:59:12,winter-gloves,701,Timișoara,1,17.06,17.06
+5140,2024-10-23 21:55:14,paperback-novel,425,Timișoara,2,8.90,17.80

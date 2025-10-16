@@ -1,0 +1,4 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2116,2023-11-16 21:21:14,winter-gloves,692,Brașov,1,17.06,17.06
+2117,2023-11-16 09:59:10,paperback-novel,1144,Constanța,1,8.90,8.90
+2118,2023-11-16 15:47:00,paperback-novel,966,București,2,8.90,17.80

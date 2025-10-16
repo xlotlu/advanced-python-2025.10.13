@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2109,2023-11-15 15:06:45,beach-ball,1496,Iași,2,4.37,8.74
+2110,2023-11-15 09:03:12,winter-gloves,335,Brașov,1,17.06,17.06
+2111,2023-11-15 12:28:35,beach-ball,1213,Brașov,1,4.37,4.37
+2112,2023-11-15 09:05:51,winter-gloves,566,București,2,17.06,34.12
+2113,2023-11-15 12:59:30,beach-ball,240,Cluj-Napoca,1,4.37,4.37
+2114,2023-11-15 15:06:37,swim-goggles,956,Iași,1,9.90,9.90
+2115,2023-11-15 09:47:06,garden-hose,1291,Brașov,1,18.99,18.99

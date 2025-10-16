@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1982,2023-10-27 12:18:54,garden-hose,1236,Constanța,1,18.99,18.99
+1983,2023-10-27 15:34:01,swim-goggles,456,Constanța,1,9.90,9.90
+1984,2023-10-27 15:55:50,swim-goggles,141,București,1,9.90,9.90
+1985,2023-10-27 15:58:38,winter-gloves,374,Timișoara,1,17.06,17.06

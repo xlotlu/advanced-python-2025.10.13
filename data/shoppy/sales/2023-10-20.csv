@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1941,2023-10-20 15:38:46,swim-goggles,130,Timișoara,2,9.90,19.80
+1942,2023-10-20 21:47:44,headphones,41,Constanța,1,21.47,21.47
+1943,2023-10-20 15:06:41,usb-charger,89,Iași,2,11.61,23.22
+1944,2023-10-20 15:37:10,usb-charger,13,Timișoara,1,11.61,11.61
+1945,2023-10-20 15:54:41,paperback-novel,546,Timișoara,2,8.90,17.80
+1946,2023-10-20 12:38:28,swim-goggles,840,Constanța,1,9.90,9.90
+1947,2023-10-20 18:22:37,beach-ball,859,Iași,2,4.37,8.74

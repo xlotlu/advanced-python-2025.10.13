@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4244,2024-07-01 09:11:24,winter-gloves,10,București,1,17.06,17.06
+4245,2024-07-01 12:05:46,notebook-a5,532,Brașov,1,3.44,3.44
+4246,2024-07-01 21:22:31,garden-hose,1466,Brașov,1,18.03,18.03
+4247,2024-07-01 15:22:31,scented-candle,1050,Cluj-Napoca,1,6.42,6.42
+4248,2024-07-01 12:36:39,paperback-novel,708,Constanța,1,8.90,8.90
+4249,2024-07-01 21:36:43,notebook-a5,812,Constanța,1,3.44,3.44
+4250,2024-07-01 12:02:33,doll-classic,790,Brașov,1,16.72,16.72

@@ -1,0 +1,18 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+8668,2025-07-31 15:28:12,notebook-a5,1423,Timișoara,1,3.44,3.44
+8669,2025-07-31 09:29:24,swim-goggles,790,Brașov,1,10.82,10.82
+8670,2025-07-31 15:05:43,beach-ball,272,Cluj-Napoca,2,4.25,8.50
+8671,2025-07-31 12:39:32,scented-candle,1348,Brașov,1,6.47,6.47
+8672,2025-07-31 09:14:37,doll-classic,414,Timișoara,1,17.86,17.86
+8673,2025-07-31 09:12:19,doll-classic,1310,Iași,1,17.86,17.86
+8674,2025-07-31 12:40:30,doll-classic,635,Iași,1,17.86,17.86
+8675,2025-07-31 15:37:32,garden-hose,198,Iași,1,18.84,18.84
+8676,2025-07-31 18:49:48,beach-ball,1157,Timișoara,1,4.25,4.25
+8677,2025-07-31 15:43:28,garden-hose,1364,Iași,2,18.84,37.68
+8678,2025-07-31 12:52:54,scented-candle,907,Brașov,1,6.47,6.47
+8679,2025-07-31 09:56:15,paperback-novel,1266,București,3,10.15,30.45
+8680,2025-07-31 12:33:04,notebook-a5,1009,Constanța,1,3.44,3.44
+8681,2025-07-31 21:39:31,notebook-a5,213,Constanța,1,3.44,3.44
+8682,2025-07-31 12:32:52,board-game,346,Iași,1,21.96,21.96
+8683,2025-07-31 18:17:42,doll-classic,377,Constanța,1,17.86,17.86
+8684,2025-07-31 21:06:44,swim-goggles,1119,Timișoara,1,10.82,10.82

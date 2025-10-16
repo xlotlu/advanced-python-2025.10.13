@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+509,2023-03-20 09:39:37,scented-candle,388,Brașov,1,5.90,5.90
+510,2023-03-20 12:15:03,notebook-a5,1290,Cluj-Napoca,1,2.99,2.99
+511,2023-03-20 21:37:56,garden-hose,1002,Brașov,2,16.90,33.80
+512,2023-03-20 15:42:39,board-game,133,Cluj-Napoca,1,19.90,19.90
+513,2023-03-20 21:48:32,board-game,767,Cluj-Napoca,1,19.90,19.90
+514,2023-03-20 12:23:33,headphones,1423,Timișoara,1,19.90,19.90

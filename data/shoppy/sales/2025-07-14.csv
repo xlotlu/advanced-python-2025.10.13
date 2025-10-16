@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+8448,2025-07-14 12:51:44,scented-candle,747,Timișoara,1,6.47,6.47
+8449,2025-07-14 15:12:15,paperback-novel,1152,Iași,1,10.15,10.15
+8450,2025-07-14 15:36:42,swim-goggles,1097,Brașov,2,10.82,21.64
+8451,2025-07-14 15:37:58,board-game,93,Iași,1,21.96,21.96
+8452,2025-07-14 21:39:41,swim-goggles,107,Timișoara,1,10.82,10.82
+8453,2025-07-14 12:12:29,winter-gloves,126,Cluj-Napoca,1,15.99,15.99
+8454,2025-07-14 12:14:38,winter-gloves,1250,București,1,15.99,15.99
+8455,2025-07-14 15:21:58,headphones,129,Brașov,1,21.57,21.57

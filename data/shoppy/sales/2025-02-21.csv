@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+6429,2025-02-21 15:12:19,winter-gloves,1107,București,1,17.06,17.06
+6430,2025-02-21 12:46:14,garden-hose,342,București,2,18.03,36.06
+6431,2025-02-21 12:04:46,notebook-a5,659,Constanța,1,3.44,3.44
+6432,2025-02-21 15:58:05,usb-charger,1316,Iași,1,13.68,13.68
+6433,2025-02-21 15:24:25,doll-classic,1278,București,2,16.72,33.44
+6434,2025-02-21 09:23:08,paperback-novel,923,Constanța,1,10.15,10.15
+6435,2025-02-21 09:35:20,scented-candle,522,Timișoara,1,6.42,6.42
+6436,2025-02-21 15:48:49,usb-charger,569,Brașov,2,13.68,27.36
+6437,2025-02-21 09:43:25,scented-candle,1300,Cluj-Napoca,2,6.42,12.84
+6438,2025-02-21 21:15:31,doll-classic,686,Cluj-Napoca,1,16.72,16.72
+6439,2025-02-21 12:33:12,doll-classic,1487,Constanța,2,16.72,33.44

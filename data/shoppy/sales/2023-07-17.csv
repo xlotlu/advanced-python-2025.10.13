@@ -1,0 +1,4 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1369,2023-07-17 12:30:01,usb-charger,204,Timișoara,1,11.61,11.61
+1370,2023-07-17 12:42:18,swim-goggles,1376,Iași,1,9.90,9.90
+1371,2023-07-17 15:46:10,board-game,741,Cluj-Napoca,1,21.96,21.96

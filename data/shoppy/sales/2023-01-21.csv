@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+101,2023-01-21 21:24:39,headphones,587,Constanța,1,19.90,19.90
+102,2023-01-21 21:40:51,headphones,691,București,3,19.90,59.70
+103,2023-01-21 15:58:04,usb-charger,163,București,1,12.90,12.90
+104,2023-01-21 12:18:45,swim-goggles,548,Constanța,1,9.90,9.90
+105,2023-01-21 21:49:55,winter-gloves,744,Timișoara,1,14.90,14.90
+106,2023-01-21 15:10:11,garden-hose,48,Iași,1,16.90,16.90

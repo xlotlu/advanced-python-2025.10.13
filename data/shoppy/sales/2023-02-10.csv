@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+238,2023-02-10 15:18:31,scented-candle,169,Constanța,2,5.90,11.80
+239,2023-02-10 18:16:08,swim-goggles,1262,Iași,1,9.90,9.90
+240,2023-02-10 09:07:38,doll-classic,358,Brașov,2,15.90,31.80
+241,2023-02-10 18:23:51,notebook-a5,360,Iași,1,2.99,2.99
+242,2023-02-10 15:51:33,doll-classic,68,Timișoara,1,15.90,15.90
+243,2023-02-10 12:59:52,usb-charger,316,București,1,11.61,11.61
+244,2023-02-10 15:24:15,garden-hose,1354,Iași,1,16.90,16.90

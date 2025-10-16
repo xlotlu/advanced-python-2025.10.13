@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1019,2023-05-28 15:34:54,doll-classic,1102,Cluj-Napoca,1,15.90,15.90
+1020,2023-05-28 09:36:33,notebook-a5,508,Timișoara,3,2.99,8.97
+1021,2023-05-28 12:59:41,doll-classic,502,Iași,1,15.90,15.90
+1022,2023-05-28 12:38:17,doll-classic,1131,Brașov,1,15.90,15.90
+1023,2023-05-28 18:58:04,doll-classic,272,Cluj-Napoca,1,15.90,15.90
+1024,2023-05-28 12:37:48,headphones,1191,Iași,1,19.90,19.90
+1025,2023-05-28 21:03:20,headphones,1299,București,1,19.90,19.90

@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+893,2023-05-11 18:00:27,scented-candle,138,Cluj-Napoca,2,5.31,10.62
+894,2023-05-11 18:02:26,headphones,1409,Timișoara,1,19.90,19.90
+895,2023-05-11 15:40:22,doll-classic,992,București,1,15.90,15.90
+896,2023-05-11 21:53:14,headphones,599,Cluj-Napoca,3,19.90,59.70
+897,2023-05-11 15:38:22,winter-gloves,1113,Timișoara,1,14.90,14.90
+898,2023-05-11 12:56:57,headphones,589,Cluj-Napoca,1,19.90,19.90
+899,2023-05-11 12:27:07,usb-charger,361,Iași,1,11.61,11.61
+900,2023-05-11 12:44:25,headphones,1444,Constanța,1,19.90,19.90

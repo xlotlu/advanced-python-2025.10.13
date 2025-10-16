@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+458,2023-03-14 09:50:13,scented-candle,503,Timișoara,1,5.90,5.90
+459,2023-03-14 15:05:51,garden-hose,1093,Constanța,2,16.90,33.80
+460,2023-03-14 09:55:59,paperback-novel,48,Iași,1,8.90,8.90
+461,2023-03-14 09:33:20,doll-classic,783,Cluj-Napoca,1,15.90,15.90
+462,2023-03-14 09:10:18,doll-classic,295,Iași,1,15.90,15.90

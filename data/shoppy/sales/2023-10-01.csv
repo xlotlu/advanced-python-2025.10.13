@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1819,2023-10-01 12:36:44,beach-ball,253,Constanța,1,4.37,4.37
+1820,2023-10-01 15:51:40,garden-hose,1422,București,1,18.99,18.99
+1821,2023-10-01 12:12:24,beach-ball,1275,Cluj-Napoca,6,4.37,26.22
+1822,2023-10-01 15:25:11,board-game,1477,Brașov,1,21.96,21.96
+1823,2023-10-01 15:40:54,beach-ball,993,Constanța,1,4.37,4.37
+1824,2023-10-01 18:39:22,garden-hose,1351,Cluj-Napoca,1,18.99,18.99
+1825,2023-10-01 12:09:40,winter-gloves,1420,Cluj-Napoca,2,17.06,34.12
+1826,2023-10-01 18:12:57,garden-hose,1070,Cluj-Napoca,1,18.99,18.99

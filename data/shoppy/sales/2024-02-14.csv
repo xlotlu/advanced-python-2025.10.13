@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2835,2024-02-14 18:59:08,usb-charger,312,București,1,11.61,11.61
+2836,2024-02-14 15:59:40,winter-gloves,824,București,1,17.06,17.06
+2837,2024-02-14 18:36:49,board-game,782,Brașov,1,21.96,21.96
+2838,2024-02-14 12:17:31,scented-candle,1174,Brașov,1,6.60,6.60
+2839,2024-02-14 18:00:22,garden-hose,1165,Iași,1,18.99,18.99
+2840,2024-02-14 15:59:59,board-game,1298,Constanța,1,21.96,21.96
+2841,2024-02-14 12:40:29,usb-charger,101,Timișoara,1,11.61,11.61
+2842,2024-02-14 09:41:42,winter-gloves,949,București,1,17.06,17.06
+2843,2024-02-14 12:31:47,scented-candle,264,București,1,6.60,6.60
+2844,2024-02-14 15:07:09,doll-classic,1250,București,1,15.90,15.90
+2845,2024-02-14 12:45:51,usb-charger,92,Iași,1,11.61,11.61

@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2509,2024-01-12 18:00:52,winter-gloves,775,Timișoara,1,17.06,17.06
+2510,2024-01-12 15:11:16,paperback-novel,83,Iași,3,8.90,26.70
+2511,2024-01-12 18:06:56,garden-hose,11,Iași,1,18.99,18.99
+2512,2024-01-12 18:26:34,beach-ball,1228,Iași,1,4.37,4.37
+2513,2024-01-12 21:48:06,beach-ball,996,Constanța,1,4.37,4.37
+2514,2024-01-12 15:10:12,swim-goggles,1028,Iași,1,9.90,9.90
+2515,2024-01-12 21:42:10,garden-hose,287,Timișoara,1,18.99,18.99
+2516,2024-01-12 12:35:09,board-game,582,Brașov,1,21.96,21.96

@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+292,2023-02-17 21:43:23,winter-gloves,106,Constanța,1,14.90,14.90
+293,2023-02-17 15:23:23,swim-goggles,359,Brașov,1,9.90,9.90
+294,2023-02-17 15:49:13,winter-gloves,284,Brașov,1,14.90,14.90
+295,2023-02-17 12:30:47,scented-candle,1189,București,1,5.90,5.90
+296,2023-02-17 18:48:14,notebook-a5,657,Cluj-Napoca,1,2.99,2.99
+297,2023-02-17 18:17:03,usb-charger,130,Timișoara,1,11.61,11.61

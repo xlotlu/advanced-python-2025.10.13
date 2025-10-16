@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+9168,2025-09-11 21:15:09,scented-candle,596,Constanța,1,6.47,6.47
+9169,2025-09-11 15:58:48,usb-charger,73,București,1,13.94,13.94
+9170,2025-09-11 18:06:38,doll-classic,281,Cluj-Napoca,2,17.86,35.72
+9171,2025-09-11 15:52:55,board-game,1356,Iași,1,21.96,21.96
+9172,2025-09-11 18:55:10,scented-candle,675,Timișoara,1,6.47,6.47
+9173,2025-09-11 09:09:17,garden-hose,1332,Timișoara,1,18.84,18.84
+9174,2025-09-11 18:23:41,scented-candle,303,Constanța,2,6.47,12.94
+9175,2025-09-11 12:36:43,doll-classic,484,Brașov,1,17.86,17.86
+9176,2025-09-11 12:08:10,scented-candle,1129,Brașov,11,6.47,71.17
+9177,2025-09-11 18:59:12,swim-goggles,17,Iași,2,10.82,21.64

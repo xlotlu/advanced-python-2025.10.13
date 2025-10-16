@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2197,2023-11-29 12:49:40,swim-goggles,654,Brașov,1,9.90,9.90
+2198,2023-11-29 15:10:35,garden-hose,326,Iași,1,18.99,18.99
+2199,2023-11-29 09:06:34,swim-goggles,376,București,2,9.90,19.80
+2200,2023-11-29 21:25:10,doll-classic,615,București,1,15.90,15.90
+2201,2023-11-29 12:48:16,headphones,370,Constanța,1,21.47,21.47

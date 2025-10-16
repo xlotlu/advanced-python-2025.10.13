@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5256,2024-11-08 12:25:41,winter-gloves,1131,Brașov,1,17.06,17.06
+5257,2024-11-08 18:06:25,usb-charger,908,București,1,13.68,13.68
+5258,2024-11-08 18:22:29,beach-ball,1249,Brașov,1,4.50,4.50
+5259,2024-11-08 15:11:12,beach-ball,647,Timișoara,1,4.50,4.50
+5260,2024-11-08 09:01:50,scented-candle,1271,București,1,6.42,6.42

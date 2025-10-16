@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1545,2023-08-14 12:54:09,beach-ball,1428,Timișoara,3,4.37,13.11
+1546,2023-08-14 12:49:50,notebook-a5,179,București,2,3.30,6.60
+1547,2023-08-14 15:39:33,beach-ball,250,București,1,4.37,4.37
+1548,2023-08-14 15:38:46,winter-gloves,270,București,1,17.06,17.06
+1549,2023-08-14 15:15:54,garden-hose,1054,București,1,18.99,18.99
+1550,2023-08-14 12:10:56,headphones,281,Cluj-Napoca,2,21.47,42.94
+1551,2023-08-14 21:49:27,scented-candle,853,Constanța,1,6.60,6.60

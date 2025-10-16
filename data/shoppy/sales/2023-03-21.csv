@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+515,2023-03-21 15:27:26,headphones,753,Constanța,1,19.90,19.90
+516,2023-03-21 15:11:28,garden-hose,479,Brașov,1,16.90,16.90
+517,2023-03-21 21:18:53,doll-classic,1028,Iași,1,15.90,15.90
+518,2023-03-21 18:59:14,headphones,202,Brașov,1,19.90,19.90
+519,2023-03-21 15:21:12,board-game,1383,Iași,1,19.90,19.90
+520,2023-03-21 18:43:54,doll-classic,563,Constanța,1,15.90,15.90
+521,2023-03-21 12:54:48,board-game,1467,Timișoara,1,19.90,19.90
+522,2023-03-21 09:19:18,winter-gloves,710,Timișoara,2,14.90,29.80
+523,2023-03-21 15:37:48,garden-hose,1343,Constanța,1,16.90,16.90

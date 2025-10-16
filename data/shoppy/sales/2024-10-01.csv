@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4984,2024-10-01 12:48:12,winter-gloves,815,Constanța,1,17.06,17.06
+4985,2024-10-01 18:41:04,headphones,809,Timișoara,1,21.47,21.47
+4986,2024-10-01 21:57:27,paperback-novel,170,Iași,1,8.90,8.90
+4987,2024-10-01 15:42:26,scented-candle,563,Constanța,1,6.42,6.42
+4988,2024-10-01 18:14:22,headphones,375,Iași,20,21.47,429.40
+4989,2024-10-01 12:44:45,usb-charger,52,Timișoara,1,13.68,13.68
+4990,2024-10-01 18:57:48,headphones,395,Brașov,1,21.47,21.47

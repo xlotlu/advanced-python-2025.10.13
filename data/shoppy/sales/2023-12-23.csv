@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2353,2023-12-23 21:46:04,notebook-a5,580,Brașov,1,3.30,3.30
+2354,2023-12-23 15:41:37,paperback-novel,428,Cluj-Napoca,1,8.90,8.90
+2355,2023-12-23 21:44:49,beach-ball,1169,Cluj-Napoca,2,4.37,8.74
+2356,2023-12-23 18:45:17,winter-gloves,1226,București,1,17.06,17.06
+2357,2023-12-23 21:32:27,garden-hose,71,Timișoara,1,18.99,18.99
+2358,2023-12-23 12:20:00,paperback-novel,578,Timișoara,1,8.90,8.90

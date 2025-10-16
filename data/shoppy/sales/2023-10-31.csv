@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2006,2023-10-31 15:47:00,garden-hose,1370,Cluj-Napoca,1,18.99,18.99
+2007,2023-10-31 15:47:47,swim-goggles,249,Brașov,1,9.90,9.90
+2008,2023-10-31 15:00:15,beach-ball,1091,Cluj-Napoca,1,4.37,4.37
+2009,2023-10-31 15:08:41,beach-ball,646,Brașov,1,4.37,4.37

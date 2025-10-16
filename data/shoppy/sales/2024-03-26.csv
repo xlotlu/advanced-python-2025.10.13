@@ -1,0 +1,14 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3246,2024-03-26 18:58:31,garden-hose,139,Brașov,2,18.99,37.98
+3247,2024-03-26 12:19:29,headphones,722,Constanța,1,21.47,21.47
+3248,2024-03-26 18:06:08,usb-charger,1282,București,2,11.61,23.22
+3249,2024-03-26 09:34:54,swim-goggles,381,București,1,9.90,9.90
+3250,2024-03-26 18:03:57,paperback-novel,810,Brașov,1,8.90,8.90
+3251,2024-03-26 21:22:39,usb-charger,1046,Constanța,1,11.61,11.61
+3252,2024-03-26 12:27:20,doll-classic,1452,București,1,15.90,15.90
+3253,2024-03-26 21:10:40,garden-hose,1129,Brașov,1,18.99,18.99
+3254,2024-03-26 12:10:58,winter-gloves,1358,Iași,1,17.06,17.06
+3255,2024-03-26 15:02:58,headphones,648,București,1,21.47,21.47
+3256,2024-03-26 15:59:45,garden-hose,1241,Constanța,1,18.99,18.99
+3257,2024-03-26 15:56:10,headphones,1419,Cluj-Napoca,1,21.47,21.47
+3258,2024-03-26 21:21:09,garden-hose,92,Iași,19,18.99,360.81

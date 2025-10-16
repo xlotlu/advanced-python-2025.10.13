@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2326,2023-12-19 21:01:08,swim-goggles,403,Iași,1,9.90,9.90
+2327,2023-12-19 15:01:04,doll-classic,767,Cluj-Napoca,16,15.90,254.40
+2328,2023-12-19 09:14:43,scented-candle,1487,Constanța,1,6.60,6.60
+2329,2023-12-19 15:06:20,winter-gloves,867,București,1,17.06,17.06
+2330,2023-12-19 15:23:08,beach-ball,368,Cluj-Napoca,1,4.37,4.37

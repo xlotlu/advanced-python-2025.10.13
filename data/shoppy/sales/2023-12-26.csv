@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2371,2023-12-26 18:54:08,headphones,597,Brașov,2,21.47,42.94
+2372,2023-12-26 15:22:16,winter-gloves,666,Brașov,1,17.06,17.06
+2373,2023-12-26 12:19:16,beach-ball,141,București,1,4.37,4.37
+2374,2023-12-26 15:18:00,garden-hose,295,Iași,1,18.99,18.99
+2375,2023-12-26 12:26:58,garden-hose,1095,Iași,2,18.99,37.98
+2376,2023-12-26 18:53:20,scented-candle,963,Cluj-Napoca,1,6.60,6.60

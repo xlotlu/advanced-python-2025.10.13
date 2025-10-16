@@ -1,0 +1,19 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+6325,2025-02-14 21:12:49,headphones,1026,București,13,21.47,279.11
+6326,2025-02-14 12:20:51,beach-ball,1421,Iași,1,4.50,4.50
+6327,2025-02-14 18:47:00,paperback-novel,1043,Timișoara,1,10.15,10.15
+6328,2025-02-14 09:11:29,scented-candle,1060,București,1,6.42,6.42
+6329,2025-02-14 12:12:26,winter-gloves,1422,București,1,17.06,17.06
+6330,2025-02-14 12:19:43,doll-classic,946,Cluj-Napoca,1,16.72,16.72
+6331,2025-02-14 15:06:40,beach-ball,653,Brașov,1,4.50,4.50
+6332,2025-02-14 15:27:38,garden-hose,1282,București,1,18.03,18.03
+6333,2025-02-14 15:44:11,swim-goggles,1171,Constanța,2,10.82,21.64
+6334,2025-02-14 18:15:44,headphones,238,București,1,21.47,21.47
+6335,2025-02-14 15:01:32,winter-gloves,841,Iași,1,17.06,17.06
+6336,2025-02-14 18:19:48,scented-candle,567,Constanța,1,6.42,6.42
+6337,2025-02-14 21:55:56,usb-charger,96,București,1,13.68,13.68
+6338,2025-02-14 18:44:12,paperback-novel,1052,Brașov,1,10.15,10.15
+6339,2025-02-14 18:38:32,winter-gloves,95,București,1,17.06,17.06
+6340,2025-02-14 12:59:59,scented-candle,315,Timișoara,1,6.42,6.42
+6341,2025-02-14 18:42:24,headphones,1131,Brașov,1,21.47,21.47
+6342,2025-02-14 12:57:18,scented-candle,223,Iași,1,6.42,6.42

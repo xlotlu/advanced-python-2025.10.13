@@ -1,0 +1,18 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+7026,2025-04-03 21:16:10,board-game,686,Cluj-Napoca,1,21.96,21.96
+7027,2025-04-03 21:05:59,beach-ball,1427,Brașov,1,4.50,4.50
+7028,2025-04-03 18:18:08,scented-candle,793,Cluj-Napoca,1,6.42,6.42
+7029,2025-04-03 15:51:19,usb-charger,110,Constanța,2,13.68,27.36
+7030,2025-04-03 18:58:09,scented-candle,553,Constanța,1,6.42,6.42
+7031,2025-04-03 15:02:51,doll-classic,206,Iași,1,16.72,16.72
+7032,2025-04-03 18:07:53,board-game,1136,Timișoara,1,21.96,21.96
+7033,2025-04-03 09:25:11,board-game,208,Timișoara,1,21.96,21.96
+7034,2025-04-03 15:41:58,beach-ball,1476,Cluj-Napoca,2,4.50,9.00
+7035,2025-04-03 09:35:17,board-game,961,Brașov,1,21.96,21.96
+7036,2025-04-03 09:12:04,board-game,639,Timișoara,1,21.96,21.96
+7037,2025-04-03 15:17:16,swim-goggles,440,Timișoara,1,10.82,10.82
+7038,2025-04-03 21:19:00,board-game,1361,București,1,21.96,21.96
+7039,2025-04-03 15:24:18,doll-classic,304,Constanța,1,16.72,16.72
+7040,2025-04-03 18:45:59,scented-candle,1007,București,2,6.42,12.84
+7041,2025-04-03 21:29:58,board-game,282,Cluj-Napoca,1,21.96,21.96
+7042,2025-04-03 09:55:35,garden-hose,1167,București,1,18.03,18.03

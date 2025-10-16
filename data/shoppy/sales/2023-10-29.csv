@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1993,2023-10-29 12:18:10,paperback-novel,1333,Timișoara,1,8.90,8.90
+1994,2023-10-29 21:49:33,swim-goggles,610,Cluj-Napoca,1,9.90,9.90
+1995,2023-10-29 18:39:46,paperback-novel,938,Timișoara,2,8.90,17.80
+1996,2023-10-29 15:56:23,paperback-novel,1005,Timișoara,1,8.90,8.90
+1997,2023-10-29 12:33:08,swim-goggles,1062,Brașov,1,9.90,9.90
+1998,2023-10-29 09:09:04,garden-hose,904,Constanța,2,18.99,37.98
+1999,2023-10-29 15:42:57,garden-hose,1357,Iași,1,18.99,18.99
+2000,2023-10-29 18:19:33,notebook-a5,1107,București,2,3.30,6.60
+2001,2023-10-29 21:57:05,swim-goggles,947,Cluj-Napoca,1,9.90,9.90
+2002,2023-10-29 15:19:58,beach-ball,538,Timișoara,1,4.37,4.37

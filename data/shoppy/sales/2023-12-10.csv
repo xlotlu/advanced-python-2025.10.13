@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2270,2023-12-10 15:11:12,headphones,707,Timișoara,2,21.47,42.94
+2271,2023-12-10 21:38:42,usb-charger,317,Brașov,3,11.61,34.83
+2272,2023-12-10 18:46:35,paperback-novel,508,Timișoara,1,8.90,8.90
+2273,2023-12-10 18:55:25,swim-goggles,1139,Brașov,1,9.90,9.90
+2274,2023-12-10 15:11:23,headphones,889,Constanța,1,21.47,21.47
+2275,2023-12-10 12:11:03,beach-ball,1072,Timișoara,1,4.37,4.37
+2276,2023-12-10 21:52:15,scented-candle,196,București,2,6.60,13.20

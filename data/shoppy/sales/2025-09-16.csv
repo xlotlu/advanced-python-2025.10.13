@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+9225,2025-09-16 21:59:27,board-game,457,Constanța,1,21.96,21.96
+9226,2025-09-16 12:32:48,board-game,601,Constanța,1,21.96,21.96
+9227,2025-09-16 18:17:50,board-game,231,Iași,1,21.96,21.96
+9228,2025-09-16 18:07:56,usb-charger,544,Cluj-Napoca,1,13.94,13.94
+9229,2025-09-16 18:29:11,swim-goggles,1344,Cluj-Napoca,1,10.82,10.82
+9230,2025-09-16 21:10:28,swim-goggles,102,Iași,1,10.82,10.82

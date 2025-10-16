@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1892,2023-10-12 21:37:51,swim-goggles,34,București,1,9.90,9.90
+1893,2023-10-12 21:42:51,beach-ball,272,Cluj-Napoca,1,4.37,4.37
+1894,2023-10-12 09:52:56,swim-goggles,1480,Constanța,2,9.90,19.80
+1895,2023-10-12 18:34:29,usb-charger,1495,Timișoara,2,11.61,23.22
+1896,2023-10-12 21:41:40,garden-hose,1416,Timișoara,1,18.99,18.99
+1897,2023-10-12 15:39:50,headphones,1231,Timișoara,2,21.47,42.94
+1898,2023-10-12 12:24:23,scented-candle,1311,Constanța,1,6.60,6.60
+1899,2023-10-12 21:09:50,headphones,1388,București,1,21.47,21.47

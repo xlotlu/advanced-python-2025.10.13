@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+697,2023-04-15 15:03:14,scented-candle,804,Brașov,1,5.90,5.90
+698,2023-04-15 15:53:04,board-game,1419,Cluj-Napoca,1,19.90,19.90
+699,2023-04-15 15:52:24,headphones,338,Brașov,1,19.90,19.90
+700,2023-04-15 15:17:06,swim-goggles,214,București,1,9.90,9.90
+701,2023-04-15 18:01:15,board-game,578,Timișoara,1,19.90,19.90
+702,2023-04-15 12:00:48,board-game,634,București,1,19.90,19.90
+703,2023-04-15 21:15:17,board-game,175,Cluj-Napoca,1,19.90,19.90
+704,2023-04-15 15:50:30,scented-candle,94,Iași,1,5.90,5.90
+705,2023-04-15 12:22:48,swim-goggles,579,Timișoara,1,9.90,9.90
+706,2023-04-15 12:25:46,scented-candle,729,Constanța,1,5.90,5.90

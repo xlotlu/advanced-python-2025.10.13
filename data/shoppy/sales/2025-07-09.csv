@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+8372,2025-07-09 15:55:51,usb-charger,650,Constanța,1,13.94,13.94
+8373,2025-07-09 15:23:39,board-game,323,Iași,3,21.96,65.88
+8374,2025-07-09 12:49:22,paperback-novel,60,Timișoara,1,10.15,10.15
+8375,2025-07-09 12:33:57,usb-charger,1049,Constanța,3,13.94,41.82
+8376,2025-07-09 18:39:15,paperback-novel,1276,Constanța,1,10.15,10.15
+8377,2025-07-09 21:43:57,headphones,1366,Timișoara,1,21.57,21.57
+8378,2025-07-09 12:45:32,swim-goggles,44,București,1,10.82,10.82
+8379,2025-07-09 12:10:00,headphones,394,Constanța,1,21.57,21.57
+8380,2025-07-09 18:51:26,scented-candle,25,Brașov,1,6.47,6.47
+8381,2025-07-09 12:15:11,beach-ball,501,Cluj-Napoca,1,4.25,4.25
+8382,2025-07-09 18:08:40,swim-goggles,70,Constanța,1,10.82,10.82

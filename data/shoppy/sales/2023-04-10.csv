@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+662,2023-04-10 15:49:24,board-game,821,Brașov,1,19.90,19.90
+663,2023-04-10 09:36:13,paperback-novel,1213,Brașov,1,8.90,8.90
+664,2023-04-10 18:29:32,winter-gloves,1450,Cluj-Napoca,2,14.90,29.80
+665,2023-04-10 21:18:45,winter-gloves,550,Timișoara,1,14.90,14.90

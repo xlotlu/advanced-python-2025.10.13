@@ -1,0 +1,17 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+6659,2025-03-09 15:56:25,board-game,445,Brașov,1,21.96,21.96
+6660,2025-03-09 12:22:44,board-game,655,București,1,21.96,21.96
+6661,2025-03-09 15:43:18,scented-candle,1236,Constanța,1,6.42,6.42
+6662,2025-03-09 12:09:06,board-game,820,Brașov,1,21.96,21.96
+6663,2025-03-09 09:58:53,beach-ball,1040,Iași,1,4.50,4.50
+6664,2025-03-09 18:39:13,paperback-novel,1406,Timișoara,2,10.15,20.30
+6665,2025-03-09 21:44:56,paperback-novel,1410,București,1,10.15,10.15
+6666,2025-03-09 18:59:12,usb-charger,746,Timișoara,1,13.68,13.68
+6667,2025-03-09 21:55:24,board-game,336,București,1,21.96,21.96
+6668,2025-03-09 12:45:51,garden-hose,854,Cluj-Napoca,1,18.03,18.03
+6669,2025-03-09 18:33:34,board-game,1236,Constanța,1,21.96,21.96
+6670,2025-03-09 21:47:30,garden-hose,126,Cluj-Napoca,2,18.03,36.06
+6671,2025-03-09 15:26:24,swim-goggles,900,Constanța,1,10.82,10.82
+6672,2025-03-09 12:47:41,board-game,938,Timișoara,1,21.96,21.96
+6673,2025-03-09 21:37:17,winter-gloves,138,Cluj-Napoca,2,17.06,34.12
+6674,2025-03-09 18:01:49,doll-classic,574,Constanța,1,16.72,16.72

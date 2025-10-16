@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1973,2023-10-26 09:47:15,garden-hose,808,București,2,18.99,37.98
+1974,2023-10-26 09:55:04,beach-ball,1469,Cluj-Napoca,1,4.37,4.37
+1975,2023-10-26 18:09:40,garden-hose,949,București,1,18.99,18.99
+1976,2023-10-26 12:41:34,headphones,1499,Brașov,1,21.47,21.47
+1977,2023-10-26 12:43:20,swim-goggles,1135,Cluj-Napoca,1,9.90,9.90
+1978,2023-10-26 18:10:43,swim-goggles,710,Timișoara,1,9.90,9.90
+1979,2023-10-26 12:07:32,beach-ball,672,Timișoara,2,4.37,8.74
+1980,2023-10-26 15:03:21,headphones,107,Timișoara,1,21.47,21.47
+1981,2023-10-26 15:38:05,headphones,530,Timișoara,1,21.47,21.47

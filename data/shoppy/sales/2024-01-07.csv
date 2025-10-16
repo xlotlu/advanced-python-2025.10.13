@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2463,2024-01-07 12:30:53,paperback-novel,476,București,1,8.90,8.90
+2464,2024-01-07 09:44:11,usb-charger,786,Brașov,2,11.61,23.22
+2465,2024-01-07 18:36:54,scented-candle,136,București,1,6.60,6.60
+2466,2024-01-07 15:10:23,board-game,505,Cluj-Napoca,1,21.96,21.96
+2467,2024-01-07 15:26:26,notebook-a5,615,București,1,3.30,3.30
+2468,2024-01-07 21:14:15,beach-ball,829,București,1,4.37,4.37
+2469,2024-01-07 12:56:28,notebook-a5,555,Brașov,1,3.30,3.30
+2470,2024-01-07 18:42:14,notebook-a5,693,Constanța,1,3.30,3.30
+2471,2024-01-07 18:59:26,swim-goggles,261,Cluj-Napoca,1,9.90,9.90

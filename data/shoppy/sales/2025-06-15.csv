@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+8051,2025-06-15 12:44:21,usb-charger,1407,București,1,13.68,13.68
+8052,2025-06-15 09:48:36,doll-classic,1500,Brașov,3,16.72,50.16
+8053,2025-06-15 09:10:01,headphones,1500,Brașov,1,21.47,21.47
+8054,2025-06-15 12:25:15,board-game,138,Cluj-Napoca,1,21.96,21.96
+8055,2025-06-15 15:39:38,headphones,457,Constanța,1,21.47,21.47
+8056,2025-06-15 18:15:14,scented-candle,572,Cluj-Napoca,1,6.42,6.42
+8057,2025-06-15 18:34:25,scented-candle,501,Cluj-Napoca,1,6.42,6.42
+8058,2025-06-15 12:50:08,doll-classic,786,Brașov,1,16.72,16.72

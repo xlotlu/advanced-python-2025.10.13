@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2893,2024-02-20 09:50:57,swim-goggles,1088,Brașov,1,9.90,9.90
+2894,2024-02-20 15:49:12,garden-hose,841,Iași,1,18.99,18.99
+2895,2024-02-20 18:50:40,board-game,619,Iași,1,21.96,21.96
+2896,2024-02-20 15:16:25,headphones,1215,Timișoara,1,21.47,21.47
+2897,2024-02-20 18:16:46,scented-candle,1010,București,1,6.60,6.60
+2898,2024-02-20 18:52:44,winter-gloves,503,Timișoara,1,17.06,17.06
+2899,2024-02-20 12:20:36,scented-candle,697,Brașov,1,6.60,6.60
+2900,2024-02-20 12:18:23,scented-candle,1463,Constanța,1,6.60,6.60
+2901,2024-02-20 15:12:38,garden-hose,796,Constanța,1,18.99,18.99
+2902,2024-02-20 12:43:01,swim-goggles,1350,București,1,9.90,9.90
+2903,2024-02-20 15:02:24,garden-hose,943,Brașov,1,18.99,18.99

@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+122,2023-01-24 15:13:30,headphones,797,Timișoara,1,19.90,19.90
+123,2023-01-24 12:40:46,winter-gloves,87,Brașov,1,14.90,14.90
+124,2023-01-24 12:30:40,garden-hose,612,Brașov,1,16.90,16.90
+125,2023-01-24 21:13:07,board-game,484,Brașov,2,19.90,39.80
+126,2023-01-24 12:17:37,winter-gloves,246,Timișoara,1,14.90,14.90
+127,2023-01-24 21:37:50,usb-charger,1415,București,1,12.90,12.90
+128,2023-01-24 15:05:15,headphones,323,Iași,1,19.90,19.90

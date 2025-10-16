@@ -1,0 +1,15 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+8021,2025-06-13 12:55:19,winter-gloves,20,Brașov,1,17.06,17.06
+8022,2025-06-13 18:22:54,beach-ball,290,București,1,4.50,4.50
+8023,2025-06-13 18:30:27,board-game,1482,Brașov,1,21.96,21.96
+8024,2025-06-13 18:06:39,usb-charger,1089,Constanța,1,13.68,13.68
+8025,2025-06-13 15:15:33,usb-charger,409,Brașov,14,13.68,191.52
+8026,2025-06-13 09:28:52,usb-charger,1289,București,1,13.68,13.68
+8027,2025-06-13 09:12:05,notebook-a5,82,Cluj-Napoca,1,3.44,3.44
+8028,2025-06-13 15:15:15,headphones,1184,Brașov,1,21.47,21.47
+8029,2025-06-13 21:05:10,usb-charger,985,Timișoara,1,13.68,13.68
+8030,2025-06-13 18:36:34,notebook-a5,1131,Brașov,1,3.44,3.44
+8031,2025-06-13 12:39:38,beach-ball,1402,Cluj-Napoca,1,4.50,4.50
+8032,2025-06-13 15:09:00,board-game,1266,București,1,21.96,21.96
+8033,2025-06-13 15:19:59,headphones,820,Brașov,3,21.47,64.41
+8034,2025-06-13 09:30:22,headphones,1400,Constanța,1,21.47,21.47

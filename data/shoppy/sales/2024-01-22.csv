@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2612,2024-01-22 15:30:06,notebook-a5,1268,București,1,3.30,3.30
+2613,2024-01-22 21:59:07,garden-hose,1389,Iași,1,18.99,18.99
+2614,2024-01-22 12:23:45,paperback-novel,1250,București,1,8.90,8.90
+2615,2024-01-22 15:29:26,headphones,607,Timișoara,1,21.47,21.47
+2616,2024-01-22 18:33:54,beach-ball,481,Iași,1,4.37,4.37
+2617,2024-01-22 09:39:45,swim-goggles,751,București,1,9.90,9.90
+2618,2024-01-22 18:08:43,swim-goggles,778,Iași,2,9.90,19.80
+2619,2024-01-22 18:39:12,winter-gloves,1423,Timișoara,1,17.06,17.06
+2620,2024-01-22 15:48:16,swim-goggles,500,București,2,9.90,19.80

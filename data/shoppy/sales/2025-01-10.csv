@@ -1,0 +1,14 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5865,2025-01-10 12:49:43,paperback-novel,537,București,1,10.15,10.15
+5866,2025-01-10 18:13:52,swim-goggles,688,Timișoara,1,10.82,10.82
+5867,2025-01-10 12:50:29,doll-classic,591,Timișoara,1,16.72,16.72
+5868,2025-01-10 15:39:27,paperback-novel,1066,Iași,1,10.15,10.15
+5869,2025-01-10 12:09:23,scented-candle,587,Constanța,1,6.42,6.42
+5870,2025-01-10 12:21:44,swim-goggles,510,Constanța,1,10.82,10.82
+5871,2025-01-10 21:22:04,scented-candle,1004,București,1,6.42,6.42
+5872,2025-01-10 18:26:54,swim-goggles,44,București,3,10.82,32.46
+5873,2025-01-10 15:36:40,scented-candle,1158,Iași,1,6.42,6.42
+5874,2025-01-10 12:47:16,garden-hose,964,Constanța,1,18.03,18.03
+5875,2025-01-10 18:26:57,beach-ball,216,București,1,4.50,4.50
+5876,2025-01-10 21:02:51,beach-ball,437,București,1,4.50,4.50
+5877,2025-01-10 21:45:08,garden-hose,430,Iași,1,18.03,18.03

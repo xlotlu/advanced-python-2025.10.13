@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+986,2023-05-23 15:11:43,headphones,584,București,1,19.90,19.90
+987,2023-05-23 09:26:42,doll-classic,266,Cluj-Napoca,1,15.90,15.90
+988,2023-05-23 18:40:20,doll-classic,199,Constanța,1,15.90,15.90
+989,2023-05-23 12:04:39,doll-classic,590,Brașov,1,15.90,15.90
+990,2023-05-23 15:26:40,winter-gloves,1220,Constanța,1,14.90,14.90
+991,2023-05-23 21:00:21,doll-classic,698,Brașov,1,15.90,15.90

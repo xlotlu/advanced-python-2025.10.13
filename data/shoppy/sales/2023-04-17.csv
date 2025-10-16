@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+713,2023-04-17 15:20:23,usb-charger,171,Timișoara,1,11.61,11.61
+714,2023-04-17 12:56:43,winter-gloves,88,Brașov,1,14.90,14.90
+715,2023-04-17 18:15:44,paperback-novel,1149,Timișoara,1,8.90,8.90
+716,2023-04-17 12:10:36,beach-ball,818,București,2,3.99,7.98
+717,2023-04-17 21:42:05,notebook-a5,715,București,1,2.99,2.99

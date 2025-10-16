@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1135,2023-06-13 18:06:54,scented-candle,1065,Timișoara,1,5.31,5.31
+1136,2023-06-13 21:36:36,board-game,1439,Timișoara,1,19.90,19.90
+1137,2023-06-13 15:12:18,headphones,657,Cluj-Napoca,1,19.90,19.90
+1138,2023-06-13 12:40:27,board-game,828,Cluj-Napoca,1,19.90,19.90

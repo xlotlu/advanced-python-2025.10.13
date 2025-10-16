@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3080,2024-03-09 15:48:27,notebook-a5,107,Timișoara,1,3.30,3.30
+3081,2024-03-09 09:59:05,scented-candle,549,Constanța,1,6.60,6.60
+3082,2024-03-09 21:22:21,doll-classic,1213,Brașov,1,15.90,15.90
+3083,2024-03-09 12:42:42,usb-charger,1063,Timișoara,1,11.61,11.61
+3084,2024-03-09 15:44:59,doll-classic,702,București,1,15.90,15.90
+3085,2024-03-09 15:06:30,usb-charger,1393,Iași,1,11.61,11.61
+3086,2024-03-09 12:15:58,beach-ball,3,București,1,4.37,4.37
+3087,2024-03-09 12:44:51,notebook-a5,1200,Constanța,1,3.30,3.30
+3088,2024-03-09 15:22:13,paperback-novel,1474,Iași,1,8.90,8.90
+3089,2024-03-09 18:30:41,usb-charger,935,Cluj-Napoca,1,11.61,11.61
+3090,2024-03-09 21:55:19,doll-classic,876,București,11,15.90,174.90

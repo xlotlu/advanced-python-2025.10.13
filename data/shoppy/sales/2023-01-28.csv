@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+152,2023-01-28 18:25:28,board-game,1219,București,1,19.90,19.90
+153,2023-01-28 15:50:25,paperback-novel,304,Constanța,1,8.90,8.90
+154,2023-01-28 15:03:35,swim-goggles,818,București,1,9.90,9.90
+155,2023-01-28 15:44:08,doll-classic,277,Iași,1,15.90,15.90
+156,2023-01-28 15:36:12,headphones,1150,București,1,19.90,19.90
+157,2023-01-28 12:04:17,winter-gloves,881,Iași,1,14.90,14.90
+158,2023-01-28 09:42:26,doll-classic,868,București,2,15.90,31.80

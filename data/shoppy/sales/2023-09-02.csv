@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1667,2023-09-02 15:01:36,usb-charger,923,Constanța,1,11.61,11.61
+1668,2023-09-02 12:14:12,garden-hose,1038,Brașov,1,18.99,18.99
+1669,2023-09-02 12:54:50,garden-hose,757,București,1,18.99,18.99
+1670,2023-09-02 15:08:54,swim-goggles,1298,Constanța,1,9.90,9.90
+1671,2023-09-02 18:03:06,swim-goggles,813,București,1,9.90,9.90

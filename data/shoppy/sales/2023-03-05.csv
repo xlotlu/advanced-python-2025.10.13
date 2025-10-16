@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+402,2023-03-05 12:15:49,paperback-novel,817,Iași,1,8.90,8.90
+403,2023-03-05 12:49:25,swim-goggles,584,București,2,9.90,19.80
+404,2023-03-05 12:19:31,winter-gloves,886,Cluj-Napoca,3,14.90,44.70
+405,2023-03-05 21:38:08,winter-gloves,736,Cluj-Napoca,2,14.90,29.80
+406,2023-03-05 15:31:28,winter-gloves,795,Timișoara,2,14.90,29.80

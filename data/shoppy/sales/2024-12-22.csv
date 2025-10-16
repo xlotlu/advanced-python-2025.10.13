@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5663,2024-12-22 12:51:18,scented-candle,697,Brașov,1,6.42,6.42
+5664,2024-12-22 18:17:09,doll-classic,251,București,1,16.72,16.72
+5665,2024-12-22 15:39:25,beach-ball,243,Cluj-Napoca,1,4.50,4.50
+5666,2024-12-22 15:33:20,beach-ball,573,București,2,4.50,9.00
+5667,2024-12-22 18:02:46,usb-charger,710,Timișoara,1,13.68,13.68
+5668,2024-12-22 15:59:08,usb-charger,883,Brașov,1,13.68,13.68
+5669,2024-12-22 12:36:21,paperback-novel,495,Constanța,2,10.15,20.30
+5670,2024-12-22 09:47:42,scented-candle,1288,București,1,6.42,6.42

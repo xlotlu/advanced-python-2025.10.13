@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+75,2023-01-16 18:47:08,doll-classic,1351,Cluj-Napoca,1,15.90,15.90
+76,2023-01-16 18:10:06,swim-goggles,440,Timișoara,1,9.90,9.90
+77,2023-01-16 18:39:44,paperback-novel,1402,Cluj-Napoca,1,8.90,8.90
+78,2023-01-16 21:00:51,winter-gloves,187,Cluj-Napoca,1,14.90,14.90
+79,2023-01-16 15:05:04,garden-hose,539,Constanța,1,16.90,16.90

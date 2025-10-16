@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1966,2023-10-25 12:27:35,usb-charger,821,Brașov,1,11.61,11.61
+1967,2023-10-25 12:02:24,garden-hose,291,Timișoara,1,18.99,18.99
+1968,2023-10-25 12:22:39,garden-hose,1224,Brașov,1,18.99,18.99
+1969,2023-10-25 12:27:49,usb-charger,366,Timișoara,1,11.61,11.61
+1970,2023-10-25 12:00:21,swim-goggles,484,Brașov,2,9.90,19.80
+1971,2023-10-25 18:28:50,swim-goggles,61,București,1,9.90,9.90
+1972,2023-10-25 21:19:34,swim-goggles,591,Timișoara,1,9.90,9.90

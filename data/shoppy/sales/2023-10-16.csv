@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1916,2023-10-16 15:11:52,winter-gloves,1275,Cluj-Napoca,2,17.06,34.12
+1917,2023-10-16 21:02:27,garden-hose,773,Timișoara,1,18.99,18.99
+1918,2023-10-16 15:01:41,beach-ball,1370,Cluj-Napoca,1,4.37,4.37
+1919,2023-10-16 12:06:14,paperback-novel,1341,Brașov,1,8.90,8.90
+1920,2023-10-16 09:36:34,headphones,460,Cluj-Napoca,2,21.47,42.94
+1921,2023-10-16 18:05:11,garden-hose,311,Cluj-Napoca,1,18.99,18.99
+1922,2023-10-16 18:23:47,beach-ball,607,Timișoara,2,4.37,8.74

@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5149,2024-10-25 18:01:27,swim-goggles,656,Timișoara,1,10.82,10.82
+5150,2024-10-25 12:26:40,swim-goggles,138,Cluj-Napoca,1,10.82,10.82
+5151,2024-10-25 21:44:42,swim-goggles,426,Timișoara,1,10.82,10.82
+5152,2024-10-25 21:45:17,headphones,390,Cluj-Napoca,1,21.47,21.47
+5153,2024-10-25 09:43:53,garden-hose,843,Cluj-Napoca,1,18.03,18.03
+5154,2024-10-25 09:58:57,paperback-novel,748,Cluj-Napoca,1,8.90,8.90
+5155,2024-10-25 09:11:10,swim-goggles,745,Cluj-Napoca,3,10.82,32.46
+5156,2024-10-25 15:37:28,beach-ball,577,Cluj-Napoca,2,4.50,9.00
+5157,2024-10-25 15:41:40,usb-charger,1369,București,1,13.68,13.68

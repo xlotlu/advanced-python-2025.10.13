@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4377,2024-07-18 18:49:31,board-game,193,Brașov,1,21.96,21.96
+4378,2024-07-18 12:24:52,scented-candle,169,Constanța,1,6.42,6.42
+4379,2024-07-18 12:05:57,board-game,855,Iași,2,21.96,43.92
+4380,2024-07-18 12:06:23,doll-classic,380,Cluj-Napoca,2,16.72,33.44
+4381,2024-07-18 12:42:32,usb-charger,1297,Timișoara,1,13.68,13.68

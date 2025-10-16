@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1372,2023-07-18 18:17:50,usb-charger,171,Timișoara,1,11.61,11.61
+1373,2023-07-18 12:51:12,doll-classic,1117,Brașov,1,15.90,15.90
+1374,2023-07-18 21:39:51,scented-candle,177,Constanța,1,6.60,6.60
+1375,2023-07-18 12:33:52,scented-candle,1413,Constanța,1,6.60,6.60
+1376,2023-07-18 21:40:22,headphones,62,Cluj-Napoca,1,21.47,21.47
+1377,2023-07-18 18:06:51,doll-classic,1050,Cluj-Napoca,1,15.90,15.90

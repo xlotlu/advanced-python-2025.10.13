@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3749,2024-05-14 12:28:23,garden-hose,1370,Cluj-Napoca,1,18.99,18.99
+3750,2024-05-14 21:17:06,headphones,48,Iași,1,21.47,21.47
+3751,2024-05-14 15:26:30,scented-candle,168,Iași,3,6.60,19.80
+3752,2024-05-14 12:27:08,headphones,599,Cluj-Napoca,1,21.47,21.47
+3753,2024-05-14 15:44:16,doll-classic,1153,Iași,2,15.90,31.80

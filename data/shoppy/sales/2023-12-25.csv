@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2365,2023-12-25 21:17:25,paperback-novel,51,Constanța,1,8.90,8.90
+2366,2023-12-25 15:28:39,garden-hose,552,Timișoara,1,18.99,18.99
+2367,2023-12-25 12:43:34,paperback-novel,495,Constanța,1,8.90,8.90
+2368,2023-12-25 21:28:09,scented-candle,413,Constanța,2,6.60,13.20
+2369,2023-12-25 18:03:36,usb-charger,289,Timișoara,1,11.61,11.61
+2370,2023-12-25 12:06:26,usb-charger,661,Timișoara,1,11.61,11.61

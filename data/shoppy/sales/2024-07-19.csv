@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4382,2024-07-19 18:31:18,usb-charger,1352,Timișoara,1,13.68,13.68
+4383,2024-07-19 12:48:57,winter-gloves,554,Brașov,1,17.06,17.06
+4384,2024-07-19 18:12:22,beach-ball,392,Timișoara,1,4.50,4.50
+4385,2024-07-19 12:05:35,doll-classic,405,Iași,1,16.72,16.72
+4386,2024-07-19 18:53:05,swim-goggles,426,Timișoara,2,10.82,21.64
+4387,2024-07-19 21:23:22,headphones,149,Cluj-Napoca,2,21.47,42.94

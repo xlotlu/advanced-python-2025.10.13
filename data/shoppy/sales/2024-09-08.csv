@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4796,2024-09-08 12:15:02,board-game,1211,București,1,21.96,21.96
+4797,2024-09-08 15:49:24,scented-candle,1050,Cluj-Napoca,1,6.42,6.42
+4798,2024-09-08 12:07:35,garden-hose,68,Timișoara,1,18.03,18.03
+4799,2024-09-08 18:17:29,beach-ball,341,Brașov,1,4.50,4.50
+4800,2024-09-08 18:14:06,paperback-novel,252,Iași,1,8.90,8.90
+4801,2024-09-08 15:28:19,swim-goggles,794,Brașov,1,10.82,10.82

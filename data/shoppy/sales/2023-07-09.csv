@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1324,2023-07-09 15:48:01,doll-classic,442,Cluj-Napoca,1,15.90,15.90
+1325,2023-07-09 12:55:37,usb-charger,287,Timișoara,1,11.61,11.61
+1326,2023-07-09 12:01:57,paperback-novel,466,Cluj-Napoca,1,8.90,8.90
+1327,2023-07-09 15:45:29,scented-candle,761,Cluj-Napoca,1,6.60,6.60
+1328,2023-07-09 15:03:15,notebook-a5,299,București,1,3.30,3.30
+1329,2023-07-09 12:03:22,scented-candle,953,Cluj-Napoca,2,6.60,13.20

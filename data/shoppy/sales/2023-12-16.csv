@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2308,2023-12-16 21:51:43,winter-gloves,1377,Timișoara,1,17.06,17.06
+2309,2023-12-16 12:38:57,scented-candle,964,Constanța,1,6.60,6.60
+2310,2023-12-16 21:23:45,winter-gloves,571,Constanța,1,17.06,17.06
+2311,2023-12-16 21:03:55,board-game,1090,Cluj-Napoca,1,21.96,21.96
+2312,2023-12-16 12:40:57,winter-gloves,403,Iași,1,17.06,17.06
+2313,2023-12-16 12:47:04,beach-ball,1265,Constanța,1,4.37,4.37

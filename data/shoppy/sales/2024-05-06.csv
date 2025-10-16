@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3663,2024-05-06 15:48:17,headphones,467,București,1,21.47,21.47
+3664,2024-05-06 21:17:51,garden-hose,218,Timișoara,1,18.99,18.99
+3665,2024-05-06 09:09:54,swim-goggles,997,Cluj-Napoca,1,9.90,9.90
+3666,2024-05-06 12:12:22,garden-hose,571,Constanța,1,18.99,18.99
+3667,2024-05-06 21:00:06,notebook-a5,1075,Brașov,1,3.30,3.30
+3668,2024-05-06 21:39:26,garden-hose,1252,București,1,18.99,18.99
+3669,2024-05-06 12:09:48,scented-candle,1286,București,1,6.60,6.60
+3670,2024-05-06 21:20:13,paperback-novel,1083,Brașov,1,8.90,8.90
+3671,2024-05-06 15:06:05,doll-classic,666,Brașov,1,15.90,15.90
+3672,2024-05-06 12:29:23,winter-gloves,811,Cluj-Napoca,1,17.06,17.06

@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2036,2023-11-05 18:30:09,headphones,799,Timișoara,1,21.47,21.47
+2037,2023-11-05 15:13:11,scented-candle,364,Timișoara,2,6.60,13.20
+2038,2023-11-05 18:11:18,doll-classic,29,Iași,14,15.90,222.60
+2039,2023-11-05 15:13:11,swim-goggles,859,Iași,2,9.90,19.80
+2040,2023-11-05 15:02:12,beach-ball,626,Brașov,1,4.37,4.37

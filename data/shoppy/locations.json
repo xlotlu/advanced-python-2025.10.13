@@ -1,0 +1,38 @@
+[
+  {
+    "city": "București",
+    "county": "București",
+    "nuts3": "RO321",
+    "nuts2": "RO32"
+  },
+  {
+    "city": "Cluj-Napoca",
+    "county": "Cluj",
+    "nuts3": "RO113",
+    "nuts2": "RO11"
+  },
+  {
+    "city": "Timișoara",
+    "county": "Timiș",
+    "nuts3": "RO424",
+    "nuts2": "RO42"
+  },
+  {
+    "city": "Iași",
+    "county": "Iași",
+    "nuts3": "RO213",
+    "nuts2": "RO21"
+  },
+  {
+    "city": "Constanța",
+    "county": "Constanța",
+    "nuts3": "RO223",
+    "nuts2": "RO22"
+  },
+  {
+    "city": "Brașov",
+    "county": "Brașov",
+    "nuts3": "RO122",
+    "nuts2": "RO12"
+  }
+]

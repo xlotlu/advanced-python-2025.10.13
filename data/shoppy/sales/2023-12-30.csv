@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2395,2023-12-30 21:17:51,winter-gloves,955,Brașov,1,17.06,17.06
+2396,2023-12-30 18:04:40,scented-candle,912,Constanța,1,6.60,6.60
+2397,2023-12-30 12:33:04,usb-charger,1116,Iași,1,11.61,11.61
+2398,2023-12-30 18:47:13,paperback-novel,948,București,1,8.90,8.90
+2399,2023-12-30 09:31:38,headphones,119,Brașov,1,21.47,21.47
+2400,2023-12-30 15:38:48,paperback-novel,1459,Brașov,1,8.90,8.90
+2401,2023-12-30 18:13:32,winter-gloves,540,Timișoara,1,17.06,17.06
+2402,2023-12-30 12:01:55,paperback-novel,319,Brașov,1,8.90,8.90
+2403,2023-12-30 15:09:15,scented-candle,1216,București,1,6.60,6.60

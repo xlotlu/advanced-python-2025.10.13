@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+424,2023-03-09 12:35:03,scented-candle,38,Timișoara,1,5.90,5.90
+425,2023-03-09 18:11:52,usb-charger,1032,Timișoara,1,11.61,11.61
+426,2023-03-09 15:39:14,beach-ball,248,București,1,3.99,3.99
+427,2023-03-09 21:50:22,paperback-novel,96,București,1,8.90,8.90
+428,2023-03-09 21:54:44,garden-hose,1056,Constanța,1,16.90,16.90

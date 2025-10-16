@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+48,2023-01-11 09:12:20,board-game,996,Constanța,1,19.90,19.90
+49,2023-01-11 12:37:09,headphones,1159,Iași,1,19.90,19.90
+50,2023-01-11 21:10:00,paperback-novel,642,Timișoara,2,8.90,17.80
+51,2023-01-11 18:27:17,board-game,737,Cluj-Napoca,1,19.90,19.90
+52,2023-01-11 21:29:28,swim-goggles,735,Iași,1,9.90,9.90
+53,2023-01-11 12:41:38,garden-hose,168,Iași,1,16.90,16.90
+54,2023-01-11 12:34:12,notebook-a5,540,Timișoara,2,2.99,5.98

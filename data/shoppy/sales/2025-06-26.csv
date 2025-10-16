@@ -1,0 +1,16 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+8198,2025-06-26 21:25:22,usb-charger,690,Constanța,1,13.68,13.68
+8199,2025-06-26 15:05:22,headphones,60,Timișoara,2,21.47,42.94
+8200,2025-06-26 15:51:54,doll-classic,1114,Timișoara,1,16.72,16.72
+8201,2025-06-26 18:48:03,winter-gloves,852,Brașov,1,17.06,17.06
+8202,2025-06-26 15:43:48,usb-charger,991,București,1,13.68,13.68
+8203,2025-06-26 15:12:27,headphones,37,Brașov,1,21.47,21.47
+8204,2025-06-26 18:54:13,beach-ball,1106,Cluj-Napoca,1,4.50,4.50
+8205,2025-06-26 18:15:46,beach-ball,1248,Timișoara,1,4.50,4.50
+8206,2025-06-26 15:49:54,paperback-novel,500,București,1,10.15,10.15
+8207,2025-06-26 12:38:43,usb-charger,1271,București,1,13.68,13.68
+8208,2025-06-26 15:10:53,winter-gloves,133,Cluj-Napoca,1,17.06,17.06
+8209,2025-06-26 12:00:44,paperback-novel,1353,București,2,10.15,20.30
+8210,2025-06-26 15:05:26,garden-hose,1114,Timișoara,2,18.03,36.06
+8211,2025-06-26 15:06:20,beach-ball,408,Timișoara,1,4.50,4.50
+8212,2025-06-26 09:39:13,doll-classic,677,Brașov,2,16.72,33.44

@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1596,2023-08-22 18:51:59,beach-ball,440,Timișoara,1,4.37,4.37
+1597,2023-08-22 12:49:44,winter-gloves,1195,Timișoara,1,17.06,17.06
+1598,2023-08-22 09:29:07,headphones,291,Timișoara,1,21.47,21.47
+1599,2023-08-22 15:20:34,board-game,751,București,1,21.96,21.96
+1600,2023-08-22 12:54:01,doll-classic,532,Brașov,1,15.90,15.90
+1601,2023-08-22 18:01:09,scented-candle,987,Brașov,2,6.60,13.20

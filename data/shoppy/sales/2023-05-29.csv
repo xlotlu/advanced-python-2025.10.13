@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1026,2023-05-29 15:18:41,paperback-novel,614,Constanța,1,8.90,8.90
+1027,2023-05-29 12:43:35,doll-classic,1031,Timișoara,1,15.90,15.90
+1028,2023-05-29 21:11:31,doll-classic,14,Iași,1,15.90,15.90
+1029,2023-05-29 15:10:11,doll-classic,135,Iași,3,15.90,47.70
+1030,2023-05-29 09:55:28,garden-hose,702,București,1,15.21,15.21
+1031,2023-05-29 12:49:06,paperback-novel,475,Brașov,1,8.90,8.90

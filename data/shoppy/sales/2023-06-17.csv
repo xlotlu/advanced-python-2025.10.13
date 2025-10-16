@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1159,2023-06-17 21:14:09,scented-candle,588,Constanța,1,5.31,5.31
+1160,2023-06-17 21:16:56,paperback-novel,329,Timișoara,1,8.90,8.90
+1161,2023-06-17 18:09:02,usb-charger,942,Cluj-Napoca,1,11.61,11.61
+1162,2023-06-17 21:25:08,usb-charger,1284,Brașov,2,11.61,23.22
+1163,2023-06-17 15:26:29,doll-classic,927,Iași,2,15.90,31.80

@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1847,2023-10-05 15:36:33,headphones,972,Constanța,1,21.47,21.47
+1848,2023-10-05 15:30:14,swim-goggles,164,Iași,1,9.90,9.90
+1849,2023-10-05 12:28:41,garden-hose,798,Iași,3,18.99,56.97
+1850,2023-10-05 21:44:36,winter-gloves,1087,Iași,1,17.06,17.06
+1851,2023-10-05 15:22:15,headphones,1306,Constanța,1,21.47,21.47
+1852,2023-10-05 18:57:58,scented-candle,1431,Constanța,2,6.60,13.20

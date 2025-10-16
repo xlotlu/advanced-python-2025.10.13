@@ -1,0 +1,4 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+223,2023-02-07 15:37:38,scented-candle,949,București,1,5.90,5.90
+224,2023-02-07 15:19:25,doll-classic,143,Constanța,1,15.90,15.90
+225,2023-02-07 15:52:24,paperback-novel,671,București,1,8.90,8.90

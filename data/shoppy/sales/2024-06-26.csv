@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4192,2024-06-26 18:04:39,board-game,829,București,1,21.96,21.96
+4193,2024-06-26 09:44:22,beach-ball,1388,București,1,4.37,4.37
+4194,2024-06-26 21:12:29,scented-candle,1461,București,1,6.60,6.60
+4195,2024-06-26 12:29:57,board-game,853,Constanța,1,21.96,21.96
+4196,2024-06-26 15:25:31,board-game,45,Brașov,1,21.96,21.96
+4197,2024-06-26 18:53:16,headphones,523,Constanța,1,21.47,21.47
+4198,2024-06-26 09:47:19,headphones,5,București,2,21.47,42.94

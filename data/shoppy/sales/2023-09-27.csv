@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1802,2023-09-27 12:29:25,headphones,1202,Constanța,1,21.47,21.47
+1803,2023-09-27 21:46:49,garden-hose,1302,Brașov,1,18.99,18.99
+1804,2023-09-27 21:27:23,board-game,1156,Timișoara,1,21.96,21.96
+1805,2023-09-27 15:59:46,usb-charger,1218,Timișoara,2,11.61,23.22

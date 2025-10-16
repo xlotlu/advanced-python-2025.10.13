@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+171,2023-01-31 18:56:26,notebook-a5,843,Cluj-Napoca,1,2.99,2.99
+172,2023-01-31 18:40:59,doll-classic,561,Brașov,1,15.90,15.90
+173,2023-01-31 12:01:48,swim-goggles,1254,Cluj-Napoca,1,9.90,9.90
+174,2023-01-31 15:38:14,winter-gloves,473,Iași,1,14.90,14.90
+175,2023-01-31 18:30:08,winter-gloves,1029,Brașov,1,14.90,14.90
+176,2023-01-31 15:11:54,garden-hose,794,Brașov,1,16.90,16.90
+177,2023-01-31 12:02:26,headphones,31,Brașov,1,19.90,19.90
+178,2023-01-31 12:42:12,scented-candle,419,Iași,3,5.90,17.70

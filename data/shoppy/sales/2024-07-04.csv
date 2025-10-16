@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4265,2024-07-04 12:06:42,usb-charger,1068,Brașov,1,13.68,13.68
+4266,2024-07-04 09:59:59,headphones,578,Timișoara,1,21.47,21.47
+4267,2024-07-04 09:45:24,headphones,389,București,1,21.47,21.47
+4268,2024-07-04 15:49:34,headphones,1002,Brașov,1,21.47,21.47
+4269,2024-07-04 12:51:50,headphones,33,Timișoara,1,21.47,21.47
+4270,2024-07-04 12:21:57,garden-hose,1410,București,1,18.03,18.03
+4271,2024-07-04 18:15:23,paperback-novel,1359,Brașov,2,8.90,17.80

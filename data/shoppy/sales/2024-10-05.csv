@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5015,2024-10-05 18:43:53,headphones,1173,Timișoara,1,21.47,21.47
+5016,2024-10-05 21:02:14,doll-classic,1486,Timișoara,1,16.72,16.72
+5017,2024-10-05 12:30:47,beach-ball,62,Cluj-Napoca,1,4.50,4.50
+5018,2024-10-05 09:39:22,beach-ball,1460,Constanța,1,4.50,4.50
+5019,2024-10-05 15:41:51,paperback-novel,158,Timișoara,1,8.90,8.90
+5020,2024-10-05 15:24:46,board-game,1367,București,8,21.96,175.68
+5021,2024-10-05 12:41:19,paperback-novel,999,Constanța,1,8.90,8.90

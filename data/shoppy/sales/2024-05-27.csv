@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3873,2024-05-27 12:19:35,doll-classic,219,Iași,2,15.90,31.80
+3874,2024-05-27 12:24:26,doll-classic,877,București,2,15.90,31.80
+3875,2024-05-27 12:13:51,board-game,1182,București,2,21.96,43.92
+3876,2024-05-27 12:29:45,garden-hose,105,București,1,18.99,18.99
+3877,2024-05-27 12:59:41,notebook-a5,202,Brașov,3,3.30,9.90
+3878,2024-05-27 21:40:15,board-game,1167,București,1,21.96,21.96
+3879,2024-05-27 15:47:34,swim-goggles,1256,Brașov,1,9.90,9.90
+3880,2024-05-27 12:18:51,paperback-novel,915,Iași,1,8.90,8.90
+3881,2024-05-27 21:36:04,headphones,270,București,1,21.47,21.47
+3882,2024-05-27 09:28:58,paperback-novel,230,Cluj-Napoca,1,8.90,8.90

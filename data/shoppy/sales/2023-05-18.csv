@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+944,2023-05-18 12:32:26,usb-charger,355,București,1,11.61,11.61
+945,2023-05-18 21:19:17,paperback-novel,1149,Timișoara,2,8.90,17.80
+946,2023-05-18 15:44:05,doll-classic,1160,București,1,15.90,15.90
+947,2023-05-18 21:11:46,scented-candle,177,Constanța,1,5.31,5.31
+948,2023-05-18 21:49:10,board-game,22,Iași,1,19.90,19.90

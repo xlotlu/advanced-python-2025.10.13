@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2904,2024-02-21 12:49:05,swim-goggles,438,Brașov,1,9.90,9.90
+2905,2024-02-21 12:12:39,board-game,15,Timișoara,1,21.96,21.96
+2906,2024-02-21 15:58:54,swim-goggles,635,Iași,1,9.90,9.90
+2907,2024-02-21 21:14:27,board-game,830,Constanța,1,21.96,21.96
+2908,2024-02-21 12:45:49,garden-hose,1490,Constanța,2,18.99,37.98
+2909,2024-02-21 18:04:44,paperback-novel,549,Constanța,1,8.90,8.90

@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2714,2024-02-02 15:43:51,headphones,239,București,1,21.47,21.47
+2715,2024-02-02 15:48:09,winter-gloves,872,Iași,1,17.06,17.06
+2716,2024-02-02 12:47:25,board-game,782,Brașov,1,21.96,21.96
+2717,2024-02-02 12:01:23,scented-candle,745,Cluj-Napoca,1,6.60,6.60
+2718,2024-02-02 12:54:54,headphones,1075,Brașov,1,21.47,21.47
+2719,2024-02-02 21:10:46,headphones,287,Timișoara,1,21.47,21.47
+2720,2024-02-02 18:18:42,board-game,780,Constanța,1,21.96,21.96
+2721,2024-02-02 18:56:24,scented-candle,361,Iași,1,6.60,6.60

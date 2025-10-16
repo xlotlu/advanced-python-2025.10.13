@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+9309,2025-09-24 18:28:47,paperback-novel,29,Iași,1,10.15,10.15
+9310,2025-09-24 12:32:38,doll-classic,219,Iași,1,17.86,17.86
+9311,2025-09-24 12:45:05,winter-gloves,251,București,1,15.99,15.99
+9312,2025-09-24 15:20:20,swim-goggles,1094,Constanța,1,10.82,10.82
+9313,2025-09-24 12:13:14,beach-ball,1232,Brașov,1,4.25,4.25
+9314,2025-09-24 09:18:39,winter-gloves,1060,București,2,15.99,31.98
+9315,2025-09-24 21:11:30,swim-goggles,964,Constanța,1,10.82,10.82
+9316,2025-09-24 18:37:14,beach-ball,307,Constanța,1,4.25,4.25
+9317,2025-09-24 15:31:21,headphones,281,Cluj-Napoca,2,21.57,43.14
+9318,2025-09-24 18:52:30,board-game,713,Constanța,1,21.96,21.96
+9319,2025-09-24 12:28:59,scented-candle,1221,Iași,1,6.47,6.47

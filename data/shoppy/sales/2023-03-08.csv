@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+420,2023-03-08 12:04:17,headphones,1328,Timișoara,1,19.90,19.90
+421,2023-03-08 15:41:22,usb-charger,919,Timișoara,1,11.61,11.61
+422,2023-03-08 12:12:30,winter-gloves,705,Timișoara,1,14.90,14.90
+423,2023-03-08 15:43:21,usb-charger,1234,București,1,11.61,11.61

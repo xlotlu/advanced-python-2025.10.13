@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4866,2024-09-16 12:57:59,garden-hose,398,Constanța,1,18.03,18.03
+4867,2024-09-16 15:34:20,beach-ball,1214,Timișoara,1,4.50,4.50
+4868,2024-09-16 15:46:01,swim-goggles,29,Iași,1,10.82,10.82
+4869,2024-09-16 21:17:14,headphones,1124,Cluj-Napoca,1,21.47,21.47
+4870,2024-09-16 15:23:30,swim-goggles,1039,Brașov,1,10.82,10.82
+4871,2024-09-16 15:57:27,garden-hose,21,București,2,18.03,36.06
+4872,2024-09-16 21:50:16,headphones,141,București,3,21.47,64.41
+4873,2024-09-16 18:42:08,headphones,577,Cluj-Napoca,1,21.47,21.47
+4874,2024-09-16 18:35:33,swim-goggles,350,Cluj-Napoca,1,10.82,10.82

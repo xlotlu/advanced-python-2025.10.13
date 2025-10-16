@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2778,2024-02-08 12:30:53,scented-candle,735,Iași,1,6.60,6.60
+2779,2024-02-08 09:21:04,usb-charger,1112,București,1,11.61,11.61
+2780,2024-02-08 09:06:24,winter-gloves,1007,București,1,17.06,17.06
+2781,2024-02-08 21:43:11,winter-gloves,419,Iași,1,17.06,17.06
+2782,2024-02-08 21:39:56,doll-classic,1311,Constanța,1,15.90,15.90

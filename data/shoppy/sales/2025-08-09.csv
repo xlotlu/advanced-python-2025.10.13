@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+8783,2025-08-09 15:22:46,doll-classic,1115,București,1,17.86,17.86
+8784,2025-08-09 12:25:40,swim-goggles,207,Timișoara,1,10.82,10.82
+8785,2025-08-09 12:54:30,usb-charger,64,Brașov,3,13.94,41.82
+8786,2025-08-09 12:35:31,beach-ball,257,Cluj-Napoca,1,4.25,4.25
+8787,2025-08-09 18:15:25,swim-goggles,5,București,1,10.82,10.82
+8788,2025-08-09 18:32:48,usb-charger,560,București,1,13.94,13.94
+8789,2025-08-09 15:39:15,garden-hose,179,București,1,18.84,18.84
+8790,2025-08-09 12:01:26,usb-charger,360,Iași,1,13.94,13.94
+8791,2025-08-09 09:10:56,board-game,935,Cluj-Napoca,1,21.96,21.96
+8792,2025-08-09 15:23:24,board-game,1169,Cluj-Napoca,1,21.96,21.96
+8793,2025-08-09 12:31:47,board-game,544,Cluj-Napoca,1,21.96,21.96

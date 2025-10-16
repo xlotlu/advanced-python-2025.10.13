@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1491,2023-08-05 15:43:09,swim-goggles,890,Cluj-Napoca,1,9.90,9.90
+1492,2023-08-05 15:36:24,paperback-novel,706,Constanța,1,8.90,8.90
+1493,2023-08-05 18:00:35,usb-charger,987,Brașov,1,11.61,11.61
+1494,2023-08-05 18:56:09,notebook-a5,390,Cluj-Napoca,1,3.30,3.30

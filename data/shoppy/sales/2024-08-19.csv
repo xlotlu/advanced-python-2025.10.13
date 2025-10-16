@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4645,2024-08-19 12:36:32,winter-gloves,1353,București,1,17.06,17.06
+4646,2024-08-19 18:26:53,paperback-novel,386,București,1,8.90,8.90
+4647,2024-08-19 21:11:32,usb-charger,1329,Cluj-Napoca,1,13.68,13.68
+4648,2024-08-19 15:36:24,paperback-novel,24,Timișoara,2,8.90,17.80
+4649,2024-08-19 21:54:50,beach-ball,1033,Iași,1,4.50,4.50
+4650,2024-08-19 21:10:31,paperback-novel,1205,Brașov,1,8.90,8.90

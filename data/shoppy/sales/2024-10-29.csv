@@ -1,0 +1,4 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5186,2024-10-29 15:07:05,notebook-a5,41,Constanța,3,3.44,10.32
+5187,2024-10-29 12:01:47,paperback-novel,1164,București,1,8.90,8.90
+5188,2024-10-29 21:30:25,swim-goggles,991,București,1,10.82,10.82

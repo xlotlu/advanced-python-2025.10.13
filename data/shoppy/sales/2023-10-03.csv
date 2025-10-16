@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1833,2023-10-03 12:35:42,paperback-novel,1160,București,1,8.90,8.90
+1834,2023-10-03 21:40:55,beach-ball,378,Iași,2,4.37,8.74
+1835,2023-10-03 15:24:11,swim-goggles,1266,București,3,9.90,29.70
+1836,2023-10-03 15:03:57,scented-candle,798,Iași,1,6.60,6.60
+1837,2023-10-03 18:30:55,swim-goggles,502,Iași,2,9.90,19.80
+1838,2023-10-03 15:17:25,beach-ball,1401,Iași,1,4.37,4.37
+1839,2023-10-03 18:00:31,garden-hose,1371,Brașov,1,18.99,18.99
+1840,2023-10-03 21:49:07,swim-goggles,1338,Brașov,2,9.90,19.80

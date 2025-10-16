@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2359,2023-12-24 21:14:16,doll-classic,34,București,1,15.90,15.90
+2360,2023-12-24 18:27:47,beach-ball,1432,Constanța,1,4.37,4.37
+2361,2023-12-24 12:12:52,scented-candle,1212,Timișoara,2,6.60,13.20
+2362,2023-12-24 12:31:19,scented-candle,354,București,1,6.60,6.60
+2363,2023-12-24 12:25:45,garden-hose,945,Cluj-Napoca,2,18.99,37.98
+2364,2023-12-24 09:32:49,garden-hose,1027,Constanța,1,18.99,18.99

@@ -1,0 +1,13 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4943,2024-09-26 12:06:41,headphones,953,Cluj-Napoca,1,21.47,21.47
+4944,2024-09-26 15:02:54,doll-classic,157,București,1,16.72,16.72
+4945,2024-09-26 15:57:16,winter-gloves,1040,Iași,2,17.06,34.12
+4946,2024-09-26 09:43:37,swim-goggles,334,Cluj-Napoca,1,10.82,10.82
+4947,2024-09-26 21:20:01,garden-hose,592,Timișoara,1,18.03,18.03
+4948,2024-09-26 15:26:38,paperback-novel,81,Iași,1,8.90,8.90
+4949,2024-09-26 12:13:12,beach-ball,184,București,1,4.50,4.50
+4950,2024-09-26 18:00:17,garden-hose,252,Iași,1,18.03,18.03
+4951,2024-09-26 12:44:17,scented-candle,1424,Timișoara,1,6.42,6.42
+4952,2024-09-26 15:54:05,garden-hose,1335,Iași,1,18.03,18.03
+4953,2024-09-26 18:46:53,garden-hose,1169,Cluj-Napoca,1,18.03,18.03
+4954,2024-09-26 12:15:53,garden-hose,674,Iași,1,18.03,18.03

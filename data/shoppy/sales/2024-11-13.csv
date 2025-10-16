@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5291,2024-11-13 18:57:28,beach-ball,1377,Timișoara,1,4.50,4.50
+5292,2024-11-13 09:40:36,scented-candle,420,Timișoara,1,6.42,6.42
+5293,2024-11-13 15:15:32,usb-charger,1319,București,1,13.68,13.68
+5294,2024-11-13 15:49:25,garden-hose,1020,Cluj-Napoca,1,18.03,18.03
+5295,2024-11-13 21:23:09,headphones,149,Cluj-Napoca,1,21.47,21.47

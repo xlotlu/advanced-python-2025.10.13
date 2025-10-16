@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2041,2023-11-06 12:34:37,beach-ball,64,Brașov,1,4.37,4.37
+2042,2023-11-06 15:01:03,beach-ball,197,București,1,4.37,4.37
+2043,2023-11-06 21:36:00,headphones,54,București,1,21.47,21.47
+2044,2023-11-06 15:12:48,garden-hose,71,Timișoara,1,18.99,18.99
+2045,2023-11-06 09:13:34,winter-gloves,780,Constanța,1,17.06,17.06
+2046,2023-11-06 15:04:41,paperback-novel,799,Timișoara,1,8.90,8.90

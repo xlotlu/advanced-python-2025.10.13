@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+962,2023-05-20 18:09:51,swim-goggles,709,Constanța,1,9.90,9.90
+963,2023-05-20 09:09:12,usb-charger,353,Cluj-Napoca,1,11.61,11.61
+964,2023-05-20 12:13:27,doll-classic,185,Brașov,1,15.90,15.90
+965,2023-05-20 15:49:23,winter-gloves,11,Iași,1,14.90,14.90
+966,2023-05-20 15:43:25,headphones,1432,Constanța,1,19.90,19.90
+967,2023-05-20 15:29:45,doll-classic,498,Timișoara,1,15.90,15.90
+968,2023-05-20 12:48:59,garden-hose,274,Timișoara,1,15.21,15.21
+969,2023-05-20 12:43:46,usb-charger,870,Constanța,1,11.61,11.61

@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+9047,2025-09-01 18:39:31,beach-ball,397,Iași,1,4.25,4.25
+9048,2025-09-01 12:28:53,garden-hose,306,Iași,2,18.84,37.68
+9049,2025-09-01 21:07:45,swim-goggles,63,Constanța,1,10.82,10.82
+9050,2025-09-01 18:36:29,paperback-novel,727,București,2,10.15,20.30
+9051,2025-09-01 12:00:53,paperback-novel,1023,Cluj-Napoca,1,10.15,10.15
+9052,2025-09-01 09:12:18,swim-goggles,1026,București,2,10.82,21.64
+9053,2025-09-01 12:08:49,beach-ball,948,București,1,4.25,4.25
+9054,2025-09-01 18:21:41,garden-hose,898,Iași,3,18.84,56.52
+9055,2025-09-01 18:27:05,garden-hose,1239,Constanța,1,18.84,18.84

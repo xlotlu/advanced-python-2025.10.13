@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1040,2023-05-31 12:12:35,board-game,181,Iași,1,19.90,19.90
+1041,2023-05-31 15:42:16,usb-charger,1141,Timișoara,1,11.61,11.61
+1042,2023-05-31 09:49:49,headphones,140,Constanța,1,19.90,19.90
+1043,2023-05-31 18:54:23,notebook-a5,914,Iași,1,2.99,2.99
+1044,2023-05-31 12:14:29,garden-hose,742,Timișoara,1,15.21,15.21
+1045,2023-05-31 18:16:38,doll-classic,48,Iași,1,15.90,15.90
+1046,2023-05-31 15:51:31,board-game,99,Iași,1,19.90,19.90

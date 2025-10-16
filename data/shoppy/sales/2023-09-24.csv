@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1787,2023-09-24 18:47:04,usb-charger,962,București,2,11.61,23.22
+1788,2023-09-24 09:10:37,swim-goggles,1088,Brașov,2,9.90,19.80
+1789,2023-09-24 09:15:53,swim-goggles,1109,Constanța,2,9.90,19.80
+1790,2023-09-24 15:10:09,garden-hose,1163,Brașov,1,18.99,18.99
+1791,2023-09-24 21:26:31,beach-ball,29,Iași,2,4.37,8.74
+1792,2023-09-24 15:23:53,headphones,856,Brașov,1,21.47,21.47
+1793,2023-09-24 15:48:56,notebook-a5,84,Iași,2,3.30,6.60

@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2404,2023-12-31 15:45:48,garden-hose,1221,Iași,1,18.99,18.99
+2405,2023-12-31 15:08:14,beach-ball,986,Cluj-Napoca,1,4.37,4.37
+2406,2023-12-31 12:35:38,garden-hose,474,Brașov,1,18.99,18.99
+2407,2023-12-31 15:59:54,board-game,895,București,2,21.96,43.92
+2408,2023-12-31 15:02:15,winter-gloves,1462,Timișoara,1,17.06,17.06
+2409,2023-12-31 12:32:39,doll-classic,848,București,1,15.90,15.90

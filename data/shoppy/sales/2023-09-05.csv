@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1682,2023-09-05 18:46:31,board-game,1398,Iași,1,21.96,21.96
+1683,2023-09-05 21:28:28,scented-candle,816,Cluj-Napoca,1,6.60,6.60
+1684,2023-09-05 12:41:43,garden-hose,341,Brașov,1,18.99,18.99
+1685,2023-09-05 21:35:34,usb-charger,778,Iași,1,11.61,11.61
+1686,2023-09-05 21:22:45,winter-gloves,26,Brașov,2,17.06,34.12
+1687,2023-09-05 18:38:50,paperback-novel,793,Cluj-Napoca,1,8.90,8.90
+1688,2023-09-05 12:45:40,scented-candle,399,Iași,2,6.60,13.20

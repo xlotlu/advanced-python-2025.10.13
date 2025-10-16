@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4450,2024-07-26 15:56:18,swim-goggles,1350,București,2,10.82,21.64
+4451,2024-07-26 12:48:33,usb-charger,299,București,1,13.68,13.68
+4452,2024-07-26 09:27:57,swim-goggles,602,Iași,3,10.82,32.46
+4453,2024-07-26 09:58:32,swim-goggles,536,Iași,1,10.82,10.82
+4454,2024-07-26 18:38:51,usb-charger,713,Constanța,1,13.68,13.68
+4455,2024-07-26 15:15:17,swim-goggles,1412,Cluj-Napoca,1,10.82,10.82
+4456,2024-07-26 09:48:31,usb-charger,588,Constanța,1,13.68,13.68
+4457,2024-07-26 18:14:06,usb-charger,888,Brașov,1,13.68,13.68
+4458,2024-07-26 18:00:27,garden-hose,70,Constanța,1,18.03,18.03

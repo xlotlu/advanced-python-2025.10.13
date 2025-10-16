@@ -1,0 +1,6 @@
+purchase_id,timestamp,item_id,quantity,unit_cost,total_cost
+77,2024-11-01 23:59:59,garden-hose,90,7.32,658.80
+78,2024-11-02 23:59:59,garden-hose,90,7.15,643.50
+79,2024-11-03 23:59:59,garden-hose,90,7.25,652.50
+80,2024-11-04 23:59:59,garden-hose,90,7.04,633.60
+81,2024-11-05 23:59:59,garden-hose,90,7.07,636.30

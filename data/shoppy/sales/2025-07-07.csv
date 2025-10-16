@@ -1,0 +1,17 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+8341,2025-07-07 18:25:20,scented-candle,533,Cluj-Napoca,1,6.47,6.47
+8342,2025-07-07 18:42:13,headphones,356,Iași,1,21.57,21.57
+8343,2025-07-07 21:50:51,scented-candle,802,Brașov,1,6.47,6.47
+8344,2025-07-07 12:20:55,scented-candle,61,București,1,6.47,6.47
+8345,2025-07-07 15:38:59,swim-goggles,1045,Iași,2,10.82,21.64
+8346,2025-07-07 09:19:29,winter-gloves,1311,Constanța,1,15.99,15.99
+8347,2025-07-07 21:11:08,winter-gloves,661,Timișoara,1,15.99,15.99
+8348,2025-07-07 09:28:52,notebook-a5,1011,Constanța,2,3.44,6.88
+8349,2025-07-07 18:51:34,doll-classic,1321,Cluj-Napoca,1,17.86,17.86
+8350,2025-07-07 21:12:54,paperback-novel,1153,Iași,3,10.15,30.45
+8351,2025-07-07 21:44:19,notebook-a5,1314,Brașov,1,3.44,3.44
+8352,2025-07-07 21:48:40,doll-classic,39,Brașov,1,17.86,17.86
+8353,2025-07-07 15:39:24,usb-charger,658,Timișoara,1,13.94,13.94
+8354,2025-07-07 18:50:55,swim-goggles,1142,Brașov,1,10.82,10.82
+8355,2025-07-07 09:46:54,board-game,667,Constanța,1,21.96,21.96
+8356,2025-07-07 12:52:05,paperback-novel,1056,Constanța,2,10.15,20.30

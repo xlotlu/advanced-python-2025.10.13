@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1495,2023-08-06 15:38:25,beach-ball,798,Iași,1,4.37,4.37
+1496,2023-08-06 18:48:24,beach-ball,1032,Timișoara,1,4.37,4.37
+1497,2023-08-06 12:39:21,board-game,53,Iași,1,21.96,21.96
+1498,2023-08-06 15:39:41,beach-ball,572,Cluj-Napoca,1,4.37,4.37
+1499,2023-08-06 09:47:20,beach-ball,112,București,1,4.37,4.37
+1500,2023-08-06 21:33:12,usb-charger,1193,Iași,1,11.61,11.61

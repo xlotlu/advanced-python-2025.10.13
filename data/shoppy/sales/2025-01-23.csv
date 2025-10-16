@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+6022,2025-01-23 15:43:47,doll-classic,900,Constanța,1,16.72,16.72
+6023,2025-01-23 12:05:49,paperback-novel,1425,Iași,1,10.15,10.15
+6024,2025-01-23 15:15:16,paperback-novel,791,Constanța,1,10.15,10.15
+6025,2025-01-23 18:42:35,paperback-novel,744,Timișoara,1,10.15,10.15
+6026,2025-01-23 12:33:31,beach-ball,426,Timișoara,1,4.50,4.50
+6027,2025-01-23 15:33:25,doll-classic,493,Iași,1,16.72,16.72
+6028,2025-01-23 12:35:57,board-game,980,Timișoara,1,21.96,21.96
+6029,2025-01-23 15:26:49,winter-gloves,404,Timișoara,1,17.06,17.06
+6030,2025-01-23 09:01:12,paperback-novel,138,Cluj-Napoca,1,10.15,10.15

@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1677,2023-09-04 12:48:56,beach-ball,981,Brașov,1,4.37,4.37
+1678,2023-09-04 18:46:24,doll-classic,1091,Cluj-Napoca,1,15.90,15.90
+1679,2023-09-04 21:40:10,beach-ball,755,Constanța,1,4.37,4.37
+1680,2023-09-04 12:08:07,scented-candle,1376,Iași,2,6.60,13.20
+1681,2023-09-04 15:56:16,headphones,742,Timișoara,1,21.47,21.47

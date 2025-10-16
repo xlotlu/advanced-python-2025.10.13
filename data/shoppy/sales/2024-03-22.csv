@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3206,2024-03-22 21:48:48,headphones,538,Timișoara,2,21.47,42.94
+3207,2024-03-22 12:23:43,board-game,1405,Brașov,1,21.96,21.96
+3208,2024-03-22 18:05:36,doll-classic,1237,București,2,15.90,31.80
+3209,2024-03-22 18:35:01,swim-goggles,1070,Cluj-Napoca,1,9.90,9.90
+3210,2024-03-22 12:00:44,usb-charger,1054,București,2,11.61,23.22
+3211,2024-03-22 15:57:06,garden-hose,752,Iași,1,18.99,18.99
+3212,2024-03-22 15:46:03,board-game,966,București,1,21.96,21.96
+3213,2024-03-22 12:27:35,garden-hose,1186,Cluj-Napoca,1,18.99,18.99

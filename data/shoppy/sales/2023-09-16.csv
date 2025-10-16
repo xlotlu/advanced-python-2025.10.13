@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1744,2023-09-16 12:49:32,beach-ball,795,Timișoara,1,4.37,4.37
+1745,2023-09-16 09:21:51,beach-ball,605,Cluj-Napoca,3,4.37,13.11
+1746,2023-09-16 15:43:44,winter-gloves,363,Constanța,1,17.06,17.06
+1747,2023-09-16 18:23:58,swim-goggles,479,Brașov,1,9.90,9.90

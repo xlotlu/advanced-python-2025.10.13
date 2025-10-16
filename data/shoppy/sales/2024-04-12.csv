@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3420,2024-04-12 15:32:27,scented-candle,1353,București,1,6.60,6.60
+3421,2024-04-12 15:41:19,headphones,1250,București,1,21.47,21.47
+3422,2024-04-12 12:10:48,scented-candle,1144,Constanța,1,6.60,6.60
+3423,2024-04-12 18:23:01,scented-candle,1005,Timișoara,3,6.60,19.80
+3424,2024-04-12 15:05:09,scented-candle,1211,București,1,6.60,6.60
+3425,2024-04-12 09:12:17,doll-classic,1181,Constanța,2,15.90,31.80
+3426,2024-04-12 09:55:55,usb-charger,544,Cluj-Napoca,3,11.61,34.83
+3427,2024-04-12 21:13:30,swim-goggles,1385,Brașov,1,9.90,9.90

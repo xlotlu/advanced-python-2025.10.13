@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+731,2023-04-20 15:31:47,winter-gloves,1278,București,1,14.90,14.90
+732,2023-04-20 15:37:51,scented-candle,67,Iași,1,5.90,5.90
+733,2023-04-20 12:49:29,winter-gloves,1130,Iași,2,14.90,29.80
+734,2023-04-20 15:07:22,usb-charger,951,Brașov,1,11.61,11.61
+735,2023-04-20 18:47:25,usb-charger,16,Brașov,2,11.61,23.22

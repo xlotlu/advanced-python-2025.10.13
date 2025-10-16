@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2643,2024-01-25 12:34:33,scented-candle,1362,Timișoara,1,6.60,6.60
+2644,2024-01-25 18:25:56,winter-gloves,1311,Constanța,1,17.06,17.06
+2645,2024-01-25 12:10:11,swim-goggles,871,Iași,2,9.90,19.80
+2646,2024-01-25 18:32:00,headphones,1168,Timișoara,1,21.47,21.47
+2647,2024-01-25 15:05:25,winter-gloves,666,Brașov,1,17.06,17.06
+2648,2024-01-25 15:43:57,swim-goggles,1463,Constanța,1,9.90,9.90
+2649,2024-01-25 15:37:37,paperback-novel,496,Constanța,1,8.90,8.90

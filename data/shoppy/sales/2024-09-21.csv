@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4911,2024-09-21 12:36:25,garden-hose,14,Iași,2,18.03,36.06
+4912,2024-09-21 21:52:07,garden-hose,836,Brașov,1,18.03,18.03
+4913,2024-09-21 21:42:21,notebook-a5,397,Iași,2,3.44,6.88
+4914,2024-09-21 15:51:44,scented-candle,337,Iași,1,6.42,6.42
+4915,2024-09-21 15:29:44,swim-goggles,1209,Brașov,1,10.82,10.82
+4916,2024-09-21 12:48:44,beach-ball,793,Cluj-Napoca,1,4.50,4.50
+4917,2024-09-21 12:21:54,notebook-a5,742,Timișoara,3,3.44,10.32

@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+8317,2025-07-04 09:13:33,garden-hose,158,Timișoara,2,18.84,37.68
+8318,2025-07-04 15:16:13,notebook-a5,1144,Constanța,2,3.44,6.88
+8319,2025-07-04 21:04:22,headphones,13,Timișoara,1,21.57,21.57
+8320,2025-07-04 15:23:42,beach-ball,390,Cluj-Napoca,1,4.25,4.25
+8321,2025-07-04 18:35:18,doll-classic,377,Constanța,1,17.86,17.86
+8322,2025-07-04 12:58:58,doll-classic,130,Timișoara,1,17.86,17.86
+8323,2025-07-04 15:13:56,scented-candle,925,Timișoara,1,6.47,6.47

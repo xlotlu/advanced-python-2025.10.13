@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4632,2024-08-17 15:24:03,doll-classic,752,Iași,2,16.72,33.44
+4633,2024-08-17 09:05:09,usb-charger,618,Iași,1,13.68,13.68
+4634,2024-08-17 12:13:39,notebook-a5,609,Constanța,2,3.44,6.88
+4635,2024-08-17 12:52:04,paperback-novel,1163,Brașov,1,8.90,8.90
+4636,2024-08-17 15:55:12,swim-goggles,883,Brașov,1,10.82,10.82
+4637,2024-08-17 12:44:12,board-game,173,Timișoara,3,21.96,65.88
+4638,2024-08-17 21:44:38,paperback-novel,574,Constanța,2,8.90,17.80

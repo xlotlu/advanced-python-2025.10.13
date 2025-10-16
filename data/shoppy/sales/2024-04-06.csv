@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3357,2024-04-06 18:12:43,board-game,968,Brașov,1,21.96,21.96
+3358,2024-04-06 15:01:28,beach-ball,96,București,1,4.37,4.37
+3359,2024-04-06 18:33:40,garden-hose,1049,Constanța,1,18.99,18.99
+3360,2024-04-06 18:48:27,winter-gloves,1188,Brașov,1,17.06,17.06
+3361,2024-04-06 18:50:48,doll-classic,1447,București,1,15.90,15.90
+3362,2024-04-06 21:15:17,beach-ball,1034,Cluj-Napoca,3,4.37,13.11
+3363,2024-04-06 18:27:31,doll-classic,1480,Constanța,1,15.90,15.90
+3364,2024-04-06 15:43:11,doll-classic,1261,Timișoara,1,15.90,15.90

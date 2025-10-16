@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+769,2023-04-25 21:20:49,paperback-novel,1497,Brașov,1,8.90,8.90
+770,2023-04-25 18:45:05,headphones,723,Brașov,1,19.90,19.90
+771,2023-04-25 18:47:54,headphones,422,Cluj-Napoca,2,19.90,39.80
+772,2023-04-25 15:13:00,winter-gloves,1374,Cluj-Napoca,1,14.90,14.90
+773,2023-04-25 12:06:21,doll-classic,428,Cluj-Napoca,2,15.90,31.80
+774,2023-04-25 15:20:48,garden-hose,639,Timișoara,1,15.21,15.21
+775,2023-04-25 18:06:58,winter-gloves,267,Timișoara,1,14.90,14.90
+776,2023-04-25 21:55:39,doll-classic,1052,Brașov,1,15.90,15.90
+777,2023-04-25 09:27:10,board-game,1406,Timișoara,1,19.90,19.90

@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2700,2024-01-31 18:31:00,usb-charger,906,Constanța,1,11.61,11.61
+2701,2024-01-31 15:39:53,winter-gloves,1493,Timișoara,1,17.06,17.06
+2702,2024-01-31 09:17:20,beach-ball,105,București,2,4.37,8.74
+2703,2024-01-31 09:49:41,beach-ball,773,Timișoara,3,4.37,13.11

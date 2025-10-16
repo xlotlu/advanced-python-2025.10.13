@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1853,2023-10-06 18:17:18,beach-ball,1154,Cluj-Napoca,1,4.37,4.37
+1854,2023-10-06 12:00:45,paperback-novel,103,Brașov,1,8.90,8.90
+1855,2023-10-06 15:25:19,beach-ball,634,București,1,4.37,4.37
+1856,2023-10-06 15:19:36,headphones,918,Timișoara,1,21.47,21.47
+1857,2023-10-06 21:05:26,paperback-novel,413,Constanța,2,8.90,17.80
+1858,2023-10-06 18:02:16,doll-classic,678,Constanța,1,15.90,15.90
+1859,2023-10-06 15:44:14,beach-ball,964,Constanța,1,4.37,4.37

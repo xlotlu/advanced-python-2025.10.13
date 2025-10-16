@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5181,2024-10-28 18:29:09,paperback-novel,556,Constanța,1,8.90,8.90
+5182,2024-10-28 15:31:39,swim-goggles,1059,Timișoara,1,10.82,10.82
+5183,2024-10-28 15:04:00,swim-goggles,1011,Constanța,1,10.82,10.82
+5184,2024-10-28 12:03:32,beach-ball,1249,Brașov,1,4.50,4.50
+5185,2024-10-28 09:44:55,garden-hose,449,Timișoara,1,18.03,18.03

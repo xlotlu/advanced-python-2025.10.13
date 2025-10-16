@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5468,2024-12-03 15:38:56,garden-hose,649,Brașov,1,18.03,18.03
+5469,2024-12-03 12:42:04,swim-goggles,143,Constanța,1,10.82,10.82
+5470,2024-12-03 12:58:49,paperback-novel,925,Timișoara,1,10.15,10.15
+5471,2024-12-03 12:36:44,garden-hose,804,Brașov,1,18.03,18.03
+5472,2024-12-03 18:14:32,swim-goggles,1439,Timișoara,2,10.82,21.64
+5473,2024-12-03 09:04:30,swim-goggles,1298,Constanța,1,10.82,10.82

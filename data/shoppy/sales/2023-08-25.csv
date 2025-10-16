@@ -1,0 +1,4 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1619,2023-08-25 15:48:04,board-game,239,București,1,21.96,21.96
+1620,2023-08-25 18:07:58,beach-ball,517,București,1,4.37,4.37
+1621,2023-08-25 12:15:34,beach-ball,1131,Brașov,1,4.37,4.37

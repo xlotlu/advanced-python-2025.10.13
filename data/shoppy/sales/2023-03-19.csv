@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+501,2023-03-19 21:58:02,doll-classic,1016,Constanța,1,15.90,15.90
+502,2023-03-19 12:14:29,board-game,1278,București,1,19.90,19.90
+503,2023-03-19 18:52:21,board-game,770,Cluj-Napoca,1,19.90,19.90
+504,2023-03-19 21:23:00,board-game,152,Brașov,1,19.90,19.90
+505,2023-03-19 12:28:12,usb-charger,1293,Cluj-Napoca,1,11.61,11.61
+506,2023-03-19 09:01:12,paperback-novel,406,Iași,1,8.90,8.90
+507,2023-03-19 12:11:21,doll-classic,1136,Timișoara,1,15.90,15.90
+508,2023-03-19 12:16:58,doll-classic,208,Timișoara,1,15.90,15.90

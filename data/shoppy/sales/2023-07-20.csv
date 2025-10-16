@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1382,2023-07-20 12:11:45,usb-charger,191,Brașov,1,11.61,11.61
+1383,2023-07-20 15:54:06,notebook-a5,743,Cluj-Napoca,2,3.30,6.60
+1384,2023-07-20 18:20:56,swim-goggles,254,Iași,3,9.90,29.70
+1385,2023-07-20 18:14:03,board-game,567,Constanța,1,21.96,21.96

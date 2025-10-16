@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+9022,2025-08-29 18:31:01,swim-goggles,458,Cluj-Napoca,1,10.82,10.82
+9023,2025-08-29 12:47:23,board-game,435,București,2,21.96,43.92
+9024,2025-08-29 09:38:56,board-game,1412,Cluj-Napoca,1,21.96,21.96
+9025,2025-08-29 15:15:56,headphones,858,Cluj-Napoca,1,21.57,21.57

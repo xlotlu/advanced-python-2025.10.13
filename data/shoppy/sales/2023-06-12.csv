@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1128,2023-06-12 21:36:23,usb-charger,143,Constanța,1,11.61,11.61
+1129,2023-06-12 15:11:34,scented-candle,448,Iași,1,5.31,5.31
+1130,2023-06-12 18:09:38,scented-candle,767,Cluj-Napoca,1,5.31,5.31
+1131,2023-06-12 18:56:49,paperback-novel,364,Timișoara,2,8.90,17.80
+1132,2023-06-12 15:39:02,headphones,1101,Timișoara,2,19.90,39.80
+1133,2023-06-12 12:59:19,notebook-a5,597,Brașov,1,2.99,2.99
+1134,2023-06-12 15:10:57,board-game,205,Brașov,1,19.90,19.90

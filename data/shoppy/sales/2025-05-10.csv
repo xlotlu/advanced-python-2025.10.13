@@ -1,0 +1,21 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+7553,2025-05-10 21:17:57,scented-candle,1337,Constanța,1,6.42,6.42
+7554,2025-05-10 15:14:48,garden-hose,294,București,1,18.03,18.03
+7555,2025-05-10 18:16:13,usb-charger,343,Timișoara,1,13.68,13.68
+7556,2025-05-10 15:46:40,scented-candle,437,București,1,6.42,6.42
+7557,2025-05-10 12:17:17,doll-classic,299,București,1,16.72,16.72
+7558,2025-05-10 21:10:57,doll-classic,868,București,1,16.72,16.72
+7559,2025-05-10 15:15:41,doll-classic,502,Iași,1,16.72,16.72
+7560,2025-05-10 12:24:02,doll-classic,1406,Timișoara,1,16.72,16.72
+7561,2025-05-10 12:28:21,winter-gloves,769,București,1,17.06,17.06
+7562,2025-05-10 21:59:22,board-game,1081,Timișoara,1,21.96,21.96
+7563,2025-05-10 18:04:52,doll-classic,935,Cluj-Napoca,1,16.72,16.72
+7564,2025-05-10 18:51:55,doll-classic,1425,Iași,1,16.72,16.72
+7565,2025-05-10 18:45:47,board-game,1177,București,1,21.96,21.96
+7566,2025-05-10 12:58:55,winter-gloves,1351,Cluj-Napoca,2,17.06,34.12
+7567,2025-05-10 18:38:27,board-game,464,Constanța,1,21.96,21.96
+7568,2025-05-10 15:08:32,usb-charger,1426,Cluj-Napoca,1,13.68,13.68
+7569,2025-05-10 18:14:37,headphones,1004,București,1,21.47,21.47
+7570,2025-05-10 09:01:52,garden-hose,1242,Cluj-Napoca,1,18.03,18.03
+7571,2025-05-10 15:34:23,board-game,170,Iași,1,21.96,21.96
+7572,2025-05-10 12:47:38,doll-classic,639,Timișoara,1,16.72,16.72

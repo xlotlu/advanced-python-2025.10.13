@@ -1,0 +1,17 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+6630,2025-03-07 12:22:23,paperback-novel,165,Iași,2,10.15,20.30
+6631,2025-03-07 18:29:00,garden-hose,515,Timișoara,2,18.03,36.06
+6632,2025-03-07 12:47:14,garden-hose,23,Brașov,2,18.03,36.06
+6633,2025-03-07 12:07:23,doll-classic,1162,Constanța,1,16.72,16.72
+6634,2025-03-07 12:24:33,paperback-novel,964,Constanța,1,10.15,10.15
+6635,2025-03-07 18:58:13,doll-classic,229,Iași,1,16.72,16.72
+6636,2025-03-07 09:38:01,scented-candle,466,Cluj-Napoca,1,6.42,6.42
+6637,2025-03-07 12:43:50,scented-candle,16,Brașov,1,6.42,6.42
+6638,2025-03-07 12:19:00,board-game,1007,București,1,21.96,21.96
+6639,2025-03-07 15:50:27,doll-classic,345,București,3,16.72,50.16
+6640,2025-03-07 12:32:19,swim-goggles,590,Brașov,1,10.82,10.82
+6641,2025-03-07 12:59:16,doll-classic,1299,București,1,16.72,16.72
+6642,2025-03-07 21:01:50,scented-candle,1055,Constanța,3,6.42,19.26
+6643,2025-03-07 12:40:34,board-game,1144,Constanța,1,21.96,21.96
+6644,2025-03-07 12:29:41,swim-goggles,175,Cluj-Napoca,1,10.82,10.82
+6645,2025-03-07 15:54:49,paperback-novel,60,Timișoara,1,10.15,10.15

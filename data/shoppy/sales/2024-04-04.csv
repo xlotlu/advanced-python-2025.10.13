@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3340,2024-04-04 18:45:13,doll-classic,1129,Brașov,1,15.90,15.90
+3341,2024-04-04 12:46:32,doll-classic,1242,Cluj-Napoca,1,15.90,15.90
+3342,2024-04-04 21:54:02,headphones,109,Constanța,1,21.47,21.47
+3343,2024-04-04 15:06:08,board-game,1399,Constanța,1,21.96,21.96
+3344,2024-04-04 18:28:25,winter-gloves,154,București,1,17.06,17.06
+3345,2024-04-04 21:55:49,winter-gloves,1160,București,1,17.06,17.06

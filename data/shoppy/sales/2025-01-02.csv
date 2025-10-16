@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5768,2025-01-02 09:12:59,notebook-a5,428,Cluj-Napoca,1,3.44,3.44
+5769,2025-01-02 21:49:39,scented-candle,1485,Brașov,1,6.42,6.42
+5770,2025-01-02 15:46:09,usb-charger,837,Brașov,1,13.68,13.68
+5771,2025-01-02 15:57:03,winter-gloves,921,Timișoara,1,17.06,17.06
+5772,2025-01-02 21:51:49,usb-charger,1103,Constanța,1,13.68,13.68
+5773,2025-01-02 18:14:44,notebook-a5,1233,București,3,3.44,10.32
+5774,2025-01-02 09:38:02,headphones,735,Iași,1,21.47,21.47
+5775,2025-01-02 21:32:50,winter-gloves,1176,București,1,17.06,17.06
+5776,2025-01-02 09:13:44,notebook-a5,996,Constanța,1,3.44,3.44
+5777,2025-01-02 12:16:08,board-game,795,Timișoara,1,21.96,21.96

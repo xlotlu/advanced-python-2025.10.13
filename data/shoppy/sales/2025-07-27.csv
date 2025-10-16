@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+8621,2025-07-27 09:09:30,usb-charger,566,București,1,13.94,13.94
+8622,2025-07-27 09:09:34,garden-hose,249,Brașov,1,18.84,18.84
+8623,2025-07-27 15:18:15,board-game,1077,Constanța,3,21.96,65.88
+8624,2025-07-27 21:34:31,beach-ball,1448,Cluj-Napoca,1,4.25,4.25
+8625,2025-07-27 21:06:56,doll-classic,357,Cluj-Napoca,1,17.86,17.86
+8626,2025-07-27 21:59:27,garden-hose,1296,Constanța,1,18.84,18.84
+8627,2025-07-27 12:48:32,notebook-a5,791,Constanța,1,3.44,3.44
+8628,2025-07-27 15:16:08,beach-ball,61,București,1,4.25,4.25
+8629,2025-07-27 12:34:29,doll-classic,1029,Brașov,2,17.86,35.72
+8630,2025-07-27 09:10:48,swim-goggles,1150,București,1,10.82,10.82
+8631,2025-07-27 18:27:22,swim-goggles,652,Timișoara,3,10.82,32.46

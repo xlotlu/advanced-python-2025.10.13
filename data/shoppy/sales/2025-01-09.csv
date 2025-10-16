@@ -1,0 +1,17 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5849,2025-01-09 15:10:13,scented-candle,1017,Iași,2,6.42,12.84
+5850,2025-01-09 21:03:16,swim-goggles,426,Timișoara,1,10.82,10.82
+5851,2025-01-09 21:21:37,swim-goggles,99,Iași,1,10.82,10.82
+5852,2025-01-09 12:53:09,board-game,337,Iași,1,21.96,21.96
+5853,2025-01-09 21:16:37,usb-charger,422,Cluj-Napoca,2,13.68,27.36
+5854,2025-01-09 18:55:13,beach-ball,1154,Cluj-Napoca,1,4.50,4.50
+5855,2025-01-09 12:23:06,headphones,399,Iași,1,21.47,21.47
+5856,2025-01-09 15:27:18,winter-gloves,298,București,1,17.06,17.06
+5857,2025-01-09 18:45:01,headphones,1250,București,1,21.47,21.47
+5858,2025-01-09 12:16:56,paperback-novel,23,Brașov,1,10.15,10.15
+5859,2025-01-09 18:15:07,winter-gloves,793,Cluj-Napoca,1,17.06,17.06
+5860,2025-01-09 15:54:05,doll-classic,1437,Cluj-Napoca,1,16.72,16.72
+5861,2025-01-09 12:03:41,swim-goggles,321,Cluj-Napoca,1,10.82,10.82
+5862,2025-01-09 21:11:27,winter-gloves,84,Iași,2,17.06,34.12
+5863,2025-01-09 18:36:42,beach-ball,376,București,1,4.50,4.50
+5864,2025-01-09 12:54:29,swim-goggles,1248,Timișoara,1,10.82,10.82

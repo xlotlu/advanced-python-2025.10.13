@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+92,2023-01-19 12:14:48,scented-candle,1182,București,2,5.90,11.80
+93,2023-01-19 15:34:02,swim-goggles,1030,Timișoara,1,9.90,9.90
+94,2023-01-19 18:29:07,usb-charger,1431,Constanța,2,12.90,25.80
+95,2023-01-19 09:43:13,paperback-novel,778,Iași,1,8.90,8.90
+96,2023-01-19 15:16:11,paperback-novel,1124,Cluj-Napoca,1,8.90,8.90

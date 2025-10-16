@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1586,2023-08-20 09:12:30,garden-hose,568,Iași,1,18.99,18.99
+1587,2023-08-20 12:39:52,paperback-novel,403,Iași,1,8.90,8.90
+1588,2023-08-20 21:05:13,scented-candle,1407,București,1,6.60,6.60
+1589,2023-08-20 21:09:25,paperback-novel,100,Iași,1,8.90,8.90

@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4708,2024-08-27 15:53:12,swim-goggles,797,Timișoara,1,10.82,10.82
+4709,2024-08-27 15:23:17,headphones,549,Constanța,1,21.47,21.47
+4710,2024-08-27 15:43:14,beach-ball,1039,Brașov,1,4.50,4.50
+4711,2024-08-27 18:36:09,scented-candle,1080,București,1,6.42,6.42
+4712,2024-08-27 18:01:06,swim-goggles,859,Iași,2,10.82,21.64

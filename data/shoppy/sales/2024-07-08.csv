@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4291,2024-07-08 12:46:26,notebook-a5,1390,Timișoara,2,3.44,6.88
+4292,2024-07-08 18:05:16,scented-candle,1249,Brașov,1,6.42,6.42
+4293,2024-07-08 12:25:42,winter-gloves,485,Cluj-Napoca,1,17.06,17.06
+4294,2024-07-08 12:58:28,swim-goggles,684,Iași,1,10.82,10.82
+4295,2024-07-08 12:55:48,usb-charger,79,Timișoara,1,13.68,13.68
+4296,2024-07-08 15:21:25,paperback-novel,822,Timișoara,1,8.90,8.90
+4297,2024-07-08 18:12:24,board-game,298,București,1,21.96,21.96

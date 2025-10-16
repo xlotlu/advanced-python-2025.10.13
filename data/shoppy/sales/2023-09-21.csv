@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1770,2023-09-21 18:53:10,notebook-a5,463,București,1,3.30,3.30
+1771,2023-09-21 12:27:44,garden-hose,345,București,1,18.99,18.99
+1772,2023-09-21 18:10:04,beach-ball,723,Brașov,1,4.37,4.37
+1773,2023-09-21 12:36:58,notebook-a5,1002,Brașov,1,3.30,3.30
+1774,2023-09-21 15:27:06,garden-hose,230,Cluj-Napoca,1,18.99,18.99
+1775,2023-09-21 15:35:35,headphones,168,Iași,1,21.47,21.47
+1776,2023-09-21 15:29:44,garden-hose,964,Constanța,2,18.99,37.98

@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1552,2023-08-15 12:45:53,scented-candle,1257,București,1,6.60,6.60
+1553,2023-08-15 12:39:58,board-game,244,Cluj-Napoca,1,21.96,21.96
+1554,2023-08-15 15:21:01,scented-candle,279,Timișoara,2,6.60,13.20
+1555,2023-08-15 09:09:51,scented-candle,629,Cluj-Napoca,1,6.60,6.60
+1556,2023-08-15 15:14:04,doll-classic,485,Cluj-Napoca,1,15.90,15.90
+1557,2023-08-15 21:52:07,swim-goggles,668,Brașov,2,9.90,19.80
+1558,2023-08-15 09:21:30,notebook-a5,70,Constanța,1,3.30,3.30

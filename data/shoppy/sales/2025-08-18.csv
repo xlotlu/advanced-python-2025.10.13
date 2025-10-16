@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+8884,2025-08-18 12:52:14,notebook-a5,846,Constanța,1,3.44,3.44
+8885,2025-08-18 21:53:24,board-game,171,Timișoara,1,21.96,21.96
+8886,2025-08-18 21:00:56,scented-candle,1026,București,1,6.47,6.47
+8887,2025-08-18 18:00:03,headphones,319,Brașov,3,21.57,64.71
+8888,2025-08-18 15:10:35,doll-classic,228,București,2,17.86,35.72
+8889,2025-08-18 12:20:58,notebook-a5,512,Brașov,1,3.44,3.44
+8890,2025-08-18 21:49:07,board-game,3,București,1,21.96,21.96
+8891,2025-08-18 12:08:04,swim-goggles,843,Cluj-Napoca,1,10.82,10.82
+8892,2025-08-18 21:09:58,beach-ball,1081,Timișoara,2,4.25,8.50

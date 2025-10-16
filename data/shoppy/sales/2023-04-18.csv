@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+718,2023-04-18 15:59:51,beach-ball,741,Cluj-Napoca,1,3.99,3.99
+719,2023-04-18 12:13:55,garden-hose,47,Iași,3,16.90,50.70
+720,2023-04-18 12:40:11,scented-candle,172,București,1,5.90,5.90
+721,2023-04-18 09:55:45,board-game,925,Timișoara,1,19.90,19.90
+722,2023-04-18 18:16:11,notebook-a5,111,Cluj-Napoca,1,2.99,2.99
+723,2023-04-18 12:48:19,board-game,337,Iași,2,19.90,39.80
+724,2023-04-18 15:34:44,board-game,330,Cluj-Napoca,2,19.90,39.80
+725,2023-04-18 21:36:24,scented-candle,21,București,1,5.90,5.90

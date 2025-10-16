@@ -1,0 +1,4 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2392,2023-12-29 15:32:09,notebook-a5,604,Constanța,1,3.30,3.30
+2393,2023-12-29 18:52:21,garden-hose,1154,Cluj-Napoca,2,18.99,37.98
+2394,2023-12-29 15:01:59,doll-classic,861,București,1,15.90,15.90

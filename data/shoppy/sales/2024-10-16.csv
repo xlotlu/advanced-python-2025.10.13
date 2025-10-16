@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5082,2024-10-16 15:54:55,paperback-novel,746,Timișoara,1,8.90,8.90
+5083,2024-10-16 15:10:11,winter-gloves,1178,Iași,1,17.06,17.06
+5084,2024-10-16 12:56:59,headphones,1327,Timișoara,1,21.47,21.47
+5085,2024-10-16 18:29:54,beach-ball,947,Cluj-Napoca,1,4.50,4.50
+5086,2024-10-16 09:06:45,garden-hose,1421,Iași,1,18.03,18.03
+5087,2024-10-16 15:52:12,doll-classic,777,Brașov,1,16.72,16.72

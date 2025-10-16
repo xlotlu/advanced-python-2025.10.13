@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+190,2023-02-03 18:11:29,winter-gloves,1186,Cluj-Napoca,1,14.90,14.90
+191,2023-02-03 18:20:23,usb-charger,777,Brașov,1,12.90,12.90
+192,2023-02-03 18:04:18,garden-hose,965,Timișoara,1,16.90,16.90
+193,2023-02-03 12:33:26,swim-goggles,1075,Brașov,1,9.90,9.90
+194,2023-02-03 09:36:46,board-game,1289,București,1,19.90,19.90
+195,2023-02-03 18:38:59,paperback-novel,1448,Cluj-Napoca,1,8.90,8.90
+196,2023-02-03 12:33:36,doll-classic,1277,Timișoara,1,15.90,15.90
+197,2023-02-03 15:33:46,usb-charger,1295,Iași,1,12.90,12.90

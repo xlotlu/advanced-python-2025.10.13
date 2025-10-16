@@ -1,0 +1,4 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+72,2023-01-15 15:14:58,beach-ball,172,București,1,3.99,3.99
+73,2023-01-15 15:12:00,doll-classic,1453,Cluj-Napoca,2,15.90,31.80
+74,2023-01-15 15:33:00,garden-hose,769,București,1,16.90,16.90

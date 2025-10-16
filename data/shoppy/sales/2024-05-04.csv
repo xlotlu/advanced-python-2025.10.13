@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3645,2024-05-04 18:51:18,notebook-a5,1497,Brașov,2,3.30,6.60
+3646,2024-05-04 12:02:03,headphones,1016,Constanța,1,21.47,21.47
+3647,2024-05-04 18:56:51,usb-charger,1480,Constanța,1,11.61,11.61
+3648,2024-05-04 12:34:07,headphones,1129,Brașov,1,21.47,21.47
+3649,2024-05-04 18:16:32,board-game,921,Timișoara,1,21.96,21.96
+3650,2024-05-04 15:15:23,scented-candle,1258,Brașov,1,6.60,6.60
+3651,2024-05-04 21:41:35,scented-candle,629,Cluj-Napoca,1,6.60,6.60

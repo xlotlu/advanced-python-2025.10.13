@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1229,2023-06-25 12:14:09,board-game,282,Cluj-Napoca,1,19.90,19.90
+1230,2023-06-25 18:42:25,headphones,40,Timișoara,1,19.90,19.90
+1231,2023-06-25 09:45:44,headphones,850,Brașov,1,19.90,19.90
+1232,2023-06-25 15:13:14,headphones,1194,Constanța,1,19.90,19.90
+1233,2023-06-25 09:56:23,headphones,1043,Timișoara,1,19.90,19.90
+1234,2023-06-25 12:34:00,scented-candle,1286,București,1,5.31,5.31

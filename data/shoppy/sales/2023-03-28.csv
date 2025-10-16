@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+576,2023-03-28 12:47:13,garden-hose,816,Cluj-Napoca,1,16.90,16.90
+577,2023-03-28 12:31:00,winter-gloves,199,Constanța,1,14.90,14.90
+578,2023-03-28 15:41:18,swim-goggles,883,Brașov,1,9.90,9.90
+579,2023-03-28 18:12:31,board-game,373,Cluj-Napoca,1,19.90,19.90
+580,2023-03-28 15:13:11,headphones,412,Brașov,1,19.90,19.90

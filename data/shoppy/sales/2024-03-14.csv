@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3123,2024-03-14 12:56:30,garden-hose,1399,Constanța,1,18.99,18.99
+3124,2024-03-14 09:40:28,winter-gloves,471,București,1,17.06,17.06
+3125,2024-03-14 18:18:34,winter-gloves,715,București,3,17.06,51.18
+3126,2024-03-14 12:04:39,board-game,920,Brașov,1,21.96,21.96
+3127,2024-03-14 12:30:16,garden-hose,1380,București,1,18.99,18.99
+3128,2024-03-14 12:39:44,swim-goggles,881,Iași,1,9.90,9.90
+3129,2024-03-14 15:04:10,winter-gloves,1280,București,1,17.06,17.06
+3130,2024-03-14 12:43:45,winter-gloves,40,Timișoara,1,17.06,17.06
+3131,2024-03-14 09:32:07,beach-ball,1267,Iași,1,4.37,4.37

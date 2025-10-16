@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3830,2024-05-23 15:28:05,scented-candle,1353,București,1,6.60,6.60
+3831,2024-05-23 21:15:32,winter-gloves,1439,Timișoara,2,17.06,34.12
+3832,2024-05-23 09:22:57,usb-charger,979,București,1,11.61,11.61
+3833,2024-05-23 18:47:20,winter-gloves,523,Constanța,1,17.06,17.06
+3834,2024-05-23 15:07:33,scented-candle,306,Iași,2,6.60,13.20
+3835,2024-05-23 15:04:17,doll-classic,349,Cluj-Napoca,1,15.90,15.90
+3836,2024-05-23 12:04:16,headphones,223,Iași,1,21.47,21.47
+3837,2024-05-23 15:11:26,winter-gloves,425,Timișoara,1,17.06,17.06
+3838,2024-05-23 12:40:10,winter-gloves,280,Timișoara,1,17.06,17.06
+3839,2024-05-23 21:53:51,board-game,1074,Brașov,1,21.96,21.96
+3840,2024-05-23 12:20:36,scented-candle,49,Constanța,2,6.60,13.20

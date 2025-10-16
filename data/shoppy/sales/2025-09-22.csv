@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+9293,2025-09-22 18:18:44,swim-goggles,168,Iași,1,10.82,10.82
+9294,2025-09-22 21:29:56,scented-candle,1497,Brașov,1,6.47,6.47
+9295,2025-09-22 18:38:59,board-game,222,Cluj-Napoca,1,21.96,21.96
+9296,2025-09-22 15:06:23,board-game,931,Constanța,1,21.96,21.96
+9297,2025-09-22 12:09:35,paperback-novel,376,București,1,10.15,10.15
+9298,2025-09-22 15:03:39,swim-goggles,897,Brașov,1,10.82,10.82
+9299,2025-09-22 12:09:15,headphones,1381,Cluj-Napoca,1,21.57,21.57
+9300,2025-09-22 12:11:09,board-game,245,Constanța,1,21.96,21.96
+9301,2025-09-22 18:26:59,swim-goggles,1097,Brașov,1,10.82,10.82
+9302,2025-09-22 21:13:10,headphones,672,Timișoara,1,21.57,21.57

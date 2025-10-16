@@ -1,0 +1,14 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3378,2024-04-08 18:07:30,paperback-novel,863,Constanța,1,8.90,8.90
+3379,2024-04-08 09:41:40,paperback-novel,791,Constanța,1,8.90,8.90
+3380,2024-04-08 15:19:46,doll-classic,1416,Timișoara,2,15.90,31.80
+3381,2024-04-08 18:34:50,board-game,456,Constanța,1,21.96,21.96
+3382,2024-04-08 15:01:20,headphones,423,Constanța,1,21.47,21.47
+3383,2024-04-08 15:41:38,winter-gloves,878,Cluj-Napoca,1,17.06,17.06
+3384,2024-04-08 12:46:08,headphones,1078,București,1,21.47,21.47
+3385,2024-04-08 18:02:14,scented-candle,1236,Constanța,1,6.60,6.60
+3386,2024-04-08 15:58:43,headphones,1377,Timișoara,2,21.47,42.94
+3387,2024-04-08 12:44:23,headphones,47,Iași,1,21.47,21.47
+3388,2024-04-08 15:48:37,doll-classic,1381,Cluj-Napoca,1,15.90,15.90
+3389,2024-04-08 15:05:43,usb-charger,1403,București,1,11.61,11.61
+3390,2024-04-08 09:27:27,winter-gloves,1330,Cluj-Napoca,1,17.06,17.06

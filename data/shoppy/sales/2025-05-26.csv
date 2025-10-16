@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+7780,2025-05-26 21:34:05,paperback-novel,1447,București,1,10.15,10.15
+7781,2025-05-26 18:26:11,board-game,1260,Iași,1,21.96,21.96
+7782,2025-05-26 12:50:56,winter-gloves,1306,Constanța,1,17.06,17.06
+7783,2025-05-26 09:50:06,usb-charger,18,Timișoara,1,13.68,13.68
+7784,2025-05-26 15:40:40,scented-candle,1172,Constanța,1,6.42,6.42
+7785,2025-05-26 12:00:39,winter-gloves,859,Iași,1,17.06,17.06
+7786,2025-05-26 18:02:03,scented-candle,1421,Iași,2,6.42,12.84
+7787,2025-05-26 18:28:59,winter-gloves,191,Brașov,1,17.06,17.06
+7788,2025-05-26 12:08:44,usb-charger,386,București,1,13.68,13.68

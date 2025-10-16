@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2340,2023-12-21 18:02:08,garden-hose,489,Iași,2,18.99,37.98
+2341,2023-12-21 09:44:00,winter-gloves,134,Brașov,1,17.06,17.06
+2342,2023-12-21 18:11:33,usb-charger,572,Cluj-Napoca,1,11.61,11.61
+2343,2023-12-21 12:42:04,board-game,1239,Constanța,1,21.96,21.96
+2344,2023-12-21 15:51:43,paperback-novel,990,Brașov,1,8.90,8.90
+2345,2023-12-21 09:53:17,doll-classic,1414,București,1,15.90,15.90
+2346,2023-12-21 09:59:28,doll-classic,663,București,2,15.90,31.80

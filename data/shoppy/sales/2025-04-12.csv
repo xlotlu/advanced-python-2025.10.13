@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+7168,2025-04-12 12:25:34,notebook-a5,665,Timișoara,1,3.44,3.44
+7169,2025-04-12 15:00:40,winter-gloves,1341,Brașov,1,17.06,17.06
+7170,2025-04-12 15:32:33,paperback-novel,1177,București,3,10.15,30.45
+7171,2025-04-12 15:50:55,doll-classic,490,Timișoara,1,16.72,16.72
+7172,2025-04-12 09:52:52,scented-candle,470,Constanța,1,6.42,6.42
+7173,2025-04-12 12:08:06,board-game,980,Timișoara,1,21.96,21.96
+7174,2025-04-12 21:34:49,paperback-novel,710,Timișoara,14,10.15,142.10
+7175,2025-04-12 18:18:19,usb-charger,850,Brașov,2,13.68,27.36
+7176,2025-04-12 18:43:49,board-game,1330,Cluj-Napoca,1,21.96,21.96
+7177,2025-04-12 15:13:05,doll-classic,870,Constanța,2,16.72,33.44

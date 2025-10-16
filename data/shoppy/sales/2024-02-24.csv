@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2936,2024-02-24 15:49:44,doll-classic,1446,Brașov,1,15.90,15.90
+2937,2024-02-24 12:05:19,usb-charger,97,Cluj-Napoca,1,11.61,11.61
+2938,2024-02-24 12:34:15,scented-candle,388,Brașov,1,6.60,6.60
+2939,2024-02-24 15:40:37,swim-goggles,1447,București,1,9.90,9.90
+2940,2024-02-24 21:21:51,headphones,1235,București,1,21.47,21.47
+2941,2024-02-24 15:54:31,headphones,1433,Timișoara,1,21.47,21.47
+2942,2024-02-24 15:28:58,beach-ball,117,Brașov,1,4.37,4.37
+2943,2024-02-24 12:58:59,notebook-a5,1431,Constanța,1,3.30,3.30
+2944,2024-02-24 21:16:34,usb-charger,475,Brașov,1,11.61,11.61

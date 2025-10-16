@@ -1,0 +1,4 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1812,2023-09-29 21:05:23,board-game,1495,Timișoara,1,21.96,21.96
+1813,2023-09-29 21:17:20,headphones,321,Cluj-Napoca,1,21.47,21.47
+1814,2023-09-29 18:47:57,swim-goggles,361,Iași,2,9.90,19.80

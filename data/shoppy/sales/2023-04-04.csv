@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+623,2023-04-04 21:15:04,garden-hose,554,Brașov,1,16.90,16.90
+624,2023-04-04 15:04:21,board-game,1312,București,1,19.90,19.90
+625,2023-04-04 18:09:55,board-game,463,București,2,19.90,39.80
+626,2023-04-04 21:14:24,doll-classic,216,București,1,15.90,15.90
+627,2023-04-04 15:56:19,garden-hose,1206,București,1,16.90,16.90
+628,2023-04-04 15:44:36,garden-hose,578,Timișoara,1,16.90,16.90
+629,2023-04-04 21:10:20,headphones,798,Iași,1,19.90,19.90

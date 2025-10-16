@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2250,2023-12-07 09:38:09,garden-hose,845,Timișoara,1,18.99,18.99
+2251,2023-12-07 21:13:01,winter-gloves,1051,Brașov,1,17.06,17.06
+2252,2023-12-07 15:55:54,winter-gloves,135,Iași,1,17.06,17.06
+2253,2023-12-07 15:38:26,headphones,1127,Timișoara,1,21.47,21.47
+2254,2023-12-07 12:19:53,swim-goggles,1079,Timișoara,2,9.90,19.80
+2255,2023-12-07 18:01:29,doll-classic,302,București,2,15.90,31.80
+2256,2023-12-07 21:36:11,headphones,1314,Brașov,1,21.47,21.47

@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5757,2025-01-01 12:29:23,beach-ball,40,Timișoara,1,4.50,4.50
+5758,2025-01-01 15:19:48,board-game,489,Iași,1,21.96,21.96
+5759,2025-01-01 18:36:17,winter-gloves,646,Brașov,1,17.06,17.06
+5760,2025-01-01 15:14:06,usb-charger,587,Constanța,1,13.68,13.68
+5761,2025-01-01 21:27:11,garden-hose,298,București,1,18.03,18.03
+5762,2025-01-01 15:00:12,garden-hose,1138,București,1,18.03,18.03
+5763,2025-01-01 15:30:04,swim-goggles,125,Cluj-Napoca,1,10.82,10.82
+5764,2025-01-01 15:54:45,beach-ball,1082,Iași,1,4.50,4.50
+5765,2025-01-01 12:29:41,winter-gloves,1204,Constanța,1,17.06,17.06
+5766,2025-01-01 15:30:38,swim-goggles,501,Cluj-Napoca,1,10.82,10.82
+5767,2025-01-01 18:14:48,winter-gloves,1256,Brașov,1,17.06,17.06

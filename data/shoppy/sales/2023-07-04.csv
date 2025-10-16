@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1288,2023-07-04 12:18:38,doll-classic,1052,Brașov,1,15.90,15.90
+1289,2023-07-04 12:15:36,board-game,392,Timișoara,2,21.96,43.92
+1290,2023-07-04 18:33:43,doll-classic,843,Cluj-Napoca,1,15.90,15.90
+1291,2023-07-04 18:12:49,doll-classic,1256,Brașov,1,15.90,15.90

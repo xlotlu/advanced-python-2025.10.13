@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+8333,2025-07-06 09:27:44,board-game,996,Constanța,1,21.96,21.96
+8334,2025-07-06 15:50:13,paperback-novel,972,Constanța,2,10.15,20.30
+8335,2025-07-06 18:06:22,board-game,1336,Timișoara,1,21.96,21.96
+8336,2025-07-06 21:29:18,board-game,1470,Constanța,2,21.96,43.92
+8337,2025-07-06 12:19:17,headphones,1119,Timișoara,2,21.57,43.14
+8338,2025-07-06 09:09:36,headphones,207,Timișoara,1,21.57,21.57
+8339,2025-07-06 09:01:03,headphones,344,București,1,21.57,21.57
+8340,2025-07-06 15:32:09,doll-classic,664,Iași,1,17.86,17.86

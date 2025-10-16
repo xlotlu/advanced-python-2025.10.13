@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1501,2023-08-07 18:47:55,swim-goggles,1008,Iași,1,9.90,9.90
+1502,2023-08-07 21:59:03,garden-hose,330,Cluj-Napoca,2,18.99,37.98
+1503,2023-08-07 09:49:16,headphones,47,Iași,2,21.47,42.94
+1504,2023-08-07 15:04:12,usb-charger,407,Cluj-Napoca,1,11.61,11.61

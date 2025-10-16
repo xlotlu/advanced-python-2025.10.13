@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4964,2024-09-28 21:08:42,doll-classic,534,Brașov,2,16.72,33.44
+4965,2024-09-28 21:49:17,beach-ball,856,Brașov,1,4.50,4.50
+4966,2024-09-28 09:39:01,garden-hose,1356,Iași,1,18.03,18.03
+4967,2024-09-28 09:50:46,paperback-novel,715,București,1,8.90,8.90
+4968,2024-09-28 15:09:21,garden-hose,489,Iași,1,18.03,18.03
+4969,2024-09-28 12:17:24,garden-hose,634,București,1,18.03,18.03

@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2668,2024-01-28 18:23:46,winter-gloves,66,Cluj-Napoca,1,17.06,17.06
+2669,2024-01-28 15:10:46,paperback-novel,17,Iași,1,8.90,8.90
+2670,2024-01-28 12:48:38,beach-ball,402,Constanța,1,4.37,4.37
+2671,2024-01-28 15:58:47,paperback-novel,1004,București,1,8.90,8.90
+2672,2024-01-28 15:17:40,notebook-a5,708,Constanța,2,3.30,6.60
+2673,2024-01-28 09:35:59,winter-gloves,59,Constanța,3,17.06,51.18
+2674,2024-01-28 15:22:07,beach-ball,726,București,1,4.37,4.37
+2675,2024-01-28 18:00:19,beach-ball,704,Timișoara,1,4.37,4.37

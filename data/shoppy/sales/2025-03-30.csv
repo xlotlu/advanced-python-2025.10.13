@@ -1,0 +1,18 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+6960,2025-03-30 18:28:11,scented-candle,734,București,1,6.42,6.42
+6961,2025-03-30 21:31:12,usb-charger,528,București,1,13.68,13.68
+6962,2025-03-30 15:04:39,board-game,124,Timișoara,1,21.96,21.96
+6963,2025-03-30 18:59:01,beach-ball,346,Iași,2,4.50,9.00
+6964,2025-03-30 18:51:08,doll-classic,921,Timișoara,1,16.72,16.72
+6965,2025-03-30 15:25:56,headphones,273,Iași,1,21.47,21.47
+6966,2025-03-30 21:30:34,usb-charger,968,Brașov,1,13.68,13.68
+6967,2025-03-30 12:32:19,doll-classic,1027,Constanța,1,16.72,16.72
+6968,2025-03-30 21:11:50,doll-classic,996,Constanța,1,16.72,16.72
+6969,2025-03-30 15:04:45,doll-classic,1274,Cluj-Napoca,2,16.72,33.44
+6970,2025-03-30 21:55:30,doll-classic,1141,Timișoara,1,16.72,16.72
+6971,2025-03-30 18:12:27,winter-gloves,983,Cluj-Napoca,2,17.06,34.12
+6972,2025-03-30 15:18:48,board-game,1205,Brașov,1,21.96,21.96
+6973,2025-03-30 18:36:38,winter-gloves,1318,Timișoara,1,17.06,17.06
+6974,2025-03-30 21:44:33,swim-goggles,1409,Timișoara,1,10.82,10.82
+6975,2025-03-30 15:05:19,garden-hose,718,Timișoara,1,18.03,18.03
+6976,2025-03-30 09:29:15,winter-gloves,433,Iași,1,17.06,17.06

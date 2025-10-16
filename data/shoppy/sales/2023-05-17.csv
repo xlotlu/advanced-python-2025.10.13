@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+938,2023-05-17 12:03:36,usb-charger,63,Constanța,13,11.61,150.93
+939,2023-05-17 21:40:29,notebook-a5,1005,Timișoara,2,2.99,5.98
+940,2023-05-17 15:34:51,board-game,213,Constanța,1,19.90,19.90
+941,2023-05-17 21:09:45,swim-goggles,363,Constanța,1,9.90,9.90
+942,2023-05-17 15:54:07,notebook-a5,115,București,1,2.99,2.99
+943,2023-05-17 12:54:34,usb-charger,569,Brașov,1,11.61,11.61

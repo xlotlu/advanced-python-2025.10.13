@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2314,2023-12-17 15:13:58,headphones,796,Constanța,1,21.47,21.47
+2315,2023-12-17 21:03:25,headphones,485,Cluj-Napoca,1,21.47,21.47
+2316,2023-12-17 15:00:23,beach-ball,91,Constanța,1,4.37,4.37
+2317,2023-12-17 15:41:40,swim-goggles,879,Brașov,1,9.90,9.90
+2318,2023-12-17 15:07:00,board-game,444,Constanța,1,21.96,21.96

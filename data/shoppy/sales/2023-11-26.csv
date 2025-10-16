@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2174,2023-11-26 18:43:57,scented-candle,69,Constanța,1,6.60,6.60
+2175,2023-11-26 15:35:51,swim-goggles,1148,Cluj-Napoca,1,9.90,9.90
+2176,2023-11-26 15:48:49,swim-goggles,503,Timișoara,1,9.90,9.90
+2177,2023-11-26 18:25:58,swim-goggles,335,Brașov,1,9.90,9.90
+2178,2023-11-26 18:01:22,paperback-novel,1156,Timișoara,1,8.90,8.90
+2179,2023-11-26 15:07:08,garden-hose,552,Timișoara,1,18.99,18.99
+2180,2023-11-26 21:03:28,garden-hose,683,Constanța,1,18.99,18.99
+2181,2023-11-26 21:39:38,garden-hose,1260,Iași,1,18.99,18.99
+2182,2023-11-26 12:31:25,beach-ball,406,Iași,1,4.37,4.37

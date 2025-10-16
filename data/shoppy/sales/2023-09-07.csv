@@ -1,0 +1,4 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1694,2023-09-07 15:19:20,notebook-a5,986,Cluj-Napoca,1,3.30,3.30
+1695,2023-09-07 15:17:53,paperback-novel,921,Timișoara,1,8.90,8.90
+1696,2023-09-07 12:51:05,paperback-novel,1493,Timișoara,1,8.90,8.90

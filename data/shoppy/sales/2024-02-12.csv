@@ -1,0 +1,13 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2813,2024-02-12 12:16:29,headphones,613,Constanța,1,21.47,21.47
+2814,2024-02-12 09:20:38,notebook-a5,538,Timișoara,2,3.30,6.60
+2815,2024-02-12 21:55:43,doll-classic,341,Brașov,1,15.90,15.90
+2816,2024-02-12 15:41:14,scented-candle,732,Cluj-Napoca,1,6.60,6.60
+2817,2024-02-12 18:44:48,scented-candle,833,Iași,1,6.60,6.60
+2818,2024-02-12 21:30:19,usb-charger,196,București,2,11.61,23.22
+2819,2024-02-12 21:04:32,board-game,1381,Cluj-Napoca,3,21.96,65.88
+2820,2024-02-12 15:12:17,board-game,857,Constanța,1,21.96,21.96
+2821,2024-02-12 09:13:39,garden-hose,1080,București,1,18.99,18.99
+2822,2024-02-12 12:07:31,garden-hose,1128,Constanța,1,18.99,18.99
+2823,2024-02-12 15:39:03,paperback-novel,1183,Constanța,1,8.90,8.90
+2824,2024-02-12 18:04:58,paperback-novel,350,Cluj-Napoca,1,8.90,8.90

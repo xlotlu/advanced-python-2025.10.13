@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1254,2023-06-28 18:56:02,usb-charger,704,Timișoara,1,11.61,11.61
+1255,2023-06-28 15:38:21,headphones,1107,București,2,19.90,39.80
+1256,2023-06-28 21:36:08,paperback-novel,422,Cluj-Napoca,1,8.90,8.90
+1257,2023-06-28 18:56:07,notebook-a5,1027,Constanța,1,2.99,2.99
+1258,2023-06-28 15:16:59,headphones,1128,Constanța,1,19.90,19.90

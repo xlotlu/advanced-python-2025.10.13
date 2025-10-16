@@ -1,0 +1,17 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3725,2024-05-12 15:34:28,usb-charger,1314,Brașov,1,11.61,11.61
+3726,2024-05-12 18:18:36,garden-hose,1243,Constanța,1,18.99,18.99
+3727,2024-05-12 21:13:42,paperback-novel,263,Constanța,2,8.90,17.80
+3728,2024-05-12 15:42:31,scented-candle,524,Iași,1,6.60,6.60
+3729,2024-05-12 12:06:02,doll-classic,843,Cluj-Napoca,1,15.90,15.90
+3730,2024-05-12 18:18:53,usb-charger,810,Brașov,2,11.61,23.22
+3731,2024-05-12 12:12:07,beach-ball,481,Iași,1,4.37,4.37
+3732,2024-05-12 18:36:19,doll-classic,273,Iași,1,15.90,15.90
+3733,2024-05-12 21:09:43,swim-goggles,1395,Iași,1,9.90,9.90
+3734,2024-05-12 21:27:48,board-game,1419,Cluj-Napoca,1,21.96,21.96
+3735,2024-05-12 15:50:49,headphones,158,Timișoara,1,21.47,21.47
+3736,2024-05-12 15:48:35,winter-gloves,1193,Iași,2,17.06,34.12
+3737,2024-05-12 21:52:29,headphones,1006,Timișoara,1,21.47,21.47
+3738,2024-05-12 21:55:04,usb-charger,446,Iași,1,11.61,11.61
+3739,2024-05-12 09:50:13,headphones,1243,Constanța,1,21.47,21.47
+3740,2024-05-12 15:39:29,headphones,1318,Timișoara,1,21.47,21.47

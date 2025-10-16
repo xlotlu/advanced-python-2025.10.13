@@ -1,0 +1,17 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+9277,2025-09-21 18:25:28,beach-ball,1340,Cluj-Napoca,1,4.25,4.25
+9278,2025-09-21 12:32:08,paperback-novel,562,Constanța,2,10.15,20.30
+9279,2025-09-21 12:58:09,garden-hose,1476,Cluj-Napoca,1,18.84,18.84
+9280,2025-09-21 12:01:02,headphones,1240,Timișoara,1,21.57,21.57
+9281,2025-09-21 21:51:58,board-game,603,Timișoara,1,21.96,21.96
+9282,2025-09-21 15:44:26,beach-ball,971,Iași,3,4.25,12.75
+9283,2025-09-21 12:14:45,doll-classic,429,Timișoara,1,17.86,17.86
+9284,2025-09-21 15:52:11,scented-candle,175,Cluj-Napoca,1,6.47,6.47
+9285,2025-09-21 12:57:56,notebook-a5,1488,București,1,3.44,3.44
+9286,2025-09-21 12:06:27,winter-gloves,1370,Cluj-Napoca,1,15.99,15.99
+9287,2025-09-21 15:58:50,garden-hose,311,Cluj-Napoca,1,18.84,18.84
+9288,2025-09-21 18:59:48,paperback-novel,862,Constanța,1,10.15,10.15
+9289,2025-09-21 12:53:26,paperback-novel,179,București,2,10.15,20.30
+9290,2025-09-21 12:28:40,usb-charger,1463,Constanța,1,13.94,13.94
+9291,2025-09-21 15:42:37,notebook-a5,678,Constanța,1,3.44,3.44
+9292,2025-09-21 21:31:21,garden-hose,968,Brașov,2,18.84,37.68

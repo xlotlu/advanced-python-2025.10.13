@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1505,2023-08-08 18:15:52,beach-ball,1052,Brașov,1,4.37,4.37
+1506,2023-08-08 15:34:36,scented-candle,707,Timișoara,1,6.60,6.60
+1507,2023-08-08 15:57:42,doll-classic,1117,Brașov,1,15.90,15.90
+1508,2023-08-08 09:10:55,board-game,1186,Cluj-Napoca,1,21.96,21.96
+1509,2023-08-08 15:32:02,doll-classic,194,București,1,15.90,15.90
+1510,2023-08-08 09:28:13,usb-charger,1397,Iași,1,11.61,11.61
+1511,2023-08-08 15:06:59,board-game,291,Timișoara,1,21.96,21.96
+1512,2023-08-08 15:32:10,scented-candle,383,Timișoara,1,6.60,6.60
+1513,2023-08-08 15:56:31,beach-ball,1207,Iași,2,4.37,8.74

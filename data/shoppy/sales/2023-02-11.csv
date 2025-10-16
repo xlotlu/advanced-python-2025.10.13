@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+245,2023-02-11 18:02:06,winter-gloves,1089,Constanța,3,14.90,44.70
+246,2023-02-11 15:58:41,winter-gloves,559,Timișoara,3,14.90,44.70
+247,2023-02-11 09:41:37,doll-classic,802,Brașov,1,15.90,15.90
+248,2023-02-11 12:43:37,headphones,400,Timișoara,1,19.90,19.90
+249,2023-02-11 21:20:35,headphones,22,Iași,1,19.90,19.90
+250,2023-02-11 09:06:33,winter-gloves,213,Constanța,2,14.90,29.80

@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3391,2024-04-09 15:58:38,doll-classic,592,Timișoara,1,15.90,15.90
+3392,2024-04-09 12:50:47,beach-ball,586,Brașov,1,4.37,4.37
+3393,2024-04-09 18:23:12,usb-charger,153,Cluj-Napoca,1,11.61,11.61
+3394,2024-04-09 12:03:09,headphones,187,Cluj-Napoca,1,21.47,21.47
+3395,2024-04-09 18:29:13,beach-ball,779,Timișoara,1,4.37,4.37
+3396,2024-04-09 18:10:22,winter-gloves,800,Cluj-Napoca,1,17.06,17.06
+3397,2024-04-09 18:52:11,winter-gloves,349,Cluj-Napoca,1,17.06,17.06
+3398,2024-04-09 21:28:17,scented-candle,1156,Timișoara,1,6.60,6.60

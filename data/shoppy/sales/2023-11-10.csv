@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2064,2023-11-10 15:49:36,beach-ball,185,Brașov,1,4.37,4.37
+2065,2023-11-10 18:01:37,beach-ball,190,Iași,1,4.37,4.37
+2066,2023-11-10 15:52:15,usb-charger,285,Cluj-Napoca,1,11.61,11.61
+2067,2023-11-10 15:53:37,garden-hose,1379,Brașov,1,18.99,18.99
+2068,2023-11-10 18:47:45,paperback-novel,1266,București,1,8.90,8.90
+2069,2023-11-10 18:21:19,beach-ball,1113,Timișoara,1,4.37,4.37
+2070,2023-11-10 21:55:58,scented-candle,1122,Brașov,3,6.60,19.80
+2071,2023-11-10 12:03:01,usb-charger,1223,București,17,11.61,197.37
+2072,2023-11-10 15:43:14,garden-hose,511,Cluj-Napoca,3,18.99,56.97
+2073,2023-11-10 18:15:28,usb-charger,169,Constanța,2,11.61,23.22
+2074,2023-11-10 09:05:42,notebook-a5,1238,Timișoara,1,3.30,3.30

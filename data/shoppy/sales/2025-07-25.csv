@@ -1,0 +1,16 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+8594,2025-07-25 15:22:02,scented-candle,1360,Iași,1,6.47,6.47
+8595,2025-07-25 12:34:06,doll-classic,860,Timișoara,1,17.86,17.86
+8596,2025-07-25 18:02:41,doll-classic,1081,Timișoara,1,17.86,17.86
+8597,2025-07-25 15:14:58,swim-goggles,679,Cluj-Napoca,1,10.82,10.82
+8598,2025-07-25 18:25:12,doll-classic,598,Brașov,1,17.86,17.86
+8599,2025-07-25 15:53:35,winter-gloves,325,Timișoara,1,15.99,15.99
+8600,2025-07-25 12:46:53,doll-classic,648,București,1,17.86,17.86
+8601,2025-07-25 15:31:08,scented-candle,306,Iași,2,6.47,12.94
+8602,2025-07-25 18:24:01,beach-ball,46,Brașov,1,4.25,4.25
+8603,2025-07-25 12:37:27,scented-candle,975,Iași,1,6.47,6.47
+8604,2025-07-25 18:37:11,usb-charger,98,Iași,1,13.94,13.94
+8605,2025-07-25 15:28:28,swim-goggles,700,Cluj-Napoca,2,10.82,21.64
+8606,2025-07-25 18:39:54,doll-classic,609,Constanța,1,17.86,17.86
+8607,2025-07-25 18:12:54,garden-hose,785,Brașov,1,18.84,18.84
+8608,2025-07-25 09:25:10,scented-candle,734,București,1,6.47,6.47

@@ -1,0 +1,4 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2410,2024-01-01 18:17:16,garden-hose,92,Iași,1,18.99,18.99
+2411,2024-01-01 15:06:04,doll-classic,638,Iași,3,15.90,47.70
+2412,2024-01-01 21:41:58,beach-ball,1437,Cluj-Napoca,2,4.37,8.74

@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1123,2023-06-11 15:10:46,swim-goggles,399,Iași,1,9.90,9.90
+1124,2023-06-11 18:11:53,doll-classic,372,Cluj-Napoca,1,15.90,15.90
+1125,2023-06-11 18:21:05,beach-ball,193,Brașov,2,3.99,7.98
+1126,2023-06-11 21:24:51,scented-candle,835,Brașov,1,5.31,5.31
+1127,2023-06-11 18:11:06,usb-charger,638,Iași,1,11.61,11.61

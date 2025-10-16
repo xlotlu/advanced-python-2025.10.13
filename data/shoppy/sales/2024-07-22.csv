@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4406,2024-07-22 09:39:30,paperback-novel,1316,Iași,1,8.90,8.90
+4407,2024-07-22 15:25:26,doll-classic,767,Cluj-Napoca,2,16.72,33.44
+4408,2024-07-22 15:05:48,beach-ball,802,Brașov,1,4.50,4.50
+4409,2024-07-22 21:07:18,headphones,86,Iași,2,21.47,42.94
+4410,2024-07-22 21:03:33,usb-charger,1405,Brașov,1,13.68,13.68
+4411,2024-07-22 12:12:37,scented-candle,37,Brașov,1,6.42,6.42
+4412,2024-07-22 21:09:01,board-game,107,Timișoara,1,21.96,21.96
+4413,2024-07-22 18:11:25,doll-classic,82,Cluj-Napoca,1,16.72,16.72
+4414,2024-07-22 21:59:18,headphones,1009,Constanța,1,21.47,21.47
+4415,2024-07-22 21:28:39,doll-classic,1072,Timișoara,2,16.72,33.44

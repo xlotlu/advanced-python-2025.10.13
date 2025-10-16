@@ -1,0 +1,15 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+7178,2025-04-13 15:49:58,board-game,802,Brașov,1,21.96,21.96
+7179,2025-04-13 15:56:55,scented-candle,1070,Cluj-Napoca,1,6.42,6.42
+7180,2025-04-13 21:05:47,winter-gloves,666,Brașov,1,17.06,17.06
+7181,2025-04-13 15:35:20,winter-gloves,556,Constanța,1,17.06,17.06
+7182,2025-04-13 18:22:04,paperback-novel,895,București,1,10.15,10.15
+7183,2025-04-13 15:07:09,scented-candle,904,Constanța,1,6.42,6.42
+7184,2025-04-13 21:09:25,swim-goggles,190,Iași,1,10.82,10.82
+7185,2025-04-13 15:42:37,headphones,882,Brașov,1,21.47,21.47
+7186,2025-04-13 18:51:30,headphones,288,Cluj-Napoca,2,21.47,42.94
+7187,2025-04-13 12:41:56,notebook-a5,646,Brașov,18,3.44,61.92
+7188,2025-04-13 12:08:42,scented-candle,668,Brașov,1,6.42,6.42
+7189,2025-04-13 18:13:16,headphones,1136,Timișoara,1,21.47,21.47
+7190,2025-04-13 18:19:43,notebook-a5,496,Constanța,1,3.44,3.44
+7191,2025-04-13 21:41:58,notebook-a5,801,Brașov,2,3.44,6.88

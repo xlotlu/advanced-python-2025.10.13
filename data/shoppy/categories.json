@@ -1,0 +1,34 @@
+[
+  {
+    "category_id": "beachwear",
+    "category_name": "Beachwear"
+  },
+  {
+    "category_id": "toys",
+    "category_name": "Toys"
+  },
+  {
+    "category_id": "electronics",
+    "category_name": "Electronics"
+  },
+  {
+    "category_id": "books",
+    "category_name": "Books"
+  },
+  {
+    "category_id": "winter-gear",
+    "category_name": "Winter Gear"
+  },
+  {
+    "category_id": "garden",
+    "category_name": "Garden"
+  },
+  {
+    "category_id": "stationery",
+    "category_name": "Stationery"
+  },
+  {
+    "category_id": "home-decor",
+    "category_name": "Home Decor"
+  }
+]

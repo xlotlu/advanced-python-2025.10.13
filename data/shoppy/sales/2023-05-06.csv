@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+862,2023-05-06 21:41:03,doll-classic,477,Cluj-Napoca,1,15.90,15.90
+863,2023-05-06 18:55:28,board-game,1188,Brașov,1,19.90,19.90
+864,2023-05-06 12:45:16,doll-classic,528,București,1,15.90,15.90
+865,2023-05-06 18:34:45,beach-ball,92,Iași,2,3.99,7.98
+866,2023-05-06 09:28:07,paperback-novel,1047,Brașov,1,8.90,8.90
+867,2023-05-06 15:53:52,board-game,1395,Iași,1,19.90,19.90

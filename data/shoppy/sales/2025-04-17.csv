@@ -1,0 +1,17 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+7236,2025-04-17 15:57:10,doll-classic,427,Iași,2,16.72,33.44
+7237,2025-04-17 18:50:33,scented-candle,1447,București,1,6.42,6.42
+7238,2025-04-17 15:44:35,paperback-novel,577,Cluj-Napoca,1,10.15,10.15
+7239,2025-04-17 15:18:08,usb-charger,38,Timișoara,3,13.68,41.04
+7240,2025-04-17 15:25:55,winter-gloves,1046,Constanța,1,17.06,17.06
+7241,2025-04-17 12:19:02,board-game,163,București,1,21.96,21.96
+7242,2025-04-17 12:28:51,garden-hose,1468,Cluj-Napoca,1,18.03,18.03
+7243,2025-04-17 15:04:52,usb-charger,1031,Timișoara,1,13.68,13.68
+7244,2025-04-17 09:22:57,winter-gloves,212,Iași,1,17.06,17.06
+7245,2025-04-17 15:33:10,garden-hose,1103,Constanța,1,18.03,18.03
+7246,2025-04-17 15:14:17,paperback-novel,430,Iași,1,10.15,10.15
+7247,2025-04-17 12:28:46,garden-hose,214,București,1,18.03,18.03
+7248,2025-04-17 15:40:34,headphones,404,Timișoara,1,21.47,21.47
+7249,2025-04-17 21:53:29,doll-classic,585,Cluj-Napoca,1,16.72,16.72
+7250,2025-04-17 18:50:28,doll-classic,379,Iași,1,16.72,16.72
+7251,2025-04-17 18:38:59,usb-charger,414,Timișoara,2,13.68,27.36

@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2650,2024-01-26 21:55:22,scented-candle,812,Constanța,1,6.60,6.60
+2651,2024-01-26 15:05:41,usb-charger,234,Timișoara,1,11.61,11.61
+2652,2024-01-26 15:03:55,garden-hose,1335,Iași,1,18.99,18.99
+2653,2024-01-26 18:11:16,usb-charger,553,Constanța,1,11.61,11.61
+2654,2024-01-26 15:28:35,paperback-novel,1007,București,1,8.90,8.90
+2655,2024-01-26 09:14:41,usb-charger,35,Brașov,1,11.61,11.61
+2656,2024-01-26 09:06:46,garden-hose,308,Brașov,1,18.99,18.99
+2657,2024-01-26 15:25:53,doll-classic,1282,București,1,15.90,15.90
+2658,2024-01-26 15:01:25,beach-ball,1355,Iași,1,4.37,4.37

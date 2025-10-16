@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4616,2024-08-15 15:15:54,doll-classic,1458,Cluj-Napoca,1,16.72,16.72
+4617,2024-08-15 12:01:48,garden-hose,12,Cluj-Napoca,1,18.03,18.03
+4618,2024-08-15 18:20:53,board-game,1332,Timișoara,1,21.96,21.96
+4619,2024-08-15 15:44:54,winter-gloves,1288,București,1,17.06,17.06
+4620,2024-08-15 12:55:54,headphones,1400,Constanța,1,21.47,21.47
+4621,2024-08-15 18:18:18,board-game,958,București,1,21.96,21.96
+4622,2024-08-15 15:20:47,notebook-a5,1136,Timișoara,3,3.44,10.32

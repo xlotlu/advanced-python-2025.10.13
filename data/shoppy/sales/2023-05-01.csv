@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+824,2023-05-01 18:31:59,winter-gloves,1392,Brașov,1,14.90,14.90
+825,2023-05-01 21:51:58,headphones,485,Cluj-Napoca,1,19.90,19.90
+826,2023-05-01 18:24:48,board-game,861,București,2,19.90,39.80
+827,2023-05-01 12:02:54,scented-candle,150,Cluj-Napoca,1,5.31,5.31
+828,2023-05-01 15:01:59,usb-charger,357,Cluj-Napoca,1,11.61,11.61
+829,2023-05-01 15:40:36,doll-classic,1140,Timișoara,1,15.90,15.90

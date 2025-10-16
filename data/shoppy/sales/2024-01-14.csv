@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2532,2024-01-14 15:35:04,usb-charger,613,Constanța,2,11.61,23.22
+2533,2024-01-14 12:14:40,paperback-novel,42,Cluj-Napoca,1,8.90,8.90
+2534,2024-01-14 18:39:39,paperback-novel,330,Cluj-Napoca,1,8.90,8.90
+2535,2024-01-14 12:19:29,winter-gloves,1022,București,2,17.06,34.12
+2536,2024-01-14 18:51:00,notebook-a5,1089,Constanța,1,3.30,3.30
+2537,2024-01-14 18:57:16,doll-classic,357,Cluj-Napoca,1,15.90,15.90
+2538,2024-01-14 18:17:05,board-game,931,Constanța,1,21.96,21.96
+2539,2024-01-14 18:21:15,winter-gloves,816,Cluj-Napoca,1,17.06,17.06
+2540,2024-01-14 12:29:18,winter-gloves,1198,Iași,1,17.06,17.06

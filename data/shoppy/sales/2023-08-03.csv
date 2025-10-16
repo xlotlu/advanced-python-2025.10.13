@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1481,2023-08-03 15:16:37,scented-candle,340,Brașov,1,6.60,6.60
+1482,2023-08-03 15:40:26,usb-charger,1279,Constanța,1,11.61,11.61
+1483,2023-08-03 18:18:53,headphones,1132,Cluj-Napoca,1,21.47,21.47
+1484,2023-08-03 18:43:43,paperback-novel,935,Cluj-Napoca,1,8.90,8.90
+1485,2023-08-03 12:50:23,beach-ball,1187,București,1,4.37,4.37
+1486,2023-08-03 12:21:36,doll-classic,211,Brașov,3,15.90,47.70

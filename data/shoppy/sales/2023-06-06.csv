@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1091,2023-06-06 12:40:38,board-game,965,Timișoara,1,19.90,19.90
+1092,2023-06-06 18:34:47,doll-classic,1250,București,1,15.90,15.90
+1093,2023-06-06 21:58:46,usb-charger,700,Cluj-Napoca,1,11.61,11.61
+1094,2023-06-06 09:53:57,notebook-a5,524,Iași,2,2.99,5.98
+1095,2023-06-06 15:56:45,board-game,1417,Iași,1,19.90,19.90
+1096,2023-06-06 12:33:06,notebook-a5,182,Brașov,1,2.99,2.99
+1097,2023-06-06 15:23:15,scented-candle,1362,Timișoara,1,5.31,5.31

@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2453,2024-01-06 12:25:26,beach-ball,984,Brașov,1,4.37,4.37
+2454,2024-01-06 12:47:37,beach-ball,1160,București,1,4.37,4.37
+2455,2024-01-06 21:27:57,swim-goggles,512,Brașov,1,9.90,9.90
+2456,2024-01-06 12:08:54,swim-goggles,280,Timișoara,1,9.90,9.90
+2457,2024-01-06 12:55:37,board-game,268,Brașov,1,21.96,21.96
+2458,2024-01-06 15:08:41,swim-goggles,57,Constanța,1,9.90,9.90
+2459,2024-01-06 15:02:54,beach-ball,155,Cluj-Napoca,1,4.37,4.37
+2460,2024-01-06 15:13:14,beach-ball,1180,București,1,4.37,4.37
+2461,2024-01-06 12:11:33,beach-ball,776,Constanța,1,4.37,4.37
+2462,2024-01-06 12:15:46,scented-candle,1225,Brașov,1,6.60,6.60

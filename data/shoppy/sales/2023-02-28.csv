@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+367,2023-02-28 21:59:33,headphones,516,Constanța,2,19.90,39.80
+368,2023-02-28 15:49:51,headphones,642,Timișoara,1,19.90,19.90
+369,2023-02-28 15:47:47,doll-classic,484,Brașov,1,15.90,15.90
+370,2023-02-28 12:13:17,scented-candle,901,Brașov,1,5.90,5.90
+371,2023-02-28 09:34:23,usb-charger,1433,Timișoara,2,11.61,23.22
+372,2023-02-28 15:43:15,scented-candle,569,Brașov,1,5.90,5.90

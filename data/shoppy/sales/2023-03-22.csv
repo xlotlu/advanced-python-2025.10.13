@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+524,2023-03-22 18:31:51,notebook-a5,1350,București,1,2.99,2.99
+525,2023-03-22 15:43:48,garden-hose,827,București,1,16.90,16.90
+526,2023-03-22 12:37:01,winter-gloves,1163,Brașov,1,14.90,14.90
+527,2023-03-22 12:21:36,garden-hose,1290,Cluj-Napoca,2,16.90,33.80
+528,2023-03-22 15:25:24,garden-hose,419,Iași,2,16.90,33.80
+529,2023-03-22 15:30:06,scented-candle,674,Iași,1,5.90,5.90

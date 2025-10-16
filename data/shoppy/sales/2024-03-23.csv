@@ -1,0 +1,13 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3214,2024-03-23 12:57:56,swim-goggles,964,Constanța,3,9.90,29.70
+3215,2024-03-23 15:17:41,usb-charger,944,Iași,1,11.61,11.61
+3216,2024-03-23 21:21:40,winter-gloves,472,Iași,1,17.06,17.06
+3217,2024-03-23 15:47:28,notebook-a5,634,București,1,3.30,3.30
+3218,2024-03-23 12:24:42,doll-classic,1389,Iași,1,15.90,15.90
+3219,2024-03-23 12:41:10,winter-gloves,116,Timișoara,1,17.06,17.06
+3220,2024-03-23 12:49:46,doll-classic,433,Iași,1,15.90,15.90
+3221,2024-03-23 18:43:54,usb-charger,751,București,1,11.61,11.61
+3222,2024-03-23 12:29:59,board-game,1255,Brașov,2,21.96,43.92
+3223,2024-03-23 18:50:48,winter-gloves,810,Brașov,2,17.06,34.12
+3224,2024-03-23 18:28:24,winter-gloves,1093,Constanța,1,17.06,17.06
+3225,2024-03-23 15:58:00,board-game,1086,București,1,21.96,21.96

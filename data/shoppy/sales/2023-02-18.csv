@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+298,2023-02-18 12:40:01,board-game,601,Constanța,1,19.90,19.90
+299,2023-02-18 21:30:22,usb-charger,861,București,1,11.61,11.61
+300,2023-02-18 12:04:01,headphones,476,București,1,19.90,19.90
+301,2023-02-18 12:37:21,garden-hose,1343,Constanța,1,16.90,16.90
+302,2023-02-18 15:44:33,winter-gloves,1124,Cluj-Napoca,1,14.90,14.90
+303,2023-02-18 12:50:19,headphones,352,București,1,19.90,19.90

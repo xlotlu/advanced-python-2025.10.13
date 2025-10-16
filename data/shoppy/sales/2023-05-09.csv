@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+879,2023-05-09 21:59:32,board-game,172,București,1,19.90,19.90
+880,2023-05-09 15:43:41,board-game,929,Cluj-Napoca,1,19.90,19.90
+881,2023-05-09 15:37:17,usb-charger,199,Constanța,1,11.61,11.61
+882,2023-05-09 09:33:57,doll-classic,1076,București,1,15.90,15.90

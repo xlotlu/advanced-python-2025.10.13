@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4623,2024-08-16 12:31:19,headphones,50,Brașov,1,21.47,21.47
+4624,2024-08-16 15:50:00,doll-classic,911,Iași,1,16.72,16.72
+4625,2024-08-16 12:23:44,swim-goggles,287,Timișoara,1,10.82,10.82
+4626,2024-08-16 12:23:57,scented-candle,115,București,1,6.42,6.42
+4627,2024-08-16 12:05:05,swim-goggles,897,Brașov,1,10.82,10.82
+4628,2024-08-16 18:49:22,headphones,28,Brașov,1,21.47,21.47
+4629,2024-08-16 21:39:47,garden-hose,1417,Iași,1,18.03,18.03
+4630,2024-08-16 12:32:01,swim-goggles,735,Iași,1,10.82,10.82
+4631,2024-08-16 12:01:45,garden-hose,7,București,2,18.03,36.06

@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1689,2023-09-06 15:18:32,garden-hose,138,Cluj-Napoca,1,18.99,18.99
+1690,2023-09-06 12:16:16,notebook-a5,1373,Brașov,1,3.30,3.30
+1691,2023-09-06 15:52:34,scented-candle,431,Constanța,1,6.60,6.60
+1692,2023-09-06 18:30:38,notebook-a5,1269,Cluj-Napoca,2,3.30,6.60
+1693,2023-09-06 15:00:41,swim-goggles,1406,Timișoara,1,9.90,9.90

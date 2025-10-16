@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3560,2024-04-26 15:56:45,usb-charger,241,Constanța,2,11.61,23.22
+3561,2024-04-26 12:18:47,board-game,1202,Constanța,1,21.96,21.96
+3562,2024-04-26 15:39:02,garden-hose,35,Brașov,1,18.99,18.99
+3563,2024-04-26 21:57:23,headphones,1229,București,1,21.47,21.47
+3564,2024-04-26 12:44:47,scented-candle,853,Constanța,1,6.60,6.60
+3565,2024-04-26 18:57:06,headphones,894,Cluj-Napoca,1,21.47,21.47
+3566,2024-04-26 15:50:26,usb-charger,1350,București,1,11.61,11.61

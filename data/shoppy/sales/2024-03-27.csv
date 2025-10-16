@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3259,2024-03-27 15:58:30,winter-gloves,920,Brașov,1,17.06,17.06
+3260,2024-03-27 15:05:47,paperback-novel,15,Timișoara,2,8.90,17.80
+3261,2024-03-27 12:14:17,usb-charger,1307,Timișoara,1,11.61,11.61
+3262,2024-03-27 18:40:45,paperback-novel,755,Constanța,2,8.90,17.80
+3263,2024-03-27 15:12:41,headphones,265,Timișoara,1,21.47,21.47
+3264,2024-03-27 15:41:45,notebook-a5,75,Constanța,2,3.30,6.60
+3265,2024-03-27 12:22:45,swim-goggles,1197,Timișoara,1,9.90,9.90

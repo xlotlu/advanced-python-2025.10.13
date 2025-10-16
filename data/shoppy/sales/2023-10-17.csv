@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1923,2023-10-17 18:43:00,scented-candle,88,Brașov,1,6.60,6.60
+1924,2023-10-17 21:58:59,garden-hose,1020,Cluj-Napoca,1,18.99,18.99
+1925,2023-10-17 12:20:33,usb-charger,671,București,1,11.61,11.61
+1926,2023-10-17 15:18:55,garden-hose,818,București,3,18.99,56.97

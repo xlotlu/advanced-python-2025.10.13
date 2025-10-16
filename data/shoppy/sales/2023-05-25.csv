@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+998,2023-05-25 15:12:40,paperback-novel,60,Timișoara,1,8.90,8.90
+999,2023-05-25 15:05:38,paperback-novel,1169,Cluj-Napoca,1,8.90,8.90
+1000,2023-05-25 12:15:10,winter-gloves,1166,București,2,14.90,29.80
+1001,2023-05-25 21:01:47,paperback-novel,1232,Brașov,1,8.90,8.90
+1002,2023-05-25 15:55:12,notebook-a5,331,București,1,2.99,2.99

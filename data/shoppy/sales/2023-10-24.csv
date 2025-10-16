@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1962,2023-10-24 21:22:24,winter-gloves,600,Cluj-Napoca,1,17.06,17.06
+1963,2023-10-24 15:52:28,beach-ball,1109,Constanța,1,4.37,4.37
+1964,2023-10-24 12:28:36,winter-gloves,107,Timișoara,2,17.06,34.12
+1965,2023-10-24 18:01:41,headphones,243,Cluj-Napoca,1,21.47,21.47

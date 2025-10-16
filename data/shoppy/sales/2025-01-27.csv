@@ -1,0 +1,15 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+6070,2025-01-27 18:07:36,winter-gloves,829,București,1,17.06,17.06
+6071,2025-01-27 12:42:45,winter-gloves,491,Brașov,2,17.06,34.12
+6072,2025-01-27 15:50:01,usb-charger,353,Cluj-Napoca,1,13.68,13.68
+6073,2025-01-27 12:59:32,beach-ball,966,București,1,4.50,4.50
+6074,2025-01-27 09:34:55,beach-ball,287,Timișoara,1,4.50,4.50
+6075,2025-01-27 15:08:47,swim-goggles,342,București,3,10.82,32.46
+6076,2025-01-27 15:22:24,beach-ball,101,Timișoara,1,4.50,4.50
+6077,2025-01-27 12:24:04,paperback-novel,916,Constanța,1,10.15,10.15
+6078,2025-01-27 21:18:30,swim-goggles,1099,Cluj-Napoca,2,10.82,21.64
+6079,2025-01-27 18:57:36,swim-goggles,1258,Brașov,2,10.82,21.64
+6080,2025-01-27 21:12:36,winter-gloves,91,Constanța,1,17.06,17.06
+6081,2025-01-27 09:25:32,garden-hose,1088,Brașov,1,18.03,18.03
+6082,2025-01-27 15:27:49,winter-gloves,80,Cluj-Napoca,1,17.06,17.06
+6083,2025-01-27 12:27:01,swim-goggles,489,Iași,2,10.82,21.64

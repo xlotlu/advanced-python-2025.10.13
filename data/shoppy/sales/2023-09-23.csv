@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1780,2023-09-23 21:36:38,beach-ball,1456,Timișoara,3,4.37,13.11
+1781,2023-09-23 12:40:47,swim-goggles,27,Brașov,1,9.90,9.90
+1782,2023-09-23 21:17:59,beach-ball,1464,Brașov,1,4.37,4.37
+1783,2023-09-23 12:45:28,winter-gloves,1020,Cluj-Napoca,1,17.06,17.06
+1784,2023-09-23 18:06:15,doll-classic,764,Constanța,2,15.90,31.80
+1785,2023-09-23 18:08:32,garden-hose,192,Iași,1,18.99,18.99
+1786,2023-09-23 15:25:12,usb-charger,6,Cluj-Napoca,2,11.61,23.22

@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+992,2023-05-24 15:36:27,board-game,851,Brașov,1,19.90,19.90
+993,2023-05-24 21:35:47,scented-candle,1006,Timișoara,1,5.31,5.31
+994,2023-05-24 15:24:38,scented-candle,253,Constanța,1,5.31,5.31
+995,2023-05-24 21:36:18,board-game,366,Timișoara,1,19.90,19.90
+996,2023-05-24 21:25:35,notebook-a5,837,Brașov,1,2.99,2.99
+997,2023-05-24 21:17:20,doll-classic,744,Timișoara,1,15.90,15.90

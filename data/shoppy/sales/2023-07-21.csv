@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1386,2023-07-21 09:57:30,swim-goggles,88,Brașov,2,9.90,19.80
+1387,2023-07-21 15:16:10,usb-charger,1211,București,1,11.61,11.61
+1388,2023-07-21 12:21:10,scented-candle,380,Cluj-Napoca,2,6.60,13.20
+1389,2023-07-21 21:40:51,paperback-novel,35,Brașov,1,8.90,8.90
+1390,2023-07-21 12:47:52,usb-charger,1398,Iași,1,11.61,11.61
+1391,2023-07-21 09:33:56,headphones,560,București,3,21.47,64.41

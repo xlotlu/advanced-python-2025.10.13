@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+684,2023-04-13 12:41:09,beach-ball,656,Timișoara,2,3.99,7.98
+685,2023-04-13 18:30:52,board-game,138,Cluj-Napoca,1,19.90,19.90
+686,2023-04-13 18:09:05,board-game,662,Brașov,1,19.90,19.90
+687,2023-04-13 15:20:31,scented-candle,869,Constanța,1,5.90,5.90
+688,2023-04-13 15:40:21,headphones,284,Brașov,3,19.90,59.70
+689,2023-04-13 12:26:35,garden-hose,1019,Iași,1,16.90,16.90

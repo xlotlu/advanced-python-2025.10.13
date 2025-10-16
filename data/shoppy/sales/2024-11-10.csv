@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5268,2024-11-10 12:32:27,garden-hose,482,Iași,3,18.03,54.09
+5269,2024-11-10 12:42:19,usb-charger,1474,Iași,2,13.68,27.36
+5270,2024-11-10 21:01:42,swim-goggles,827,București,1,10.82,10.82
+5271,2024-11-10 12:26:55,notebook-a5,919,Timișoara,1,3.44,3.44
+5272,2024-11-10 15:24:52,garden-hose,1454,București,1,18.03,18.03
+5273,2024-11-10 21:37:18,garden-hose,301,Cluj-Napoca,1,18.03,18.03

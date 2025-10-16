@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5315,2024-11-16 12:18:59,beach-ball,251,București,1,4.50,4.50
+5316,2024-11-16 15:05:58,scented-candle,717,Cluj-Napoca,2,6.42,12.84
+5317,2024-11-16 15:47:53,garden-hose,173,Timișoara,2,18.03,36.06
+5318,2024-11-16 15:37:22,usb-charger,1471,Brașov,1,13.68,13.68
+5319,2024-11-16 15:16:15,scented-candle,1284,Brașov,1,6.42,6.42
+5320,2024-11-16 15:08:35,swim-goggles,626,Brașov,1,10.82,10.82
+5321,2024-11-16 15:41:42,beach-ball,352,București,1,4.50,4.50
+5322,2024-11-16 12:57:09,paperback-novel,1265,Constanța,1,10.15,10.15

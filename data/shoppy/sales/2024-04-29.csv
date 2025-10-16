@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3591,2024-04-29 18:04:13,doll-classic,1055,Constanța,3,15.90,47.70
+3592,2024-04-29 18:33:20,usb-charger,1016,Constanța,2,11.61,23.22
+3593,2024-04-29 12:21:20,headphones,1197,Timișoara,1,21.47,21.47
+3594,2024-04-29 21:43:49,usb-charger,921,Timișoara,2,11.61,23.22
+3595,2024-04-29 18:50:23,winter-gloves,943,Brașov,1,17.06,17.06
+3596,2024-04-29 09:56:22,headphones,691,București,1,21.47,21.47
+3597,2024-04-29 21:40:47,board-game,981,Brașov,1,21.96,21.96
+3598,2024-04-29 12:38:16,winter-gloves,440,Timișoara,1,17.06,17.06
+3599,2024-04-29 12:02:23,scented-candle,842,Cluj-Napoca,2,6.60,13.20

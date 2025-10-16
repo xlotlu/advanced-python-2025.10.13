@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4897,2024-09-19 12:47:53,scented-candle,761,Cluj-Napoca,1,6.42,6.42
+4898,2024-09-19 21:17:22,usb-charger,454,Cluj-Napoca,1,13.68,13.68
+4899,2024-09-19 18:56:33,board-game,742,Timișoara,1,21.96,21.96
+4900,2024-09-19 12:21:32,headphones,479,Brașov,1,21.47,21.47
+4901,2024-09-19 18:51:32,usb-charger,1430,Iași,1,13.68,13.68
+4902,2024-09-19 15:36:57,swim-goggles,341,Brașov,1,10.82,10.82
+4903,2024-09-19 21:02:18,swim-goggles,268,Brașov,1,10.82,10.82

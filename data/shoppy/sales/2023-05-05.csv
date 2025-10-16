@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+856,2023-05-05 18:54:34,usb-charger,950,București,1,11.61,11.61
+857,2023-05-05 18:16:10,usb-charger,781,București,1,11.61,11.61
+858,2023-05-05 12:00:17,headphones,1398,Iași,12,19.90,238.80
+859,2023-05-05 12:34:18,scented-candle,692,Brașov,1,5.31,5.31
+860,2023-05-05 12:17:42,paperback-novel,514,Timișoara,1,8.90,8.90
+861,2023-05-05 15:07:19,garden-hose,1165,Iași,2,15.21,30.42

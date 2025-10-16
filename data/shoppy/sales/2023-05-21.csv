@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+970,2023-05-21 12:43:52,board-game,985,Timișoara,1,19.90,19.90
+971,2023-05-21 15:10:25,swim-goggles,1398,Iași,3,9.90,29.70
+972,2023-05-21 18:22:43,headphones,208,Timișoara,1,19.90,19.90
+973,2023-05-21 18:10:20,winter-gloves,264,București,1,14.90,14.90
+974,2023-05-21 15:31:41,paperback-novel,1373,Brașov,1,8.90,8.90
+975,2023-05-21 12:16:47,usb-charger,1299,București,1,11.61,11.61
+976,2023-05-21 21:32:23,board-game,970,Brașov,2,19.90,39.80
+977,2023-05-21 21:07:50,winter-gloves,367,Constanța,2,14.90,29.80
+978,2023-05-21 15:43:05,scented-candle,308,Brașov,1,5.31,5.31

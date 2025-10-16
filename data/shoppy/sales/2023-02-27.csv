@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+362,2023-02-27 15:55:53,garden-hose,132,Timișoara,2,16.90,33.80
+363,2023-02-27 12:18:41,winter-gloves,329,Timișoara,2,14.90,29.80
+364,2023-02-27 15:07:09,doll-classic,394,Constanța,1,15.90,15.90
+365,2023-02-27 12:31:35,beach-ball,894,Cluj-Napoca,1,3.99,3.99
+366,2023-02-27 12:17:08,usb-charger,60,Timișoara,2,11.61,23.22

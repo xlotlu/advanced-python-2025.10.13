@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5443,2024-11-30 12:12:38,doll-classic,552,Timișoara,1,16.72,16.72
+5444,2024-11-30 15:36:33,notebook-a5,1261,Timișoara,2,3.44,6.88
+5445,2024-11-30 12:16:34,doll-classic,846,Constanța,1,16.72,16.72
+5446,2024-11-30 15:46:29,swim-goggles,1442,Timișoara,2,10.82,21.64

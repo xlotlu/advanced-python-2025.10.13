@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1717,2023-09-11 15:21:32,beach-ball,644,Constanța,1,4.37,4.37
+1718,2023-09-11 15:18:45,scented-candle,185,Brașov,1,6.60,6.60
+1719,2023-09-11 12:38:11,paperback-novel,153,Cluj-Napoca,1,8.90,8.90
+1720,2023-09-11 18:35:09,beach-ball,575,Cluj-Napoca,1,4.37,4.37

@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+28,2023-01-07 21:53:14,winter-gloves,1298,Constanța,1,14.90,14.90
+29,2023-01-07 18:34:47,winter-gloves,1236,Constanța,1,14.90,14.90
+30,2023-01-07 12:28:11,swim-goggles,1399,Constanța,1,9.90,9.90
+31,2023-01-07 18:07:24,beach-ball,84,Iași,3,3.99,11.97
+32,2023-01-07 12:37:54,headphones,523,Constanța,1,19.90,19.90
+33,2023-01-07 21:02:09,beach-ball,661,Timișoara,1,3.99,3.99

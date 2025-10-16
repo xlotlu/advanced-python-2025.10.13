@@ -1,0 +1,13 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4088,2024-06-15 15:29:40,scented-candle,207,Timișoara,1,6.60,6.60
+4089,2024-06-15 12:42:54,paperback-novel,668,Brașov,1,8.90,8.90
+4090,2024-06-15 21:12:37,headphones,836,Brașov,1,21.47,21.47
+4091,2024-06-15 12:52:28,headphones,413,Constanța,1,21.47,21.47
+4092,2024-06-15 12:38:00,paperback-novel,1210,București,1,8.90,8.90
+4093,2024-06-15 21:57:35,scented-candle,1339,Timișoara,13,6.60,85.80
+4094,2024-06-15 12:42:03,headphones,725,Brașov,1,21.47,21.47
+4095,2024-06-15 15:03:54,headphones,330,Cluj-Napoca,1,21.47,21.47
+4096,2024-06-15 12:37:51,doll-classic,361,Iași,3,15.90,47.70
+4097,2024-06-15 12:17:31,usb-charger,1042,Brașov,2,11.61,23.22
+4098,2024-06-15 15:33:03,scented-candle,627,Constanța,1,6.60,6.60
+4099,2024-06-15 12:07:53,beach-ball,647,Timișoara,1,4.37,4.37

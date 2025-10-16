@@ -1,0 +1,7 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+314,2023-02-20 18:38:05,winter-gloves,295,Iași,1,14.90,14.90
+315,2023-02-20 21:21:04,board-game,1210,București,1,19.90,19.90
+316,2023-02-20 15:58:17,garden-hose,849,Timișoara,1,16.90,16.90
+317,2023-02-20 15:58:08,board-game,409,Brașov,1,19.90,19.90
+318,2023-02-20 15:02:52,board-game,619,Iași,1,19.90,19.90
+319,2023-02-20 15:29:14,garden-hose,55,Cluj-Napoca,1,16.90,16.90

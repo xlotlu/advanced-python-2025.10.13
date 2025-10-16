@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1210,2023-06-23 21:30:50,notebook-a5,575,Cluj-Napoca,1,2.99,2.99
+1211,2023-06-23 12:12:57,headphones,261,Cluj-Napoca,1,19.90,19.90
+1212,2023-06-23 15:58:14,scented-candle,1451,Brașov,1,5.31,5.31
+1213,2023-06-23 18:31:36,paperback-novel,963,Cluj-Napoca,1,8.90,8.90
+1214,2023-06-23 21:24:48,notebook-a5,304,Constanța,1,2.99,2.99
+1215,2023-06-23 15:38:57,paperback-novel,1491,Cluj-Napoca,1,8.90,8.90
+1216,2023-06-23 18:50:49,doll-classic,566,București,1,15.90,15.90
+1217,2023-06-23 18:30:15,winter-gloves,458,Cluj-Napoca,1,14.90,14.90
+1218,2023-06-23 18:30:35,paperback-novel,300,Brașov,1,8.90,8.90
+1219,2023-06-23 15:20:38,notebook-a5,1099,Cluj-Napoca,3,2.99,8.97

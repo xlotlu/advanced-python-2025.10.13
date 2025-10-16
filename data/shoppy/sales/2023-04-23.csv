@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+749,2023-04-23 21:59:12,garden-hose,513,Iași,1,15.21,15.21
+750,2023-04-23 21:17:25,board-game,211,Brașov,1,19.90,19.90
+751,2023-04-23 12:50:13,paperback-novel,1479,Timișoara,1,8.90,8.90
+752,2023-04-23 15:47:17,headphones,653,Brașov,2,19.90,39.80
+753,2023-04-23 15:36:22,paperback-novel,766,Timișoara,1,8.90,8.90
+754,2023-04-23 15:56:02,scented-candle,1048,București,2,5.90,11.80
+755,2023-04-23 15:56:41,doll-classic,1087,Iași,1,15.90,15.90
+756,2023-04-23 12:20:27,doll-classic,381,București,1,15.90,15.90
+757,2023-04-23 18:23:09,usb-charger,644,Constanța,1,11.61,11.61
+758,2023-04-23 09:21:13,board-game,954,Timișoara,1,19.90,19.90
+759,2023-04-23 12:04:24,paperback-novel,581,Timișoara,1,8.90,8.90

@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1640,2023-08-29 18:35:14,board-game,683,Constanța,2,21.96,43.92
+1641,2023-08-29 18:29:37,garden-hose,1349,Brașov,1,18.99,18.99
+1642,2023-08-29 12:02:56,paperback-novel,1239,Constanța,1,8.90,8.90
+1643,2023-08-29 12:39:24,scented-candle,786,Brașov,1,6.60,6.60
+1644,2023-08-29 21:27:01,headphones,545,Constanța,1,21.47,21.47

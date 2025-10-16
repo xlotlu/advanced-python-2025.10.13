@@ -1,0 +1,27 @@
+item_id,effective_from,new_unit_price,reason
+beach-ball,2023-07-01 00:00:00,4.37,seasonal
+beach-ball,2024-07-01 00:00:00,4.50,seasonal
+beach-ball,2025-07-01 00:00:00,4.25,seasonal
+swim-goggles,2024-07-01 00:00:00,10.82,seasonal
+swim-goggles,2025-07-01 00:00:00,10.82,seasonal
+board-game,2023-07-01 00:00:00,21.96,seasonal
+doll-classic,2024-07-01 00:00:00,16.72,seasonal
+doll-classic,2025-07-01 00:00:00,17.86,seasonal
+usb-charger,2023-02-05 00:00:00,11.61,promo
+usb-charger,2024-07-01 00:00:00,13.68,seasonal
+usb-charger,2025-07-01 00:00:00,13.94,seasonal
+headphones,2023-07-01 00:00:00,21.47,seasonal
+headphones,2025-07-01 00:00:00,21.57,seasonal
+paperback-novel,2024-11-01 00:00:00,10.15,seasonal
+winter-gloves,2023-07-01 00:00:00,17.06,seasonal
+winter-gloves,2025-07-01 00:00:00,15.99,seasonal
+garden-hose,2023-04-22 00:00:00,15.21,promo
+garden-hose,2023-07-01 00:00:00,18.99,seasonal
+garden-hose,2024-07-01 00:00:00,18.03,seasonal
+garden-hose,2025-07-01 00:00:00,18.84,seasonal
+notebook-a5,2023-07-01 00:00:00,3.30,seasonal
+notebook-a5,2024-07-01 00:00:00,3.44,seasonal
+scented-candle,2023-04-29 00:00:00,5.31,promo
+scented-candle,2023-07-01 00:00:00,6.60,seasonal
+scented-candle,2024-07-01 00:00:00,6.42,seasonal
+scented-candle,2025-07-01 00:00:00,6.47,seasonal

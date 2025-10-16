@@ -1,0 +1,5 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4272,2024-07-05 15:45:26,garden-hose,161,București,1,18.03,18.03
+4273,2024-07-05 12:45:18,notebook-a5,1306,Constanța,2,3.44,6.88
+4274,2024-07-05 12:04:07,doll-classic,1459,Brașov,1,16.72,16.72
+4275,2024-07-05 12:40:21,headphones,1291,Brașov,1,21.47,21.47

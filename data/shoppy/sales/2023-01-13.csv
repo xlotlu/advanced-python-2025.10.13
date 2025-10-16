@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+59,2023-01-13 15:41:57,swim-goggles,160,Iași,1,9.90,9.90
+60,2023-01-13 21:33:25,paperback-novel,723,Brașov,1,8.90,8.90
+61,2023-01-13 18:56:38,garden-hose,14,Iași,1,16.90,16.90
+62,2023-01-13 12:04:32,paperback-novel,1318,Timișoara,1,8.90,8.90
+63,2023-01-13 12:38:45,doll-classic,243,Cluj-Napoca,1,15.90,15.90
+64,2023-01-13 12:07:30,winter-gloves,1383,Iași,1,14.90,14.90
+65,2023-01-13 12:53:26,headphones,46,Brașov,1,19.90,19.90

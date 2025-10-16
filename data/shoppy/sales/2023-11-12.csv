@@ -1,0 +1,9 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2083,2023-11-12 12:36:01,swim-goggles,588,Constanța,1,9.90,9.90
+2084,2023-11-12 12:02:03,winter-gloves,952,Brașov,2,17.06,34.12
+2085,2023-11-12 12:26:01,paperback-novel,111,Cluj-Napoca,1,8.90,8.90
+2086,2023-11-12 15:29:05,beach-ball,61,București,1,4.37,4.37
+2087,2023-11-12 21:12:57,beach-ball,261,Cluj-Napoca,2,4.37,8.74
+2088,2023-11-12 09:05:08,paperback-novel,61,București,18,8.90,160.20
+2089,2023-11-12 15:23:00,winter-gloves,1020,Cluj-Napoca,1,17.06,17.06
+2090,2023-11-12 12:52:49,garden-hose,1497,Brașov,1,18.99,18.99

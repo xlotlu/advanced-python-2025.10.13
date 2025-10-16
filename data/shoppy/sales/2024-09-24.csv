@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4931,2024-09-24 15:47:46,headphones,1277,Timișoara,1,21.47,21.47
+4932,2024-09-24 12:18:16,swim-goggles,956,Iași,1,10.82,10.82
+4933,2024-09-24 15:23:19,swim-goggles,559,Timișoara,1,10.82,10.82
+4934,2024-09-24 15:04:03,board-game,1233,București,1,21.96,21.96
+4935,2024-09-24 15:35:30,board-game,568,Iași,1,21.96,21.96

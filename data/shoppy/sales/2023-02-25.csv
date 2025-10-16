@@ -1,0 +1,6 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+347,2023-02-25 15:19:45,notebook-a5,797,Timișoara,1,2.99,2.99
+348,2023-02-25 18:42:35,headphones,1404,Brașov,1,19.90,19.90
+349,2023-02-25 15:10:32,paperback-novel,115,București,1,8.90,8.90
+350,2023-02-25 21:39:43,usb-charger,723,Brașov,1,11.61,11.61
+351,2023-02-25 09:37:02,garden-hose,263,Constanța,1,16.90,16.90

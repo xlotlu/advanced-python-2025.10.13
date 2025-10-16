@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5644,2024-12-20 21:19:50,scented-candle,682,Iași,1,6.42,6.42
+5645,2024-12-20 15:32:51,garden-hose,332,București,1,18.03,18.03
+5646,2024-12-20 15:46:48,scented-candle,851,Brașov,1,6.42,6.42
+5647,2024-12-20 18:19:38,garden-hose,1300,Cluj-Napoca,1,18.03,18.03
+5648,2024-12-20 18:14:53,swim-goggles,1434,Cluj-Napoca,1,10.82,10.82
+5649,2024-12-20 12:51:40,winter-gloves,956,Iași,1,17.06,17.06
+5650,2024-12-20 15:57:23,winter-gloves,1377,Timișoara,1,17.06,17.06
+5651,2024-12-20 09:19:56,headphones,183,Iași,3,21.47,64.41
+5652,2024-12-20 18:33:06,beach-ball,1304,Iași,1,4.50,4.50

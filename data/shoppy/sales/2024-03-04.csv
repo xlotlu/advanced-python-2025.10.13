@@ -1,0 +1,8 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+3030,2024-03-04 18:05:33,headphones,1403,București,1,21.47,21.47
+3031,2024-03-04 15:22:40,usb-charger,73,București,1,11.61,11.61
+3032,2024-03-04 21:48:35,winter-gloves,1099,Cluj-Napoca,1,17.06,17.06
+3033,2024-03-04 12:02:00,winter-gloves,982,Timișoara,1,17.06,17.06
+3034,2024-03-04 12:00:46,scented-candle,1308,Timișoara,1,6.60,6.60
+3035,2024-03-04 18:55:18,scented-candle,917,Cluj-Napoca,1,6.60,6.60
+3036,2024-03-04 12:26:18,board-game,37,Brașov,1,21.96,21.96

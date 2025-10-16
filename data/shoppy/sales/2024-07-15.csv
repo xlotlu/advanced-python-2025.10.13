@@ -1,0 +1,11 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+4351,2024-07-15 21:23:33,board-game,442,Cluj-Napoca,1,21.96,21.96
+4352,2024-07-15 18:32:13,beach-ball,871,Iași,1,4.50,4.50
+4353,2024-07-15 21:27:28,notebook-a5,332,București,1,3.44,3.44
+4354,2024-07-15 12:26:02,board-game,818,București,1,21.96,21.96
+4355,2024-07-15 21:36:22,usb-charger,920,Brașov,1,13.68,13.68
+4356,2024-07-15 18:20:18,notebook-a5,206,Iași,1,3.44,3.44
+4357,2024-07-15 18:40:42,notebook-a5,906,Constanța,1,3.44,3.44
+4358,2024-07-15 15:00:18,headphones,81,Iași,1,21.47,21.47
+4359,2024-07-15 18:34:41,board-game,1260,Iași,1,21.96,21.96
+4360,2024-07-15 09:34:58,garden-hose,656,Timișoara,1,18.03,18.03

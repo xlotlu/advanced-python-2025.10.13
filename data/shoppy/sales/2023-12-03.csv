@@ -1,0 +1,4 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+2226,2023-12-03 15:51:57,usb-charger,138,Cluj-Napoca,1,11.61,11.61
+2227,2023-12-03 18:33:23,usb-charger,1060,București,1,11.61,11.61
+2228,2023-12-03 21:09:28,garden-hose,974,Cluj-Napoca,1,18.99,18.99

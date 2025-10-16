@@ -1,0 +1,12 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+1172,2023-06-19 15:44:17,usb-charger,1414,București,1,11.61,11.61
+1173,2023-06-19 12:09:58,notebook-a5,912,Constanța,1,2.99,2.99
+1174,2023-06-19 21:30:24,swim-goggles,977,Cluj-Napoca,1,9.90,9.90
+1175,2023-06-19 18:52:23,board-game,904,Constanța,1,19.90,19.90
+1176,2023-06-19 21:31:42,paperback-novel,1161,Iași,1,8.90,8.90
+1177,2023-06-19 09:23:04,doll-classic,363,Constanța,1,15.90,15.90
+1178,2023-06-19 15:09:07,board-game,1370,Cluj-Napoca,1,19.90,19.90
+1179,2023-06-19 12:50:50,board-game,171,Timișoara,1,19.90,19.90
+1180,2023-06-19 15:39:57,doll-classic,1209,Brașov,3,15.90,47.70
+1181,2023-06-19 21:12:32,usb-charger,574,Constanța,1,11.61,11.61
+1182,2023-06-19 09:20:57,scented-candle,342,București,2,5.31,10.62

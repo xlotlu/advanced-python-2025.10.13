@@ -1,0 +1,10 @@
+sale_id,timestamp,item_id,customer_id,city,quantity,unit_price,total_price
+5209,2024-11-02 12:28:26,beach-ball,173,Timișoara,1,4.50,4.50
+5210,2024-11-02 12:46:45,garden-hose,460,Cluj-Napoca,1,18.03,18.03
+5211,2024-11-02 21:24:49,winter-gloves,1320,Constanța,1,17.06,17.06
+5212,2024-11-02 18:32:21,winter-gloves,898,Iași,1,17.06,17.06
+5213,2024-11-02 15:19:28,board-game,804,Brașov,1,21.96,21.96
+5214,2024-11-02 18:41:16,garden-hose,369,Timișoara,1,18.03,18.03
+5215,2024-11-02 12:59:37,garden-hose,340,Brașov,1,18.03,18.03
+5216,2024-11-02 18:10:54,winter-gloves,416,Cluj-Napoca,1,17.06,17.06
+5217,2024-11-02 18:20:04,swim-goggles,327,Constanța,1,10.82,10.82
